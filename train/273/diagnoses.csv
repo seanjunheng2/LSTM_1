@@ -1,0 +1,16 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+273,158689,1,96501,Poisoning-heroin,Poisoning by heroin,241507,Substance-related disorders,0
+273,158689,2,30421,Cocaine depend-contin,"Cocaine dependence, continuous",241507,Substance-related disorders,0
+273,158689,3,07070,Hpt C w/o hepat coma NOS,Unspecified viral hepatitis C without hepatic coma,241507,Hepatitis,0
+273,158689,4,07030,Hpt B acte wo cm wo dlta,"Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta",241507,Hepatitis,0
+273,158689,5,51881,Acute respiratry failure,Acute respiratory failure,241507,Respiratory failure; insufficiency; arrest (adult),1
+273,158689,6,30401,Opioid dependence-contin,"Opioid type dependence, continuous",241507,Substance-related disorders,0
+273,158689,7,4280,CHF NOS,"Congestive heart failure, unspecified",241507,Congestive heart failure; nonhypertensive,1
+273,158689,8,2920,Drug withdrawal,Drug withdrawal,241507,Substance-related disorders,0
+273,158689,9,30431,Cannabis depend-contin,"Cannabis dependence, continuous",241507,Substance-related disorders,0
+273,158689,11,9696,Poisoning-hallucinogens,Poisoning by psychodysleptics (hallucinogens),241507,Poisoning by psychotropic agents,0
+273,158689,12,E8500,Acc poison-heroin,Accidental poisoning by heroin,241507,Poisoning,0
+273,158689,13,E8543,Acc poison-cns stimulant,Accidental poisoning by central nervous system stimulants,241507,Poisoning,0
+273,158689,14,E8541,Acc poison-hallucinogens,Accidental poisoning by psychodysleptics [hallucinogens],241507,Poisoning,0
+273,158689,15,E8498,Accident in place NEC,Accidents occurring in other specified places,241507,Place of occurrence,0
+273,158689,16,3051,Tobacco use disorder,Tobacco use disorder,241507,Screening and history of mental health and substance abuse codes,0

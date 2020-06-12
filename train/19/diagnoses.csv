@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+19,109235,1,80502,Fx c2 vertebra-closed,Closed fracture of second cervical vertebra,273430,Other fractures,0
+19,109235,2,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",273430,Urinary tract infections,0
+19,109235,3,5964,Atony of bladder,Atony of bladder,273430,Other diseases of bladder and urethra,0
+19,109235,4,E8809,Fall on stair/step NEC,Accidental fall on or from other stairs or steps,273430,Fall,0
+19,109235,5,8220,Fracture patella-closed,Closed fracture of patella,273430,Fracture of lower limb,0
+19,109235,6,73300,Osteoporosis NOS,"Osteoporosis, unspecified",273430,Osteoporosis,0
+19,109235,7,2948,Mental disor NEC oth dis,Other persistent mental disorders due to conditions classified elsewhere,273430,"Delirium, dementia, and amnestic and other cognitive disorders",0
+19,109235,8,4019,Hypertension NOS,Unspecified essential hypertension,273430,Essential hypertension,1
+19,109235,9,44321,Dissect carotid artery,Dissection of carotid artery,273430,Aortic; peripheral; and visceral artery aneurysms,0

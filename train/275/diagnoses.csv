@@ -1,0 +1,16 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+275,129886,1,0389,Septicemia NOS,Unspecified septicemia,219649,Septicemia (except in labor),1
+275,129886,2,51881,Acute respiratry failure,Acute respiratory failure,219649,Respiratory failure; insufficiency; arrest (adult),1
+275,129886,3,78552,Septic shock,Septic shock,219649,Shock,1
+275,129886,4,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",219649,Acute and unspecified renal failure,1
+275,129886,6,2869,Coagulat defect NEC/NOS,Other and unspecified coagulation defects,219649,Coagulation and hemorrhagic disorders,0
+275,129886,7,85221,Subdural hem w/o coma,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",219649,Intracranial injury,0
+275,129886,8,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",219649,Urinary tract infections,0
+275,129886,9,99592,Severe sepsis,Severe sepsis,219649,Septicemia (except in labor),1
+275,129886,10,3320,Paralysis agitans,Paralysis agitans,219649,Parkinson`s disease,0
+275,129886,11,V667,Encountr palliative care,Encounter for palliative care,219649,Other aftercare,0
+275,129886,12,33182,Dementia w Lewy bodies,Dementia with lewy bodies,219649,"Delirium, dementia, and amnestic and other cognitive disorders",0
+275,129886,13,29410,Dementia w/o behav dist,Dementia in conditions classified elsewhere without behavioral disturbance,219649,"Delirium, dementia, and amnestic and other cognitive disorders",0
+275,129886,14,4019,Hypertension NOS,Unspecified essential hypertension,219649,Essential hypertension,1
+275,129886,15,E8889,Fall NOS,Unspecified fall,219649,Fall,0
+275,129886,16,V1582,History of tobacco use,Personal history of tobacco use,219649,Screening and history of mental health and substance abuse codes,0

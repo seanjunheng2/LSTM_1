@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+169,192839,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,262856,Coronary atherosclerosis and other heart disease,1
+169,192839,2,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris,262856,Coronary atherosclerosis and other heart disease,1
+169,192839,3,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",262856,Complications of surgical procedures or medical care,1
+169,192839,4,42731,Atrial fibrillation,Atrial fibrillation,262856,Cardiac dysrhythmias,1
+169,192839,5,2749,Gout NOS,"Gout, unspecified",262856,Gout and other crystal arthropathies,0
+169,192839,6,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,262856,Disorders of lipid metabolism,1
+169,192839,7,V1582,History of tobacco use,Personal history of tobacco use,262856,Screening and history of mental health and substance abuse codes,0
+169,192839,8,V1301,Prsnl hst urnr dsrd calc,Personal history of urinary calculi,262856,Calculus of urinary tract,0
+169,192839,9,4019,Hypertension NOS,Unspecified essential hypertension,262856,Essential hypertension,1

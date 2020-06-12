@@ -1,0 +1,17 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+234,188399,1,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",252814,Acute myocardial infarction,1
+234,188399,2,4280,CHF NOS,"Congestive heart failure, unspecified",252814,Congestive heart failure; nonhypertensive,1
+234,188399,3,0389,Septicemia NOS,Unspecified septicemia,252814,Septicemia (except in labor),1
+234,188399,4,99592,Severe sepsis,Severe sepsis,252814,Septicemia (except in labor),1
+234,188399,5,78552,Septic shock,Septic shock,252814,Shock,1
+234,188399,6,78551,Cardiogenic shock,Cardiogenic shock,252814,Shock,1
+234,188399,7,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",252814,Urinary tract infections,0
+234,188399,8,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",252814,Chronic ulcer of skin,0
+234,188399,9,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",252814,Hypertension with complications and secondary hypertension,1
+234,188399,10,74190,Spina bifida,"Spina bifida without mention of hydrocephalus, unspecified region",252814,Nervous system congenital anomalies,0
+234,188399,11,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,252814,Coronary atherosclerosis and other heart disease,1
+234,188399,12,0416,Proteus infection NOS,Proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site,252814,Bacterial infection; unspecified site,0
+234,188399,13,25040,DMII renl nt st uncntrld,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled",252814,Diabetes mellitus with complications,1
+234,188399,14,2859,Anemia NOS,"Anemia, unspecified",252814,Deficiency and other anemia,0
+234,188399,15,7847,Epistaxis,Epistaxis,252814,Other upper respiratory disease,1
+234,188399,16,3441,Paraplegia NOS,Paraplegia,252814,Paralysis,0

@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+155,147148,1,86401,Liver hematoma/contusion,"Injury to liver without mention of open wound into cavity, hematoma and contusion",295168,Crushing injury or internal injury,0
+155,147148,2,8028,Fx facial bone NEC-close,Closed fracture of other facial bones,295168,Skull and face fractures,0
+155,147148,3,8054,Fx lumbar vertebra-close,Closed fracture of lumbar vertebra without mention of spinal cord injury,295168,Other fractures,0
+155,147148,4,E9689,Assault NOS,Assault by unspecified means,295168,Unspecified,0
+155,147148,5,87349,Open wound of face NEC,"Open wound of other and multiple sites of face, without mention of complication",295168,Open wounds of head; neck; and trunk,0

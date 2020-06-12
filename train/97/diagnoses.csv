@@ -1,0 +1,8 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+97,127870,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,288376,Coronary atherosclerosis and other heart disease,1
+97,127870,2,4241,Aortic valve disorder,Aortic valve disorders,288376,Heart valve disorders,0
+97,127870,3,4111,Intermed coronary synd,Intermediate coronary syndrome,288376,Coronary atherosclerosis and other heart disease,1
+97,127870,4,42731,Atrial fibrillation,Atrial fibrillation,288376,Cardiac dysrhythmias,1
+97,127870,5,2720,Pure hypercholesterolem,Pure hypercholesterolemia,288376,Disorders of lipid metabolism,1
+97,127870,6,4019,Hypertension NOS,Unspecified essential hypertension,288376,Essential hypertension,1
+97,127870,7,4401,Renal artery atheroscler,Atherosclerosis of renal artery,288376,Peripheral and visceral atherosclerosis,0

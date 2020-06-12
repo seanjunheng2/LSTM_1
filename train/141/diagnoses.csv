@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+141,168006,1,80120,Cl skl base fx/menin hem,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, unspecified state of consciousness",234668,Intracranial injury,0
+141,168006,2,43491,Crbl art ocl NOS w infrc,"Cerebral artery occlusion, unspecified with cerebral infarction",234668,Acute cerebrovascular disease,1
+141,168006,3,51881,Acute respiratry failure,Acute respiratory failure,234668,Respiratory failure; insufficiency; arrest (adult),1
+141,168006,4,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis,234668,Acute and unspecified renal failure,1
+141,168006,5,25011,DMI keto nt st uncntrld,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled",234668,Diabetes mellitus with complications,1
+141,168006,6,87342,Open wound of forehead,"Open wound of forehead, without mention of complication",234668,Open wounds of head; neck; and trunk,0
+141,168006,7,V667,Encountr palliative care,Encounter for palliative care,234668,Other aftercare,0
+141,168006,8,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",234668,Urinary tract infections,0
+141,168006,9,E8889,Fall NOS,Unspecified fall,234668,Fall,0

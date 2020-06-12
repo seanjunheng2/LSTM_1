@@ -1,0 +1,29 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+256,188869,1,4413,Rupt abd aortic aneurysm,"Abdominal aneurysm, ruptured",254418,Aortic; peripheral; and visceral artery aneurysms,0
+256,188869,3,9961,Malfunc vasc device/graf,"Mechanical complication of other vascular device, implant, and graft",254418,Complication of device; implant or graft,0
+256,188869,4,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",254418,Acute and unspecified renal failure,1
+256,188869,5,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",254418,Urinary tract infections,0
+256,188869,6,9975,Surg compl-urinary tract,"Urinary complications, not elsewhere classified",254418,Complications of surgical procedures or medical care,1
+256,188869,7,5939,Renal & ureteral dis NOS,Unspecified disorder of kidney and ureter,254418,Other diseases of kidney and ureters,0
+256,188869,8,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",254418,Chronic obstructive pulmonary disease and bronchiectasis,1
+256,188869,9,4019,Hypertension NOS,Unspecified essential hypertension,254418,Essential hypertension,1
+256,188869,10,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,254418,Disorders of lipid metabolism,1
+256,188869,11,V1507,Hx-latex allergy,Allergy to latex,254418,Allergic reactions,0
+256,188869,12,2859,Anemia NOS,"Anemia, unspecified",254418,Deficiency and other anemia,0
+256,188869,13,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,254418,Phlebitis; thrombophlebitis and thromboembolism,0
+256,188869,14,412,Old myocardial infarct,Old myocardial infarction,254418,Coronary atherosclerosis and other heart disease,1
+256,155415,1,4414,Abdom aortic aneurysm,Abdominal aneurysm without mention of rupture,295852,Aortic; peripheral; and visceral artery aneurysms,0
+256,155415,2,4422,Iliac artery aneurysm,Aneurysm of iliac artery,295852,Aortic; peripheral; and visceral artery aneurysms,0
+256,155415,3,78820,Retention urine NOS,"Retention of urine, unspecified",295852,Genitourinary symptoms and ill-defined conditions,0
+256,155415,4,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",295852,Chronic obstructive pulmonary disease and bronchiectasis,1
+256,155415,5,2720,Pure hypercholesterolem,Pure hypercholesterolemia,295852,Disorders of lipid metabolism,1
+256,155415,6,4019,Hypertension NOS,Unspecified essential hypertension,295852,Essential hypertension,1
+256,153771,1,00845,Int inf clstrdium dfcile,Intestinal infection due to Clostridium difficile,296823,Intestinal infection,0
+256,153771,2,5780,Hematemesis,Hematemesis,296823,Gastrointestinal hemorrhage,1
+256,153771,3,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",296823,Urinary tract infections,0
+256,153771,4,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",296823,Chronic obstructive pulmonary disease and bronchiectasis,1
+256,153771,5,42731,Atrial fibrillation,Atrial fibrillation,296823,Cardiac dysrhythmias,1
+256,153771,6,2762,Acidosis,Acidosis,296823,Fluid and electrolyte disorders,1
+256,153771,7,7847,Epistaxis,Epistaxis,296823,Other upper respiratory disease,1
+256,153771,8,4414,Abdom aortic aneurysm,Abdominal aneurysm without mention of rupture,296823,Aortic; peripheral; and visceral artery aneurysms,0
+256,153771,9,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,296823,Coronary atherosclerosis and other heart disease,1

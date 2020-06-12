@@ -1,0 +1,5 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+88,123010,1,86113,Heart chamber lacer-opn,Laceration of heart with penetration of heart chambers with open wound into thorax,297289,Crushing injury or internal injury,0
+88,123010,2,5119,Pleural effusion NOS,Unspecified pleural effusion,297289,Pleurisy; pneumothorax; pulmonary collapse,1
+88,123010,3,4239,Pericardial disease NOS,Unspecified disease of pericardium,297289,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+88,123010,4,E966,Assault-cutting instr,Assault by cutting and piercing instrument,297289,Cut/pierceb,0

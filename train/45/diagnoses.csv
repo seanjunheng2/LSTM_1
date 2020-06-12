@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+45,157907,1,8249,Fx ankle NOS-open,"Unspecified fracture of ankle, open",274249,Fracture of lower limb,0
+45,157907,2,9984,FB left during procedure,Foreign body accidentally left during a procedure,274249,Complications of surgical procedures or medical care,1
+45,157907,3,8730,Open wound of scalp,"Open wound of scalp, without mention of complication",274249,Open wounds of head; neck; and trunk,0
+45,157907,4,87344,Open wound of jaw,"Open wound of jaw, without mention of complication",274249,Open wounds of head; neck; and trunk,0
+45,157907,5,9110,Abrasion trunk,"Abrasion or friction burn of trunk, without mention of infection",274249,Superficial injury; contusion,0
+45,157907,6,9130,Abrasion forearm,"Abrasion or friction burn of elbow, forearm, and wrist, without mention of infection",274249,Superficial injury; contusion,0
+45,157907,7,E8122,Mv collis NOS-motorcycl,Other motor vehicle traffic accident involving collision with motor vehicle injuring motorcyclist,274249,Motor vehicle traffic (MVT),0
+45,157907,8,3051,Tobacco use disorder,Tobacco use disorder,274249,Screening and history of mental health and substance abuse codes,0

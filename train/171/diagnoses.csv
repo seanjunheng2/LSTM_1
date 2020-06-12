@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+171,153112,1,99674,Comp-oth vasc dev/graft,"Other complications due to other vascular device, implant, and graft",274684,Complication of device; implant or graft,0
+171,153112,3,V4281,Trnspl status-bne marrow,Bone marrow replaced by transplant,274684,Residual codes; unclassified,0
+171,153112,4,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",274684,Acute and unspecified renal failure,1
+171,153112,5,20301,Mult myelm w remission,"Multiple myeloma, in remission",274684,Multiple myeloma,0
+171,153112,6,E8781,Abn react-artif implant,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation",274684,Adverse effects of medical care,0
+171,153112,7,4592,Compression of vein,Compression of vein,274684,Other diseases of veins and lymphatics,0
+171,153112,8,2113,Benign neoplasm lg bowel,Benign neoplasm of colon,274684,Other and unspecified benign neoplasm,0
+171,153112,9,2859,Anemia NOS,"Anemia, unspecified",274684,Deficiency and other anemia,0

@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+17,161087,1,4239,Pericardial disease NOS,Unspecified disease of pericardium,257980,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+17,161087,2,5119,Pleural effusion NOS,Unspecified pleural effusion,257980,Pleurisy; pneumothorax; pulmonary collapse,1
+17,161087,3,78551,Cardiogenic shock,Cardiogenic shock,257980,Shock,1
+17,161087,4,4589,Hypotension NOS,"Hypotension, unspecified",257980,Other circulatory disease,0
+17,161087,5,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",257980,Mood disorders,0
+17,161087,6,7220,Cervical disc displacmnt,Displacement of cervical intervertebral disc without myelopathy,257980,Spondylosis; intervertebral disc disorders; other back problems,0
+17,161087,7,71946,Joint pain-l/leg,"Pain in joint, lower leg",257980,Other non-traumatic joint disorders,0
+17,161087,8,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,257980,Disorders of lipid metabolism,1
+17,194023,1,7455,Secundum atrial sept def,Ostium secundum type atrial septal defect,277042,Cardiac and circulatory congenital anomalies,0
+17,194023,2,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension,277042,Complications of surgical procedures or medical care,1
+17,194023,3,V1259,Hx-circulatory dis NEC,Personal history of other diseases of circulatory system,277042,Other circulatory disease,0
+17,194023,4,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,277042,Disorders of lipid metabolism,1

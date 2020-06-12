@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+9,150750,1,431,Intracerebral hemorrhage,Intracerebral hemorrhage,220597,Acute cerebrovascular disease,1
+9,150750,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,220597,Aspiration pneumonitis; food/vomitus,0
+9,150750,3,4280,CHF NOS,"Congestive heart failure, unspecified",220597,Congestive heart failure; nonhypertensive,1
+9,150750,4,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",220597,Acute and unspecified renal failure,1
+9,150750,6,4019,Hypertension NOS,Unspecified essential hypertension,220597,Essential hypertension,1

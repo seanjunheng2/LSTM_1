@@ -1,0 +1,15 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+161,121804,1,1562,Mal neo ampulla of vater,Malignant neoplasm of ampulla of vater,218407,Cancer of other GI organs; peritoneum,0
+161,121804,2,78039,Convulsions NEC,Other convulsions,218407,Epilepsy; convulsions,0
+161,121804,3,5119,Pleural effusion NOS,Unspecified pleural effusion,218407,Pleurisy; pneumothorax; pulmonary collapse,1
+161,121804,4,99859,Other postop infection,Other postoperative infection,218407,Complications of surgical procedures or medical care,1
+161,121804,5,7907,Bacteremia,Bacteremia,218407,Septicemia (except in labor),1
+161,121804,6,56722,Peritoneal abscess,Peritoneal abscess,218407,Peritonitis and intestinal abscess,0
+161,121804,7,3320,Paralysis agitans,Paralysis agitans,218407,Parkinson`s disease,0
+161,121804,8,43330,Ocl mlt bi art wo infrct,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction,218407,Occlusion or stenosis of precerebral arteries,0
+161,121804,9,4019,Hypertension NOS,Unspecified essential hypertension,218407,Essential hypertension,1
+161,121804,10,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,218407,Disorders of lipid metabolism,1
+161,121804,11,78791,Diarrhea,Diarrhea,218407,Other gastrointestinal disorders,0
+161,121804,12,11289,Candidiasis site NEC,Other candidiasis of other specified sites,218407,Mycoses,0
+161,121804,13,04104,Enterococcus group d,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]",218407,Bacterial infection; unspecified site,0
+161,121804,14,V1259,Hx-circulatory dis NEC,Personal history of other diseases of circulatory system,218407,Other circulatory disease,0

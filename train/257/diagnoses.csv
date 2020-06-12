@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+257,179006,1,85221,Subdural hem w/o coma,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",280743,Intracranial injury,0
+257,179006,2,E8859,Fall from slipping NEC,"Fall from other slipping, tripping, or stumbling",280743,Fall,0
+257,179006,3,V1259,Hx-circulatory dis NEC,Personal history of other diseases of circulatory system,280743,Other circulatory disease,0
+257,179006,4,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,280743,Other aftercare,0
+257,179006,5,4019,Hypertension NOS,Unspecified essential hypertension,280743,Essential hypertension,1

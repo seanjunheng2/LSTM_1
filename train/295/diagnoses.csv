@@ -1,0 +1,3 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+295,192988,1,4373,Nonrupt cerebral aneurym,"Cerebral aneurysm, nonruptured",274998,Other and ill-defined cerebrovascular disease,0
+295,192988,2,4019,Hypertension NOS,Unspecified essential hypertension,274998,Essential hypertension,1

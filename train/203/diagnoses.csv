@@ -1,0 +1,15 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+203,120358,1,431,Intracerebral hemorrhage,Intracerebral hemorrhage,244420,Acute cerebrovascular disease,1
+203,120358,2,51884,Acute & chronc resp fail,Acute and chronic respiratory failure,244420,Respiratory failure; insufficiency; arrest (adult),1
+203,120358,3,2869,Coagulat defect NEC/NOS,Other and unspecified coagulation defects,244420,Coagulation and hemorrhagic disorders,0
+203,120358,4,48241,Meth sus pneum d/t Staph,Methicillin susceptible pneumonia due to Staphylococcus aureus,244420,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+203,120358,5,5733,Hepatitis NOS,"Hepatitis, unspecified",244420,Hepatitis,0
+203,120358,6,43820,Late ef-hemplga side NOS,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side",244420,Late effects of cerebrovascular disease,0
+203,120358,7,4019,Hypertension NOS,Unspecified essential hypertension,244420,Essential hypertension,1
+203,120358,8,V4581,Aortocoronary bypass,Aortocoronary bypass status,244420,Coronary atherosclerosis and other heart disease,1
+203,120358,9,V433,Heart valve replac NEC,Heart valve replaced by other means,244420,Heart valve disorders,0
+203,120358,10,39890,Rheumatic heart dis NOS,"Rheumatic heart disease, unspecified",244420,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+203,120358,11,V090,Inf mcrg rstn pncllins,Infection with microorganisms resistant to penicillins,244420,Bacterial infection; unspecified site,0
+203,119453,1,3968,Mitr/aortic mult involv,Multiple involvement of mitral and aortic valves,249689,Heart valve disorders,0
+203,119453,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,249689,Coronary atherosclerosis and other heart disease,1
+203,119453,3,7140,Rheumatoid arthritis,Rheumatoid arthritis,249689,Rheumatoid arthritis and related disease,0

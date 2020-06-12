@@ -1,0 +1,11 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+218,111255,1,44021,Ath ext ntv at w claudct,Atherosclerosis of native arteries of the extremities with intermittent claudication,255474,Peripheral and visceral atherosclerosis,0
+218,111255,2,99881,Emphysema rsult frm proc,Emphysema (subcutaneous) (surgical) resulting from procedure,255474,Complications of surgical procedures or medical care,1
+218,111255,3,9982,Accidental op laceration,"Accidental puncture or laceration during a procedure, not elsewhere classified",255474,Complications of surgical procedures or medical care,1
+218,111255,4,V422,Heart valve transplant,Heart valve replaced by transplant,255474,Heart valve disorders,0
+218,111255,5,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension,255474,Complications of surgical procedures or medical care,1
+218,111255,6,78650,Chest pain NOS,"Chest pain, unspecified",255474,Nonspecific chest pain,0
+218,111255,7,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,255474,Disorders of lipid metabolism,1
+218,111255,8,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,255474,Coronary atherosclerosis and other heart disease,1
+218,111255,9,V4581,Aortocoronary bypass,Aortocoronary bypass status,255474,Coronary atherosclerosis and other heart disease,1
+218,111255,10,V1005,Hx of colonic malignancy,Personal history of malignant neoplasm of large intestine,255474,Cancer of colon,0

@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+270,188028,1,43310,Ocl crtd art wo infrct,Occlusion and stenosis of carotid artery without mention of cerebral infarction,220345,Occlusion or stenosis of precerebral arteries,0
+270,188028,2,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris,220345,Coronary atherosclerosis and other heart disease,1
+270,188028,3,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia,220345,Cardiac dysrhythmias,1
+270,188028,4,99604,Mch cmp autm mplnt dfbrl,Mechanical complication of automatic implantable cardiac defibrillator,220345,Complication of device; implant or graft,0
+270,188028,5,4280,CHF NOS,"Congestive heart failure, unspecified",220345,Congestive heart failure; nonhypertensive,1
+270,188028,6,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",220345,Diabetes mellitus without complication,1
+270,188028,7,4019,Hypertension NOS,Unspecified essential hypertension,220345,Essential hypertension,1
+270,188028,8,412,Old myocardial infarct,Old myocardial infarction,220345,Coronary atherosclerosis and other heart disease,1
+270,188028,9,501,Asbestosis,Asbestosis,220345,Lung disease due to external agents,0

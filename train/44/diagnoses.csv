@@ -1,0 +1,11 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+44,181750,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,291554,Coronary atherosclerosis and other heart disease,1
+44,181750,2,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris,291554,Coronary atherosclerosis and other heart disease,1
+44,181750,3,5960,Bladder neck obstruction,Bladder neck obstruction,291554,Other diseases of bladder and urethra,0
+44,181750,4,42731,Atrial fibrillation,Atrial fibrillation,291554,Cardiac dysrhythmias,1
+44,181750,5,3968,Mitr/aortic mult involv,Multiple involvement of mitral and aortic valves,291554,Heart valve disorders,0
+44,181750,6,4019,Hypertension NOS,Unspecified essential hypertension,291554,Essential hypertension,1
+44,181750,7,2720,Pure hypercholesterolem,Pure hypercholesterolemia,291554,Disorders of lipid metabolism,1
+44,181750,8,78057,Sleep apnea NOS,Unspecified sleep apnea,291554,Residual codes; unclassified,0
+44,181750,9,V173,Fam hx-ischem heart dis,Family history of ischemic heart disease,291554,Residual codes; unclassified,0
+44,181750,10,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",291554,Peripheral and visceral atherosclerosis,0

@@ -1,0 +1,11 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+147,103631,1,80111,Cl skul base fx w/o coma,"Closed fracture of base of skull with cerebral laceration and contusion, with no loss of consciousness",252947,Intracranial injury,0
+147,103631,3,8711,Ocular lacera w prolapse,Ocular laceration with prolapse or exposure of intraocular tissue,252947,Open wounds of head; neck; and trunk,0
+147,103631,4,9587,Traum subcutan emphysema,Traumatic subcutaneous emphysema,252947,Other injuries and conditions due to external causes,0
+147,103631,5,E8120,Mv collision NOS-driver,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,252947,Motor vehicle traffic (MVT),0
+147,103631,6,8024,Fx malar/maxillary-close,Closed fracture of malar and maxillary bones,252947,Skull and face fractures,0
+147,103631,7,80229,Mult fx mandible-closed,"Closed fracture of mandible, multiple sites",252947,Skull and face fractures,0
+147,103631,8,8021,Nasal bone fx-open,Open fracture of nasal bones,252947,Skull and face fractures,0
+147,103631,9,8026,Fx orbital floor-closed,Closed fracture of orbital floor (blow-out),252947,Skull and face fractures,0
+147,103631,10,8470,Sprain of neck,Sprain of neck,252947,Sprains and strains,0
+147,103631,11,9570,Inj superf nerv head/nck,Injury to superficial nerves of head and neck,252947,Other injuries and conditions due to external causes,0

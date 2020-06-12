@@ -1,0 +1,5 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+25,129635,1,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",203487,Acute myocardial infarction,1
+25,129635,2,25011,DMI keto nt st uncntrld,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled",203487,Diabetes mellitus with complications,1
+25,129635,3,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,203487,Coronary atherosclerosis and other heart disease,1
+25,129635,4,4019,Hypertension NOS,Unspecified essential hypertension,203487,Essential hypertension,1

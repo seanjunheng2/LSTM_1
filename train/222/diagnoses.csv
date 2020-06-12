@@ -1,0 +1,80 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+222,137006,1,1625,Mal neo lower lobe lung,"Malignant neoplasm of lower lobe, bronchus or lung",232363,Cancer of bronchus; lung,0
+222,137006,2,1961,Mal neo lymph-intrathor,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,232363,Secondary malignancies,0
+222,137006,3,42731,Atrial fibrillation,Atrial fibrillation,232363,Cardiac dysrhythmias,1
+222,137006,4,42781,Sinoatrial node dysfunct,Sinoatrial node dysfunction,232363,Cardiac dysrhythmias,1
+222,137006,5,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft",232363,Coronary atherosclerosis and other heart disease,1
+222,137006,6,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",232363,Chronic kidney disease,1
+222,137006,7,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",232363,Hypertension with complications and secondary hypertension,1
+222,137006,8,2749,Gout NOS,"Gout, unspecified",232363,Gout and other crystal arthropathies,0
+222,137006,9,725,Polymyalgia rheumatica,Polymyalgia rheumatica,232363,Other connective tissue disease,0
+222,137006,10,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",232363,Peripheral and visceral atherosclerosis,0
+222,137006,11,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,232363,Disorders of lipid metabolism,1
+222,137006,12,412,Old myocardial infarct,Old myocardial infarction,232363,Coronary atherosclerosis and other heart disease,1
+222,137006,13,V4581,Aortocoronary bypass,Aortocoronary bypass status,232363,Coronary atherosclerosis and other heart disease,1
+222,137006,14,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,232363,Coronary atherosclerosis and other heart disease,1
+222,137006,15,V6442,Thoracoscop conv to open,Thoracoscopic surgical procedure converted to open procedure,232363,Residual codes; unclassified,0
+222,103002,1,1625,Mal neo lower lobe lung,"Malignant neoplasm of lower lobe, bronchus or lung",256144,Cancer of bronchus; lung,0
+222,103002,2,51884,Acute & chronc resp fail,Acute and chronic respiratory failure,256144,Respiratory failure; insufficiency; arrest (adult),1
+222,103002,3,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",256144,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+222,103002,4,1983,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord,256144,Secondary malignancies,0
+222,103002,5,1985,Secondary malig neo bone,Secondary malignant neoplasm of bone and bone marrow,256144,Secondary malignancies,0
+222,103002,6,1961,Mal neo lymph-intrathor,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,256144,Secondary malignancies,0
+222,103002,8,42731,Atrial fibrillation,Atrial fibrillation,256144,Cardiac dysrhythmias,1
+222,103002,9,V8741,Hx antineoplastic chemo,Personal history of antineoplastic chemotherapy,256144,Residual codes; unclassified,0
+222,103002,10,V153,Hx of irradiation,"Personal history of irradiation, presenting hazards to health",256144,Residual codes; unclassified,0
+222,103002,11,4588,Hypotension NEC,Other specified hypotension,256144,Other circulatory disease,0
+222,103002,12,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft",256144,Coronary atherosclerosis and other heart disease,1
+222,103002,13,V4581,Aortocoronary bypass,Aortocoronary bypass status,256144,Coronary atherosclerosis and other heart disease,1
+222,103002,14,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,256144,Coronary atherosclerosis and other heart disease,1
+222,103002,15,412,Old myocardial infarct,Old myocardial infarction,256144,Coronary atherosclerosis and other heart disease,1
+222,103002,16,44020,Athscl extrm ntv art NOS,"Atherosclerosis of native arteries of the extremities, unspecified",256144,Peripheral and visceral atherosclerosis,0
+222,103002,17,4401,Renal artery atheroscler,Atherosclerosis of renal artery,256144,Peripheral and visceral atherosclerosis,0
+222,103002,18,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",256144,Hypertension with complications and secondary hypertension,1
+222,103002,19,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",256144,Chronic kidney disease,1
+222,103002,20,43310,Ocl crtd art wo infrct,Occlusion and stenosis of carotid artery without mention of cerebral infarction,256144,Occlusion or stenosis of precerebral arteries,0
+222,103002,21,2749,Gout NOS,"Gout, unspecified",256144,Gout and other crystal arthropathies,0
+222,103002,22,725,Polymyalgia rheumatica,Polymyalgia rheumatica,256144,Other connective tissue disease,0
+222,103002,23,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,256144,Disorders of lipid metabolism,1
+222,103002,24,56210,Dvrtclo colon w/o hmrhg,Diverticulosis of colon (without mention of hemorrhage),256144,Diverticulosis and diverticulitis,0
+222,103002,25,V5865,Long-term use steroids,Long-term (current) use of steroids,256144,Other aftercare,0
+222,103002,26,78830,Urinary incontinence NOS,"Urinary incontinence, unspecified",256144,Genitourinary symptoms and ill-defined conditions,0
+222,103002,27,V1582,History of tobacco use,Personal history of tobacco use,256144,Screening and history of mental health and substance abuse codes,0
+222,103002,28,V667,Encountr palliative care,Encounter for palliative care,256144,Other aftercare,0
+222,188038,1,56212,Dvrtclo colon w hmrhg,Diverticulosis of colon with hemorrhage,260665,Diverticulosis and diverticulitis,0
+222,188038,2,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",260665,Acute and unspecified renal failure,1
+222,188038,3,41402,Crn ath atlg vn bps grft,Coronary atherosclerosis of autologous vein bypass graft,260665,Complication of device; implant or graft,0
+222,188038,4,1629,Mal neo bronch/lung NOS,"Malignant neoplasm of bronchus and lung, unspecified",260665,Cancer of bronchus; lung,0
+222,188038,5,42731,Atrial fibrillation,Atrial fibrillation,260665,Cardiac dysrhythmias,1
+222,188038,6,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",260665,Hypertension with complications and secondary hypertension,1
+222,188038,7,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",260665,Chronic kidney disease,1
+222,188038,8,4589,Hypotension NOS,"Hypotension, unspecified",260665,Other circulatory disease,0
+222,188038,9,725,Polymyalgia rheumatica,Polymyalgia rheumatica,260665,Other connective tissue disease,0
+222,188038,10,2749,Gout NOS,"Gout, unspecified",260665,Gout and other crystal arthropathies,0
+222,188038,11,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,260665,Disorders of lipid metabolism,1
+222,188038,12,V1011,Hx-bronchogenic malignan,Personal history of malignant neoplasm of bronchus and lung,260665,Cancer of bronchus; lung,0
+222,188038,13,412,Old myocardial infarct,Old myocardial infarction,260665,Coronary atherosclerosis and other heart disease,1
+222,188038,14,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,260665,Coronary atherosclerosis and other heart disease,1
+222,188038,15,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,260665,Other aftercare,0
+222,188038,16,27541,Hypocalcemia,Hypocalcemia,260665,Other nutritional; endocrine; and metabolic disorders,0
+222,188038,17,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic),260665,Deficiency and other anemia,0
+222,145243,1,43310,Ocl crtd art wo infrct,Occlusion and stenosis of carotid artery without mention of cerebral infarction,267496,Occlusion or stenosis of precerebral arteries,0
+222,145243,3,78057,Sleep apnea NOS,Unspecified sleep apnea,267496,Residual codes; unclassified,0
+222,145243,4,4019,Hypertension NOS,Unspecified essential hypertension,267496,Essential hypertension,1
+222,145243,5,2720,Pure hypercholesterolem,Pure hypercholesterolemia,267496,Disorders of lipid metabolism,1
+222,145243,6,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,267496,Coronary atherosclerosis and other heart disease,1
+222,145243,7,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,267496,Coronary atherosclerosis and other heart disease,1
+222,145243,8,V173,Fam hx-ischem heart dis,Family history of ischemic heart disease,267496,Residual codes; unclassified,0
+222,145243,9,412,Old myocardial infarct,Old myocardial infarction,267496,Coronary atherosclerosis and other heart disease,1
+222,105083,1,44422,Lower extremity embolism,Arterial embolism and thrombosis of lower extremity,290416,Aortic and peripheral arterial embolism or thrombosis,0
+222,105083,2,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",290416,Acute myocardial infarction,1
+222,105083,3,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure,290416,Complications of surgical procedures or medical care,1
+222,105083,4,44022,Ath ext ntv at w rst pn,Atherosclerosis of native arteries of the extremities with rest pain,290416,Peripheral and visceral atherosclerosis,0
+222,105083,5,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,290416,Coronary atherosclerosis and other heart disease,1
+222,105083,6,41402,Crn ath atlg vn bps grft,Coronary atherosclerosis of autologous vein bypass graft,290416,Complication of device; implant or graft,0
+222,105083,7,4400,Aortic atherosclerosis,Atherosclerosis of aorta,290416,Peripheral and visceral atherosclerosis,0
+222,105083,8,4019,Hypertension NOS,Unspecified essential hypertension,290416,Essential hypertension,1
+222,105083,9,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,290416,Disorders of lipid metabolism,1
+222,105083,10,725,Polymyalgia rheumatica,Polymyalgia rheumatica,290416,Other connective tissue disease,0
+222,105083,11,2749,Gout NOS,"Gout, unspecified",290416,Gout and other crystal arthropathies,0
+222,105083,12,412,Old myocardial infarct,Old myocardial infarction,290416,Coronary atherosclerosis and other heart disease,1

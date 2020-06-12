@@ -1,0 +1,71 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+188,123860,1,99682,Compl liver transplant,Complications of transplanted liver,213646,Complication of device; implant or graft,0
+188,123860,2,51881,Acute respiratry failure,Acute respiratory failure,213646,Respiratory failure; insufficiency; arrest (adult),1
+188,123860,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",213646,Acute and unspecified renal failure,1
+188,123860,4,7907,Bacteremia,Bacteremia,213646,Septicemia (except in labor),1
+188,123860,5,07044,Chrnc hpt C w hepat Coma,Chronic hepatitis C with hepatic coma,213646,Hepatitis,0
+188,123860,6,2762,Acidosis,Acidosis,213646,Fluid and electrolyte disorders,1
+188,123860,7,2763,Alkalosis,Alkalosis,213646,Fluid and electrolyte disorders,1
+188,123860,8,25541,Glucocorticoid deficient,Glucocorticoid deficiency,213646,Other endocrine disorders,0
+188,123860,9,78959,Ascites NEC,Other ascites,213646,Other liver diseases,1
+188,123860,10,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,213646,Fluid and electrolyte disorders,1
+188,123860,11,2768,Hypopotassemia,Hypopotassemia,213646,Fluid and electrolyte disorders,1
+188,123860,12,V4983,Await organ transplnt st,Awaiting organ transplant status,213646,Residual codes; unclassified,0
+188,123860,13,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,213646,Other liver diseases,1
+188,123860,14,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",213646,Chronic kidney disease,1
+188,123860,15,25080,DMII oth nt st uncntrld,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",213646,Diabetes mellitus with complications,1
+188,123860,16,45621,Esoph varice oth dis NOS,"Esophageal varices in diseases classified elsewhere, without mention of bleeding",213646,Esophageal disorders,0
+188,123860,17,04109,Other streptococcus,"Streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus",213646,Bacterial infection; unspecified site,0
+188,123860,18,V1007,Hx of liver malignancy,Personal history of malignant neoplasm of liver,213646,Cancer of liver and intrahepatic bile duct,0
+188,123860,19,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",213646,Hypertension with complications and secondary hypertension,1
+188,123860,20,E8780,Abn react-org transplant,"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",213646,Adverse effects of medical care,0
+188,160697,1,570,Acute necrosis of liver,Acute and subacute necrosis of liver,263996,Other liver diseases,1
+188,160697,2,07054,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma,263996,Hepatitis,0
+188,160697,3,1552,Malignant neo liver NOS,"Malignant neoplasm of liver, not specified as primary or secondary",263996,Cancer of liver and intrahepatic bile duct,0
+188,160697,4,5723,Portal hypertension,Portal hypertension,263996,Other liver diseases,1
+188,160697,5,78071,Chronic fatigue syndrome,Chronic fatigue syndrome,263996,Malaise and fatigue,0
+188,191517,1,0389,Septicemia NOS,Unspecified septicemia,278679,Septicemia (except in labor),1
+188,191517,2,V427,Liver transplant status,Liver replaced by transplant,278679,Other liver diseases,1
+188,191517,3,99593,SIRS-noninf w/o ac or ds,Systemic inflammatory response syndrome due to noninfectious process without acute organ dysfunction,278679,Other injuries and conditions due to external causes,0
+188,191517,4,5589,Noninf gastroenterit NEC,Other and unspecified noninfectious gastroenteritis and colitis,278679,Noninfectious gastroenteritis,0
+188,191517,5,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",278679,Diabetes mellitus without complication,1
+188,164735,1,4552,Int hemrrhoid w comp NEC,Internal hemorrhoids with other complication,284015,Hemorrhoids,0
+188,164735,2,7907,Bacteremia,Bacteremia,284015,Septicemia (except in labor),1
+188,164735,3,99682,Compl liver transplant,Complications of transplanted liver,284015,Complication of device; implant or graft,0
+188,164735,4,99931,Oth/uns inf-cen ven cath,Other and unspecified infection due to central venous catheter,284015,Complication of device; implant or graft,0
+188,164735,5,5856,End stage renal disease,End stage renal disease,284015,Chronic kidney disease,1
+188,164735,6,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure,284015,Complications of surgical procedures or medical care,1
+188,164735,7,99731,Ventltr assoc pneumonia,Ventilator associated pneumonia,284015,Complications of surgical procedures or medical care,1
+188,164735,8,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,284015,Acute posthemorrhagic anemia,0
+188,164735,9,25541,Glucocorticoid deficient,Glucocorticoid deficiency,284015,Other endocrine disorders,0
+188,164735,10,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",284015,Coagulation and hemorrhagic disorders,0
+188,164735,11,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,284015,Other liver diseases,1
+188,164735,12,V4983,Await organ transplnt st,Awaiting organ transplant status,284015,Residual codes; unclassified,0
+188,164735,13,07054,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma,284015,Hepatitis,0
+188,164735,14,80702,Fracture two ribs-closed,Closed fracture of two ribs,284015,Other fractures,0
+188,164735,15,04104,Enterococcus group d,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]",284015,Bacterial infection; unspecified site,0
+188,164735,16,4555,Ext hemrrhoid w comp NEC,External hemorrhoids with other complication,284015,Hemorrhoids,0
+188,164735,17,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",284015,Adverse effects of medical care,0
+188,164735,18,E8844,Fall from bed,Accidental fall from bed,284015,Fall,0
+188,164735,19,E8497,Accid in resident instit,Accidents occurring in residential institution,284015,Place of occurrence,0
+188,164735,20,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,284015,Deficiency and other anemia,0
+188,164735,21,E8780,Abn react-org transplant,"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",284015,Adverse effects of medical care,0
+188,164735,22,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",284015,Diabetes mellitus without complication,1
+188,164735,23,V5867,Long-term use of insulin,Long-term (current) use of insulin,284015,Other aftercare,0
+188,164735,24,53789,Gastroduodenal dis NEC,Other specified disorders of stomach and duodenum,284015,Other disorders of stomach and duodenum,0
+188,192557,1,99682,Compl liver transplant,Complications of transplanted liver,297851,Complication of device; implant or graft,0
+188,192557,2,07044,Chrnc hpt C w hepat Coma,Chronic hepatitis C with hepatic coma,297851,Hepatitis,0
+188,192557,3,78959,Ascites NEC,Other ascites,297851,Other liver diseases,1
+188,192557,4,25541,Glucocorticoid deficient,Glucocorticoid deficiency,297851,Other endocrine disorders,0
+188,192557,5,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",297851,Chronic kidney disease,1
+188,192557,6,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",297851,Coagulation and hemorrhagic disorders,0
+188,192557,7,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,297851,Other liver diseases,1
+188,192557,8,V4983,Await organ transplnt st,Awaiting organ transplant status,297851,Residual codes; unclassified,0
+188,192557,9,E8780,Abn react-org transplant,"Surgical operation with transplant of whole organ causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",297851,Adverse effects of medical care,0
+188,192557,10,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",297851,Diabetes mellitus without complication,1
+188,192557,11,V1007,Hx of liver malignancy,Personal history of malignant neoplasm of liver,297851,Cancer of liver and intrahepatic bile duct,0
+188,192557,12,7242,Lumbago,Lumbago,297851,Spondylosis; intervertebral disc disorders; other back problems,0
+188,192557,13,V5867,Long-term use of insulin,Long-term (current) use of insulin,297851,Other aftercare,0
+188,192557,14,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",297851,Mood disorders,0
+188,192557,15,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",297851,Hypertension with complications and secondary hypertension,1
+188,192557,16,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,297851,Deficiency and other anemia,0

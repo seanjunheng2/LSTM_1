@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+53,155385,1,41021,"AMI inferolateral, init","Acute myocardial infarction of inferolateral wall, initial episode of care",239839,Acute myocardial infarction,1
+53,155385,2,30562,Cocaine abuse-episodic,"Cocaine abuse, episodic",239839,Substance-related disorders,0
+53,155385,3,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,239839,Coronary atherosclerosis and other heart disease,1
+53,155385,4,4019,Hypertension NOS,Unspecified essential hypertension,239839,Essential hypertension,1
+53,155385,5,53081,Esophageal reflux,Esophageal reflux,239839,Esophageal disorders,0

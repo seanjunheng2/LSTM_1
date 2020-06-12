@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+4,185777,1,042,Human immuno virus dis,Human immunodeficiency virus [HIV] disease,294638,HIV infection,0
+4,185777,2,1363,Pneumocystosis,Pneumocystosis,294638,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+4,185777,3,7994,Cachexia,Cachexia,294638,Nutritional deficiencies,0
+4,185777,4,2763,Alkalosis,Alkalosis,294638,Fluid and electrolyte disorders,1
+4,185777,5,7907,Bacteremia,Bacteremia,294638,Septicemia (except in labor),1
+4,185777,6,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,294638,Other liver diseases,1
+4,185777,7,04111,Mth sus Stph aur els/NOS,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site,294638,Bacterial infection; unspecified site,0
+4,185777,8,V090,Inf mcrg rstn pncllins,Infection with microorganisms resistant to penicillins,294638,Bacterial infection; unspecified site,0
+4,185777,9,E9317,Adv eff antiviral drugs,Antiviral drugs causing adverse effects in therapeutic use,294638,Adverse effects of medical drugs,0

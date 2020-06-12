@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+272,164716,1,41519,Pulm embol/infarct NEC,Other pulmonary embolism and infarction,210407,Pulmonary heart disease,0
+272,164716,3,41091,"AMI NOS, initial","Acute myocardial infarction of unspecified site, initial episode of care",210407,Acute myocardial infarction,1
+272,164716,5,4019,Hypertension NOS,Unspecified essential hypertension,210407,Essential hypertension,1
+272,164716,6,2859,Anemia NOS,"Anemia, unspecified",210407,Deficiency and other anemia,0
+272,164716,7,2967,Bipolor I current NOS,"Bipolar I disorder, most recent episode (or current) unspecified",210407,Mood disorders,0

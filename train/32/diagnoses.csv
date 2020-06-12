@@ -1,0 +1,7 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+32,175413,2,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",295037,Chronic obstructive pulmonary disease and bronchiectasis,1
+32,175413,3,42731,Atrial fibrillation,Atrial fibrillation,295037,Cardiac dysrhythmias,1
+32,175413,5,53081,Esophageal reflux,Esophageal reflux,295037,Esophageal disorders,0
+32,175413,6,78057,Sleep apnea NOS,Unspecified sleep apnea,295037,Residual codes; unclassified,0
+32,175413,7,4019,Hypertension NOS,Unspecified essential hypertension,295037,Essential hypertension,1
+32,175413,8,27801,Morbid obesity,Morbid obesity,295037,Other nutritional; endocrine; and metabolic disorders,0

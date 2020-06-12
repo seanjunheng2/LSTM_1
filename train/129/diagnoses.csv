@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+129,164174,1,85300,Traumatic brain hem NEC,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",238431,Intracranial injury,0
+129,164174,2,78039,Convulsions NEC,Other convulsions,238431,Epilepsy; convulsions,0
+129,164174,3,E8889,Fall NOS,Unspecified fall,238431,Fall,0

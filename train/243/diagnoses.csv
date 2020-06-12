@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+243,129066,1,99681,Compl kidney transplant,Complications of transplanted kidney,241533,Complication of device; implant or graft,0
+243,129066,2,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",241533,Acute and unspecified renal failure,1
+243,129066,3,042,Human immuno virus dis,Human immunodeficiency virus [HIV] disease,241533,HIV infection,0
+243,129066,4,00845,Int inf clstrdium dfcile,Intestinal infection due to Clostridium difficile,241533,Intestinal infection,0
+243,129066,5,4019,Hypertension NOS,Unspecified essential hypertension,241533,Essential hypertension,1

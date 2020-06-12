@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+145,138459,1,99662,React-oth vasc dev/graft,"Infection and inflammatory reaction due to other vascular device, implant, and graft",299479,Complication of device; implant or graft,0
+145,138459,2,03849,Gram-neg septicemia NEC,Other septicemia due to gram-negative organisms,299479,Septicemia (except in labor),1
+145,138459,3,99591,Sepsis,Sepsis,299479,Septicemia (except in labor),1
+145,138459,4,2761,Hyposmolality,Hyposmolality and/or hyponatremia,299479,Fluid and electrolyte disorders,1
+145,138459,5,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",299479,Chronic kidney disease,1
+145,138459,6,5793,Intest postop nonabsorb,Other and unspecified postsurgical nonabsorption,299479,Complications of surgical procedures or medical care,1
+145,138459,7,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",299479,Chronic ulcer of skin,0
+145,138459,8,7202,Sacroiliitis NEC,"Sacroiliitis, not elsewhere classified",299479,Spondylosis; intervertebral disc disorders; other back problems,0
+145,138459,9,73342,Aseptic necrosis femur,Aseptic necrosis of head and neck of femur,299479,Other bone disease and musculoskeletal deformities,0
+145,138459,10,V442,Ileostomy status,Ileostomy status,299479,Other gastrointestinal disorders,0
+145,138459,11,V4581,Aortocoronary bypass,Aortocoronary bypass status,299479,Coronary atherosclerosis and other heart disease,1
+145,138459,12,4019,Hypertension NOS,Unspecified essential hypertension,299479,Essential hypertension,1

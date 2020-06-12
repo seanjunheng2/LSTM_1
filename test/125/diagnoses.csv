@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+125,157348,1,99671,Comp-heart valve prosth,Other complications due to heart valve prosthesis,268261,Complication of device; implant or graft,0
+125,157348,2,4241,Aortic valve disorder,Aortic valve disorders,268261,Heart valve disorders,0
+125,157348,3,42731,Atrial fibrillation,Atrial fibrillation,268261,Cardiac dysrhythmias,1
+125,157348,4,4168,Chr pulmon heart dis NEC,Other chronic pulmonary heart diseases,268261,Pulmonary heart disease,0
+125,157348,5,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,268261,Thyroid disorders,0

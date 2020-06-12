@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+135,192180,1,135,Sarcoidosis,Sarcoidosis,290462,Other infections; including parasitic,0
+135,192180,2,34982,Toxic encephalopathy,Toxic encephalopathy,290462,Other nervous system disorders,0
+135,192180,3,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",290462,Urinary tract infections,0
+135,192180,4,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",290462,Mood disorders,0
+135,192180,5,E9352,Adv eff opiates,Other opiates and related narcotics causing adverse effects in therapeutic use,290462,Adverse effects of medical drugs,0

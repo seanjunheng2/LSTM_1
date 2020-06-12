@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+263,120845,1,25073,DMI circ uncntrld,"Diabetes with peripheral circulatory disorders, type I [juvenile type], uncontrolled",216500,Diabetes mellitus with complications,1
+263,120845,2,25063,DMI neuro uncntrld,"Diabetes with neurological manifestations, type I [juvenile type], uncontrolled",216500,Diabetes mellitus with complications,1
+263,120845,3,25043,DMI renal uncntrld,"Diabetes with renal manifestations, type I [juvenile type], uncontrolled",216500,Diabetes mellitus with complications,1
+263,120845,4,25053,DMI ophth uncntrld,"Diabetes with ophthalmic manifestations, type I [juvenile type], uncontrolled",216500,Diabetes mellitus with complications,1
+263,120845,5,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",216500,Hypertension with complications and secondary hypertension,1
+263,120845,6,7854,Gangrene,Gangrene,216500,Gangrene,0
+263,120845,7,5180,Pulmonary collapse,Pulmonary collapse,216500,Pleurisy; pneumothorax; pulmonary collapse,1
+263,120845,8,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,216500,Other nervous system disorders,0
+263,120845,9,58381,Nephritis NOS in oth dis,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",216500,Nephritis; nephrosis; renal sclerosis,0

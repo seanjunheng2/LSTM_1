@@ -1,0 +1,7 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+99,187373,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,251343,Coronary atherosclerosis and other heart disease,1
+99,187373,2,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris,251343,Coronary atherosclerosis and other heart disease,1
+99,187373,3,4019,Hypertension NOS,Unspecified essential hypertension,251343,Essential hypertension,1
+99,187373,4,2720,Pure hypercholesterolem,Pure hypercholesterolemia,251343,Disorders of lipid metabolism,1
+99,187373,5,7820,Skin sensation disturb,Disturbance of skin sensation,251343,Other nervous system disorders,0
+99,187373,6,V1083,Hx-skin malignancy NEC,Personal history of other malignant neoplasm of skin,251343,Other non-epithelial cancer of skin,0

@@ -1,0 +1,20 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+211,101148,1,0389,Septicemia NOS,Unspecified septicemia,248590,Septicemia (except in labor),1
+211,101148,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",248590,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+211,101148,3,42833,Ac on chr diast hrt fail,Acute on chronic diastolic heart failure,248590,Congestive heart failure; nonhypertensive,1
+211,101148,4,4280,CHF NOS,"Congestive heart failure, unspecified",248590,Congestive heart failure; nonhypertensive,1
+211,101148,5,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",248590,Acute myocardial infarction,1
+211,101148,6,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",248590,Acute and unspecified renal failure,1
+211,101148,7,4240,Mitral valve disorder,Mitral valve disorders,248590,Heart valve disorders,0
+211,101148,8,3970,Tricuspid valve disease,Diseases of tricuspid valve,248590,Heart valve disorders,0
+211,101148,9,42731,Atrial fibrillation,Atrial fibrillation,248590,Cardiac dysrhythmias,1
+211,101148,10,99592,Severe sepsis,Severe sepsis,248590,Septicemia (except in labor),1
+211,101148,11,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,248590,Thyroid disorders,0
+211,101148,12,V4581,Aortocoronary bypass,Aortocoronary bypass status,248590,Coronary atherosclerosis and other heart disease,1
+211,101148,13,V4501,Status cardiac pacemaker,Cardiac pacemaker in situ,248590,Conduction disorders,1
+211,193975,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,270493,Coronary atherosclerosis and other heart disease,1
+211,193975,2,4111,Intermed coronary synd,Intermediate coronary syndrome,270493,Coronary atherosclerosis and other heart disease,1
+211,193975,3,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",270493,Complications of surgical procedures or medical care,1
+211,193975,4,42731,Atrial fibrillation,Atrial fibrillation,270493,Cardiac dysrhythmias,1
+211,193975,5,4019,Hypertension NOS,Unspecified essential hypertension,270493,Essential hypertension,1
+211,193975,6,4168,Chr pulmon heart dis NEC,Other chronic pulmonary heart diseases,270493,Pulmonary heart disease,0

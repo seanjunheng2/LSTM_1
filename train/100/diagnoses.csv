@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+100,153952,1,99602,Malfunc prosth hrt valve,Mechanical complication due to heart valve prosthesis,221100,Complication of device; implant or graft,0
+100,153952,2,4241,Aortic valve disorder,Aortic valve disorders,221100,Heart valve disorders,0
+100,153952,3,4411,Ruptur thoracic aneurysm,"Thoracic aneurysm, ruptured",221100,Aortic; peripheral; and visceral artery aneurysms,0
+100,153952,4,4260,Atriovent block complete,"Atrioventricular block, complete",221100,Conduction disorders,1
+100,153952,5,42731,Atrial fibrillation,Atrial fibrillation,221100,Cardiac dysrhythmias,1

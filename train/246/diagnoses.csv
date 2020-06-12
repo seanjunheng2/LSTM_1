@@ -1,0 +1,14 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+246,197430,1,57149,Chronic hepatitis NEC,Other chronic hepatitis,287265,Hepatitis,0
+246,197430,2,1550,"Mal neo liver, primary","Malignant neoplasm of liver, primary",287265,Cancer of liver and intrahepatic bile duct,0
+246,197430,3,25002,DMII wo cmp uncntrld,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled",287265,Diabetes mellitus with complications,1
+246,197430,4,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,287265,Other liver diseases,1
+246,197430,5,5680,Peritoneal adhesions,Peritoneal adhesions (postoperative) (postinfection),287265,Other gastrointestinal disorders,0
+246,197430,6,2720,Pure hypercholesterolem,Pure hypercholesterolemia,287265,Disorders of lipid metabolism,1
+246,197430,7,4019,Hypertension NOS,Unspecified essential hypertension,287265,Essential hypertension,1
+246,197430,8,V4581,Aortocoronary bypass,Aortocoronary bypass status,287265,Coronary atherosclerosis and other heart disease,1
+246,197430,9,V5867,Long-term use of insulin,Long-term (current) use of insulin,287265,Other aftercare,0
+246,197430,10,27800,Obesity NOS,"Obesity, unspecified",287265,Other nutritional; endocrine; and metabolic disorders,0
+246,197430,11,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft",287265,Coronary atherosclerosis and other heart disease,1
+246,197430,12,V1301,Prsnl hst urnr dsrd calc,Personal history of urinary calculi,287265,Calculus of urinary tract,0
+246,197430,13,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),287265,Residual codes; unclassified,0

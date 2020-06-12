@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+224,169158,1,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,255378,Aspiration pneumonitis; food/vomitus,0
+224,169158,2,23875,Myelodysplastic synd NOS,"Myelodysplastic syndrome, unspecified",255378,Neoplasms of unspecified nature or uncertain behavior,0
+224,169158,4,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",255378,Diabetes mellitus without complication,1

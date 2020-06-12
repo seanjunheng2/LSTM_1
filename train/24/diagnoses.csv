@@ -1,0 +1,5 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+24,161859,1,41041,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care",262236,Acute myocardial infarction,1
+24,161859,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,262236,Coronary atherosclerosis and other heart disease,1
+24,161859,3,53081,Esophageal reflux,Esophageal reflux,262236,Esophageal disorders,0
+24,161859,4,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",262236,Diabetes mellitus without complication,1

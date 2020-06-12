@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+31,128652,1,3453,Grand mal status,Grand mal status,254478,Epilepsy; convulsions,0
+31,128652,2,20190,Hdgk dis unsp xtrndl org,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites",254478,Hodgkin`s disease,0
+31,128652,3,515,Postinflam pulm fibrosis,Postinflammatory pulmonary fibrosis,254478,Other lower respiratory disease,1
+31,128652,4,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",254478,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+31,128652,5,4019,Hypertension NOS,Unspecified essential hypertension,254478,Essential hypertension,1
+31,128652,6,36250,Macular degeneration NOS,"Macular degeneration (senile), unspecified",254478,Retinal detachments; defects; vascular occlusion; and retinopathy,0
+31,128652,7,E9331,Adv eff antineoplastic,Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use,254478,Adverse effects of medical drugs,0
+31,128652,8,4371,Ac cerebrovasc insuf NOS,Other generalized ischemic cerebrovascular disease,254478,Other and ill-defined cerebrovascular disease,0

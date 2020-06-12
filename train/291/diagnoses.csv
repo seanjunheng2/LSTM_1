@@ -1,0 +1,27 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+291,126219,1,1983,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord,246725,Secondary malignancies,0
+291,126219,2,3485,Cerebral edema,Cerebral edema,246725,Other nervous system disorders,0
+291,126219,3,1629,Mal neo bronch/lung NOS,"Malignant neoplasm of bronchus and lung, unspecified",246725,Cancer of bronchus; lung,0
+291,126219,4,2536,Neurohypophysis dis NEC,Other disorders of neurohypophysis,246725,Other endocrine disorders,0
+291,126219,5,78701,Nausea with vomiting,Nausea with vomiting,246725,Nausea and vomiting,0
+291,126219,6,4019,Hypertension NOS,Unspecified essential hypertension,246725,Essential hypertension,1
+291,126219,7,V4986,Do not resusctate status,Do not resuscitate status,246725,Residual codes; unclassified,0
+291,126219,8,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,246725,Coronary atherosclerosis and other heart disease,1
+291,126219,9,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,246725,Coronary atherosclerosis and other heart disease,1
+291,126219,10,7140,Rheumatoid arthritis,Rheumatoid arthritis,246725,Rheumatoid arthritis and related disease,0
+291,126219,11,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,246725,Disorders of lipid metabolism,1
+291,113649,1,41031,"AMI inferopost, initial","Acute myocardial infarction of inferoposterior wall, initial episode of care",256641,Acute myocardial infarction,1
+291,113649,2,99812,Hematoma complic proc,Hematoma complicating a procedure,256641,Complications of surgical procedures or medical care,1
+291,113649,3,4280,CHF NOS,"Congestive heart failure, unspecified",256641,Congestive heart failure; nonhypertensive,1
+291,113649,4,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,256641,Coronary atherosclerosis and other heart disease,1
+291,113649,5,E8790,Abn react-cardiac cath,"Cardiac catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",256641,Adverse effects of medical care,0
+291,125726,1,41041,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care",275109,Acute myocardial infarction,1
+291,125726,2,78551,Cardiogenic shock,Cardiogenic shock,275109,Shock,1
+291,125726,3,99672,Comp-oth cardiac device,"Other complications due to other cardiac device, implant, and graft",275109,Complication of device; implant or graft,0
+291,125726,4,E8798,Abn react-procedure NEC,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",275109,Adverse effects of medical care,0
+291,125726,5,7140,Rheumatoid arthritis,Rheumatoid arthritis,275109,Rheumatoid arthritis and related disease,0
+291,125726,6,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,275109,Coronary atherosclerosis and other heart disease,1
+291,125726,7,V5865,Long-term use steroids,Long-term (current) use of steroids,275109,Other aftercare,0
+291,125726,8,3051,Tobacco use disorder,Tobacco use disorder,275109,Screening and history of mental health and substance abuse codes,0
+291,125726,9,72400,Spinal stenosis NOS,"Spinal stenosis, unspecified region",275109,Spondylosis; intervertebral disc disorders; other back problems,0
+291,125726,10,53190,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",275109,Gastroduodenal ulcer (except hemorrhage),0

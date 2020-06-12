@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+248,175353,1,8822,Open wound hand w tendon,"Open wound of hand except finger(s) alone, with tendon involvement",219979,Open wounds of extremities,0
+248,175353,2,85220,Traumatic subdural hem,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",219979,Intracranial injury,0
+248,175353,4,99889,Oth spcf cmplc procd NEC,Other specified complications of procedures not elsewhere classified,219979,Complications of surgical procedures or medical care,1
+248,175353,5,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,219979,Aspiration pneumonitis; food/vomitus,0
+248,175353,6,9579,Injury to nerve NOS,"Injury to nerves, unspecified site",219979,Other injuries and conditions due to external causes,0
+248,175353,7,87342,Open wound of forehead,"Open wound of forehead, without mention of complication",219979,Open wounds of head; neck; and trunk,0
+248,175353,8,E8150,Mv coll w oth obj-driver,Other motor vehicle traffic accident involving collision on the highway injuring driver of motor vehicle other than motorcycle,219979,Motor vehicle traffic (MVT),0
+248,175353,9,2859,Anemia NOS,"Anemia, unspecified",219979,Deficiency and other anemia,0

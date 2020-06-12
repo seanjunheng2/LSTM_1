@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+187,199724,1,0383,Anaerobic septicemia,Septicemia due to anaerobes,239923,Septicemia (except in labor),1
+187,199724,2,9992,Vasc comp med care NEC,"Other vascular complications of medical care, not elsewhere classified",239923,Complications of surgical procedures or medical care,1
+187,199724,3,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",239923,Acute myocardial infarction,1
+187,199724,4,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",239923,Chronic obstructive pulmonary disease and bronchiectasis,1
+187,199724,5,2762,Acidosis,Acidosis,239923,Fluid and electrolyte disorders,1
+187,199724,6,45182,Phlbts sprfc vn up extrm,Phlebitis and thrombophlebitis of superficial veins of upper extremities,239923,Phlebitis; thrombophlebitis and thromboembolism,0
+187,199724,7,2768,Hypopotassemia,Hypopotassemia,239923,Fluid and electrolyte disorders,1
+187,199724,8,3310,Alzheimer's disease,Alzheimer's disease,239923,"Delirium, dementia, and amnestic and other cognitive disorders",0
+187,199724,9,29410,Dementia w/o behav dist,Dementia in conditions classified elsewhere without behavioral disturbance,239923,"Delirium, dementia, and amnestic and other cognitive disorders",0

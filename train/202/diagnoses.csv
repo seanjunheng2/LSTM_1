@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+202,108295,1,0389,Septicemia NOS,Unspecified septicemia,228132,Septicemia (except in labor),1
+202,108295,2,78552,Septic shock,Septic shock,228132,Shock,1
+202,108295,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",228132,Acute and unspecified renal failure,1
+202,108295,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",228132,Urinary tract infections,0
+202,108295,5,2762,Acidosis,Acidosis,228132,Fluid and electrolyte disorders,1
+202,108295,6,591,Hydronephrosis,Hydronephrosis,228132,Other diseases of kidney and ureters,0
+202,108295,7,99592,Severe sepsis,Severe sepsis,228132,Septicemia (except in labor),1
+202,108295,8,2859,Anemia NOS,"Anemia, unspecified",228132,Deficiency and other anemia,0
+202,108295,9,5920,Calculus of kidney,Calculus of kidney,228132,Calculus of urinary tract,0
+202,108295,10,2768,Hypopotassemia,Hypopotassemia,228132,Fluid and electrolyte disorders,1
+202,108295,11,4019,Hypertension NOS,Unspecified essential hypertension,228132,Essential hypertension,1
+202,108295,12,V1005,Hx of colonic malignancy,Personal history of malignant neoplasm of large intestine,228132,Cancer of colon,0

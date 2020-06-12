@@ -1,0 +1,30 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+252,193470,1,5712,Alcohol cirrhosis liver,Alcoholic cirrhosis of liver,212805,Alcohol-related disorders,0
+252,193470,2,45620,Bleed esoph var oth dis,"Esophageal varices in diseases classified elsewhere, with bleeding",212805,Gastrointestinal hemorrhage,1
+252,193470,4,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,212805,Acute posthemorrhagic anemia,0
+252,193470,5,3575,Alcoholic polyneuropathy,Alcoholic polyneuropathy,212805,Alcohol-related disorders,0
+252,190159,1,5712,Alcohol cirrhosis liver,Alcoholic cirrhosis of liver,221239,Alcohol-related disorders,0
+252,190159,2,45620,Bleed esoph var oth dis,"Esophageal varices in diseases classified elsewhere, with bleeding",221239,Gastrointestinal hemorrhage,1
+252,190159,3,5780,Hematemesis,Hematemesis,221239,Gastrointestinal hemorrhage,1
+252,190159,4,51881,Acute respiratry failure,Acute respiratory failure,221239,Respiratory failure; insufficiency; arrest (adult),1
+252,190159,5,78559,Shock w/o trauma NEC,Other shock without mention of trauma,221239,Shock,1
+252,190159,6,5722,Hepatic encephalopathy,Hepatic encephalopathy,221239,Other liver diseases,1
+252,190159,8,45341,Ac DVT/emb prox low ext,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity,221239,Phlebitis; thrombophlebitis and thromboembolism,0
+252,190159,9,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",221239,Urinary tract infections,0
+252,190159,10,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",221239,Acute and unspecified renal failure,1
+252,190159,11,30500,Alcohol abuse-unspec,"Alcohol abuse, unspecified",221239,Alcohol-related disorders,0
+252,190159,12,2867,Acq coagul factor defic,Acquired coagulation factor deficiency,221239,Coagulation and hemorrhagic disorders,0
+252,190159,13,2761,Hyposmolality,Hyposmolality and/or hyponatremia,221239,Fluid and electrolyte disorders,1
+252,190159,14,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",221239,Coagulation and hemorrhagic disorders,0
+252,190159,15,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",221239,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+252,190159,17,8670,Bladder/urethra inj-clos,"Injury to bladder and urethra, without mention of open wound into cavity",221239,Crushing injury or internal injury,0
+252,190159,18,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition,221239,Nutritional deficiencies,0
+252,190159,19,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,221239,Acute posthemorrhagic anemia,0
+252,190159,20,5723,Portal hypertension,Portal hypertension,221239,Other liver diseases,1
+252,190159,21,34831,Metabolic encephalopathy,Metabolic encephalopathy,221239,Other nervous system disorders,0
+252,190159,22,2738,Dis plas protein met NEC,Other disorders of plasma protein metabolism,221239,Other nutritional; endocrine; and metabolic disorders,0
+252,190159,23,5798,Intest malabsorption NEC,Other specified intestinal malabsorption,221239,Other gastrointestinal disorders,0
+252,190159,24,0701,Hepatitis A w/o coma,Viral hepatitis A without mention of hepatic coma,221239,Hepatitis,0
+252,190159,25,3051,Tobacco use disorder,Tobacco use disorder,221239,Screening and history of mental health and substance abuse codes,0
+252,190159,26,V1301,Prsnl hst urnr dsrd calc,Personal history of urinary calculi,221239,Calculus of urinary tract,0
+252,190159,27,E8796,Abn react-urinary cath,"Urinary catheterization as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",221239,Adverse effects of medical care,0

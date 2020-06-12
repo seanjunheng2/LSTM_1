@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+296,159503,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,273199,Coronary atherosclerosis and other heart disease,1
+296,159503,2,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia,273199,Cardiac dysrhythmias,1
+296,159503,3,2939,Transient mental dis NOS,Unspecified transient mental disorder in conditions classified elsewhere,273199,Miscellaneous mental health disorders,0

@@ -1,0 +1,5 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+182,146080,1,2181,Intramural leiomyoma,Intramural leiomyoma of uterus,279109,Benign neoplasm of uterus,0
+182,146080,2,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,279109,Acute posthemorrhagic anemia,0
+182,146080,3,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic),279109,Deficiency and other anemia,0
+182,146080,4,24200,Tox dif goiter no crisis,Toxic diffuse goiter without mention of thyrotoxic crisis or storm,279109,Thyroid disorders,0

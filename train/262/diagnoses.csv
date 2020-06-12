@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+262,106019,1,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,243312,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+262,106019,2,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",243312,Chronic obstructive pulmonary disease and bronchiectasis,1
+262,106019,3,28249,Thalassemia NEC,Other thalassemia,243312,Deficiency and other anemia,0
+262,106019,4,4019,Hypertension NOS,Unspecified essential hypertension,243312,Essential hypertension,1
+262,106019,5,42731,Atrial fibrillation,Atrial fibrillation,243312,Cardiac dysrhythmias,1

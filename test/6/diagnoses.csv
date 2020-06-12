@@ -1,0 +1,7 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+6,107064,1,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",228232,Hypertension with complications and secondary hypertension,1
+6,107064,3,9972,Surg comp-peri vasc syst,"Peripheral vascular complications, not elsewhere classified",228232,Complications of surgical procedures or medical care,1
+6,107064,5,2767,Hyperpotassemia,Hyperpotassemia,228232,Fluid and electrolyte disorders,1
+6,107064,6,2859,Anemia NOS,"Anemia, unspecified",228232,Deficiency and other anemia,0
+6,107064,7,2753,Dis phosphorus metabol,Disorders of phosphorus metabolism,228232,Other nutritional; endocrine; and metabolic disorders,0
+6,107064,8,V1582,History of tobacco use,Personal history of tobacco use,228232,Screening and history of mental health and substance abuse codes,0

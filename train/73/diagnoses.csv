@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+73,194730,1,41001,"AMI anterolateral, init","Acute myocardial infarction of anterolateral wall, initial episode of care",284305,Acute myocardial infarction,1
+73,194730,2,9982,Accidental op laceration,"Accidental puncture or laceration during a procedure, not elsewhere classified",284305,Complications of surgical procedures or medical care,1
+73,194730,3,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",284305,Urinary tract infections,0
+73,194730,4,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,284305,Coronary atherosclerosis and other heart disease,1
+73,194730,5,4019,Hypertension NOS,Unspecified essential hypertension,284305,Essential hypertension,1
+73,194730,6,2720,Pure hypercholesterolem,Pure hypercholesterolemia,284305,Disorders of lipid metabolism,1
+73,194730,7,V1042,Hx-uterus malignancy NEC,Personal history of malignant neoplasm of other parts of uterus,284305,Cancer of uterus,0
+73,194730,8,V1582,History of tobacco use,Personal history of tobacco use,284305,Screening and history of mental health and substance abuse codes,0

@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+225,130684,1,1642,Mal neo ant mediastinum,Malignant neoplasm of anterior mediastinum,224803,Cancer; other and unspecified primary,0
+225,130684,2,1971,Sec mal neo mediastinum,Secondary malignant neoplasm of mediastinum,224803,Secondary malignancies,0
+225,130684,3,5119,Pleural effusion NOS,Unspecified pleural effusion,224803,Pleurisy; pneumothorax; pulmonary collapse,1
+225,130684,4,4230,Hemopericardium,Hemopericardium,224803,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+225,130684,5,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",224803,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1

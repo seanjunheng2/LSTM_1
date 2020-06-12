@@ -1,0 +1,8 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+241,177846,1,3970,Tricuspid valve disease,Diseases of tricuspid valve,259962,Heart valve disorders,0
+241,177846,2,4240,Mitral valve disorder,Mitral valve disorders,259962,Heart valve disorders,0
+241,177846,3,4160,Prim pulm hypertension,Primary pulmonary hypertension,259962,Pulmonary heart disease,0
+241,177846,4,4280,CHF NOS,"Congestive heart failure, unspecified",259962,Congestive heart failure; nonhypertensive,1
+241,177846,5,99859,Other postop infection,Other postoperative infection,259962,Complications of surgical procedures or medical care,1
+241,177846,6,6822,Cellulitis of trunk,Cellulitis and abscess of trunk,259962,Skin and subcutaneous tissue infections,0
+241,177846,7,4019,Hypertension NOS,Unspecified essential hypertension,259962,Essential hypertension,1

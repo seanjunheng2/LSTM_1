@@ -1,0 +1,19 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+112,173177,1,0389,Septicemia NOS,Unspecified septicemia,251972,Septicemia (except in labor),1
+112,173177,2,78552,Septic shock,Septic shock,251972,Shock,1
+112,173177,3,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",251972,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+112,173177,4,20300,Mult mye w/o achv rmson,"Multiple myeloma, without mention of having achieved remission",251972,Multiple myeloma,0
+112,173177,5,27651,Dehydration,Dehydration,251972,Fluid and electrolyte disorders,1
+112,173177,6,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",251972,Acute and unspecified renal failure,1
+112,173177,7,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",251972,Hypertension with complications and secondary hypertension,1
+112,173177,8,5856,End stage renal disease,End stage renal disease,251972,Chronic kidney disease,1
+112,173177,9,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",251972,Acute myocardial infarction,1
+112,173177,10,51881,Acute respiratry failure,Acute respiratory failure,251972,Respiratory failure; insufficiency; arrest (adult),1
+112,173177,11,99592,Severe sepsis,Severe sepsis,251972,Septicemia (except in labor),1
+112,173177,12,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,251972,Coronary atherosclerosis and other heart disease,1
+112,173177,13,60000,BPH w/o urinary obs/LUTS,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),251972,Hyperplasia of prostate,0
+112,174105,1,53100,Ac stomach ulcer w hem,"Acute gastric ulcer with hemorrhage, without mention of obstruction",289222,Gastrointestinal hemorrhage,1
+112,174105,2,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",289222,Acute myocardial infarction,1
+112,174105,3,2859,Anemia NOS,"Anemia, unspecified",289222,Deficiency and other anemia,0
+112,174105,4,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,289222,Coronary atherosclerosis and other heart disease,1
+112,174105,5,725,Polymyalgia rheumatica,Polymyalgia rheumatica,289222,Other connective tissue disease,0

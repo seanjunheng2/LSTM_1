@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+30,104557,1,99674,Comp-oth vasc dev/graft,"Other complications due to other vascular device, implant, and graft",225176,Complication of device; implant or graft,0
+30,104557,2,4160,Prim pulm hypertension,Primary pulmonary hypertension,225176,Pulmonary heart disease,0
+30,104557,3,4111,Intermed coronary synd,Intermediate coronary syndrome,225176,Coronary atherosclerosis and other heart disease,1
+30,104557,4,4281,Left heart failure,Left heart failure,225176,Congestive heart failure; nonhypertensive,1
+30,104557,5,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia,225176,Cardiac dysrhythmias,1
+30,104557,6,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,225176,Coronary atherosclerosis and other heart disease,1
+30,104557,7,4019,Hypertension NOS,Unspecified essential hypertension,225176,Essential hypertension,1
+30,104557,8,2720,Pure hypercholesterolem,Pure hypercholesterolemia,225176,Disorders of lipid metabolism,1
+30,104557,9,5939,Renal & ureteral dis NOS,Unspecified disorder of kidney and ureter,225176,Other diseases of kidney and ureters,0

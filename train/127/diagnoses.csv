@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+127,141647,1,19889,Secondary malig neo NEC,Secondary malignant neoplasm of other specified sites,296852,Secondary malignancies,0
+127,141647,2,1972,Second malig neo pleura,Secondary malignant neoplasm of pleura,296852,Secondary malignancies,0
+127,141647,3,V103,Hx of breast malignancy,Personal history of malignant neoplasm of breast,296852,Cancer of breast,0

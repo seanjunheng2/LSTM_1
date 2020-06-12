@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+228,167764,1,82123,Supracondyl fx femur-cl,Closed supracondylar fracture of femur,235332,Fracture of lower limb,0
+228,167764,2,4241,Aortic valve disorder,Aortic valve disorders,235332,Heart valve disorders,0
+228,167764,3,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",235332,Complications of surgical procedures or medical care,1
+228,167764,4,42732,Atrial flutter,Atrial flutter,235332,Cardiac dysrhythmias,1
+228,167764,5,4280,CHF NOS,"Congestive heart failure, unspecified",235332,Congestive heart failure; nonhypertensive,1
+228,167764,7,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,235332,Coronary atherosclerosis and other heart disease,1
+228,167764,8,4019,Hypertension NOS,Unspecified essential hypertension,235332,Essential hypertension,1
+228,167764,9,E8889,Fall NOS,Unspecified fall,235332,Fall,0

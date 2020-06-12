@@ -1,0 +1,11 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+179,161310,1,51881,Acute respiratry failure,Acute respiratory failure,256090,Respiratory failure; insufficiency; arrest (adult),1
+179,161310,2,8600,Traum pneumothorax-close,Traumatic pneumothorax without mention of open wound into thorax,256090,Crushing injury or internal injury,0
+179,161310,3,44489,Arterial embolism NEC,Embolism and thrombosis of other specified artery,256090,Aortic and peripheral arterial embolism or thrombosis,0
+179,161310,4,27651,Dehydration,Dehydration,256090,Fluid and electrolyte disorders,1
+179,161310,5,99881,Emphysema rsult frm proc,Emphysema (subcutaneous) (surgical) resulting from procedure,256090,Complications of surgical procedures or medical care,1
+179,161310,6,80700,Fracture rib NOS-closed,"Closed fracture of rib(s), unspecified",256090,Other fractures,0
+179,161310,7,92400,Contusion of thigh,Contusion of thigh,256090,Superficial injury; contusion,0
+179,161310,8,E9600,Unarmed fight or brawl,Unarmed fight or brawl,256090,Struck by; against,0
+179,161310,9,514,Pulm congest/hypostasis,Pulmonary congestion and hypostasis,256090,Other lower respiratory disease,1
+179,161310,10,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension,256090,Complications of surgical procedures or medical care,1

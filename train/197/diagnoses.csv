@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+197,129890,1,5528,"Hernia, site NEC w obstr","Hernia of other specified sites, with obstruction",275674,Abdominal hernia,0
+197,129890,2,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",275674,Acute and unspecified renal failure,1
+197,129890,3,27651,Dehydration,Dehydration,275674,Fluid and electrolyte disorders,1

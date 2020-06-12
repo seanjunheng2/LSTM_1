@@ -1,0 +1,39 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+286,135917,1,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",240627,Diabetes mellitus with complications,1
+286,135917,2,44024,Ath ext ntv art gngrene,Atherosclerosis of native arteries of the extremities with gangrene,240627,Gangrene,0
+286,135917,3,70715,Ulcer other part of foot,Ulcer of other part of foot,240627,Chronic ulcer of skin,0
+286,135917,4,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",240627,Chronic obstructive pulmonary disease and bronchiectasis,1
+286,135917,5,3970,Tricuspid valve disease,Diseases of tricuspid valve,240627,Heart valve disorders,0
+286,135917,6,39891,Rheumatic heart failure,Rheumatic heart failure (congestive),240627,Congestive heart failure; nonhypertensive,1
+286,135917,7,3941,Rheumatic mitral insuff,Rheumatic mitral insufficiency,240627,Heart valve disorders,0
+286,135917,8,42731,Atrial fibrillation,Atrial fibrillation,240627,Cardiac dysrhythmias,1
+286,135917,9,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition,240627,Nutritional deficiencies,0
+286,135917,10,24290,Thyrotox NOS no crisis,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",240627,Thyroid disorders,0
+286,135917,11,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,240627,Other nervous system disorders,0
+286,135917,12,V5867,Long-term use of insulin,Long-term (current) use of insulin,240627,Other aftercare,0
+286,135917,13,4019,Hypertension NOS,Unspecified essential hypertension,240627,Essential hypertension,1
+286,135917,14,53081,Esophageal reflux,Esophageal reflux,240627,Esophageal disorders,0
+286,135917,15,2859,Anemia NOS,"Anemia, unspecified",240627,Deficiency and other anemia,0
+286,135917,16,73300,Osteoporosis NOS,"Osteoporosis, unspecified",240627,Osteoporosis,0
+286,135917,17,V441,Gastrostomy status,Gastrostomy status,240627,Other gastrointestinal disorders,0
+286,135917,18,V440,Tracheostomy status,Tracheostomy status,240627,Other upper respiratory disease,1
+286,106909,1,51884,Acute & chronc resp fail,Acute and chronic respiratory failure,260225,Respiratory failure; insufficiency; arrest (adult),1
+286,106909,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,260225,Aspiration pneumonitis; food/vomitus,0
+286,106909,3,5100,Empyema with fistula,Empyema with fistula,260225,Pleurisy; pneumothorax; pulmonary collapse,1
+286,106909,4,44024,Ath ext ntv art gngrene,Atherosclerosis of native arteries of the extremities with gangrene,260225,Gangrene,0
+286,106909,5,70703,"Pressure ulcer, low back","Pressure ulcer, lower back",260225,Chronic ulcer of skin,0
+286,106909,7,4280,CHF NOS,"Congestive heart failure, unspecified",260225,Congestive heart failure; nonhypertensive,1
+286,106909,8,5121,Iatrogenic pneumothorax,Iatrogenic pneumothorax,260225,Complications of surgical procedures or medical care,1
+286,106909,9,27652,Hypovolemia,Hypovolemia,260225,Fluid and electrolyte disorders,1
+286,106909,10,42731,Atrial fibrillation,Atrial fibrillation,260225,Cardiac dysrhythmias,1
+286,106909,11,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",260225,Urinary tract infections,0
+286,106909,12,24290,Thyrotox NOS no crisis,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",260225,Thyroid disorders,0
+286,106909,13,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",260225,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+286,106909,14,V4975,Status amput below knee,Below knee amputation status,260225,Other connective tissue disease,0
+286,106909,15,V5865,Long-term use steroids,Long-term (current) use of steroids,260225,Other aftercare,0
+286,106909,16,25060,DMII neuro nt st uncntrl,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",260225,Diabetes mellitus with complications,1
+286,106909,17,3572,Neuropathy in diabetes,Polyneuropathy in diabetes,260225,Other nervous system disorders,0
+286,106909,18,V5867,Long-term use of insulin,Long-term (current) use of insulin,260225,Other aftercare,0
+286,106909,19,4920,Emphysematous bleb,Emphysematous bleb,260225,Chronic obstructive pulmonary disease and bronchiectasis,1
+286,106909,20,99881,Emphysema rsult frm proc,Emphysema (subcutaneous) (surgical) resulting from procedure,260225,Complications of surgical procedures or medical care,1
+286,106909,21,1121,Candidal vulvovaginitis,Candidiasis of vulva and vagina,260225,Mycoses,0

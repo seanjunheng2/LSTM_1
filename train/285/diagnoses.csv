@@ -1,0 +1,18 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+285,165312,1,80621,T1-t6 fx-cl/com cord les,Closed fracture of T1-T6 level with complete lesion of cord,238023,Spinal cord injury,0
+285,165312,2,80605,C5-c7 fx-cl/cord inj NOS,Closed fracture of C5-C7 level with unspecified spinal cord injury,238023,Spinal cord injury,0
+285,165312,4,9584,Traumatic shock,Traumatic shock,238023,Other injuries and conditions due to external causes,0
+285,165312,5,48283,Pneumo oth grm-neg bact,Pneumonia due to other gram-negative bacteria,238023,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+285,165312,6,99813,Seroma complicting proc,Seroma complicating a procedure,238023,Complications of surgical procedures or medical care,1
+285,165312,7,E882,Fall from building,Accidental fall from or out of building or other structure,238023,Fall,0
+285,165312,8,99662,React-oth vasc dev/graft,"Infection and inflammatory reaction due to other vascular device, implant, and graft",238023,Complication of device; implant or graft,0
+285,165312,9,7907,Bacteremia,Bacteremia,238023,Septicemia (except in labor),1
+285,165312,10,30390,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified",238023,Alcohol-related disorders,0
+285,165312,11,81341,Colles' fracture-closed,Closed Colles' fracture,238023,Fracture of upper limb,0
+285,165312,12,80625,T7-t12 fx-cl/crd inj NOS,Closed fracture of T7-T12 level with unspecified spinal cord injury,238023,Spinal cord injury,0
+285,165312,13,8730,Open wound of scalp,"Open wound of scalp, without mention of complication",238023,Open wounds of head; neck; and trunk,0
+285,165312,14,1270,Ascariasis,Ascariasis,238023,Other infections; including parasitic,0
+285,165312,15,83961,Dislocat sternum-closed,"Closed dislocation, sternum",238023,Joint disorders and dislocations; trauma-related,0
+285,165312,16,36840,Visual field defect NOS,"Visual field defect, unspecified",238023,Blindness and vision defects,0
+285,165312,17,71941,Joint pain-shlder,"Pain in joint, shoulder region",238023,Other non-traumatic joint disorders,0
+285,165312,18,5711,Ac alcoholic hepatitis,Acute alcoholic hepatitis,238023,Alcohol-related disorders,0

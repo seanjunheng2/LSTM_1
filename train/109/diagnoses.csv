@@ -1,0 +1,397 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+109,151240,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",219154,Hypertension with complications and secondary hypertension,1
+109,151240,2,5856,End stage renal disease,End stage renal disease,219154,Chronic kidney disease,1
+109,151240,3,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,219154,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,151240,4,4239,Pericardial disease NOS,Unspecified disease of pericardium,219154,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,151240,5,7100,Syst lupus erythematosus,Systemic lupus erythematosus,219154,Systemic lupus erythematosus and connective tissue disorders,0
+109,151240,6,58381,Nephritis NOS in oth dis,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",219154,Nephritis; nephrosis; renal sclerosis,0
+109,151240,7,2767,Hyperpotassemia,Hyperpotassemia,219154,Fluid and electrolyte disorders,1
+109,151240,8,78701,Nausea with vomiting,Nausea with vomiting,219154,Nausea and vomiting,0
+109,151240,9,78791,Diarrhea,Diarrhea,219154,Other gastrointestinal disorders,0
+109,151240,10,2753,Dis phosphorus metabol,Disorders of phosphorus metabolism,219154,Other nutritional; endocrine; and metabolic disorders,0
+109,151240,11,28529,Anemia-other chronic dis,Anemia of other chronic disease,219154,Deficiency and other anemia,0
+109,151240,12,78904,Abdmnal pain lt lwr quad,"Abdominal pain, left lower quadrant",219154,Abdominal pain,0
+109,151240,13,33829,Chronic pain NEC,Other chronic pain,219154,Other nervous system disorders,0
+109,151240,14,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",219154,Coagulation and hemorrhagic disorders,0
+109,151240,15,44389,Periph vascular dis NEC,Other specified peripheral vascular diseases,219154,Other circulatory disease,0
+109,151240,16,V0254,Meth resis Staph carrier,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus,219154,Immunizations and screening for infectious disease,0
+109,151240,17,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,219154,Other aftercare,0
+109,151240,18,V4512,Noncmplnt w renal dialys,Noncompliance with renal dialysis,219154,Chronic kidney disease,1
+109,151240,19,V4511,Renal dialysis status,Renal dialysis status,219154,Chronic kidney disease,1
+109,151240,20,V1581,Hx of past noncompliance,"Personal history of noncompliance with medical treatment, presenting hazards to health",219154,Residual codes; unclassified,0
+109,110668,1,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",221610,Hypertension with complications and secondary hypertension,1
+109,110668,2,78039,Convulsions NEC,Other convulsions,221610,Epilepsy; convulsions,0
+109,110668,3,7907,Bacteremia,Bacteremia,221610,Septicemia (except in labor),1
+109,110668,4,7100,Syst lupus erythematosus,Systemic lupus erythematosus,221610,Systemic lupus erythematosus and connective tissue disorders,0
+109,110668,5,4372,Hypertens encephalopathy,Hypertensive encephalopathy,221610,Hypertension with complications and secondary hypertension,1
+109,110668,6,5855,Chron kidney dis stage V,"Chronic kidney disease, Stage V",221610,Chronic kidney disease,1
+109,110668,7,04119,Other staphylococcus,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus",221610,Bacterial infection; unspecified site,0
+109,110668,8,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,221610,Nephritis; nephrosis; renal sclerosis,0
+109,110668,9,4329,Intracranial hemorr NOS,Unspecified intracranial hemorrhage,221610,Acute cerebrovascular disease,1
+109,140167,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",222630,Hypertension with complications and secondary hypertension,1
+109,140167,2,5856,End stage renal disease,End stage renal disease,222630,Chronic kidney disease,1
+109,140167,3,99656,Comp-periton dialys cath,Mechanical complication due to peritoneal dialysis catheter,222630,Complication of device; implant or graft,0
+109,140167,5,4239,Pericardial disease NOS,Unspecified disease of pericardium,222630,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,140167,6,9951,Angioneurotic edema,"Angioneurotic edema, not elsewhere classified",222630,Fluid and electrolyte disorders,1
+109,140167,7,78909,Abdmnal pain oth spcf st,"Abdominal pain, other specified site",222630,Abdominal pain,0
+109,140167,8,7100,Syst lupus erythematosus,Systemic lupus erythematosus,222630,Systemic lupus erythematosus and connective tissue disorders,0
+109,140167,10,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,222630,Deficiency and other anemia,0
+109,140167,11,3004,Dysthymic disorder,Dysthymic disorder,222630,Mood disorders,0
+109,140167,12,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),222630,Residual codes; unclassified,0
+109,140167,13,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,222630,Phlebitis; thrombophlebitis and thromboembolism,0
+109,140167,14,V5865,Long-term use steroids,Long-term (current) use of steroids,222630,Other aftercare,0
+109,140167,15,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,222630,Other aftercare,0
+109,140167,16,E8781,Abn react-artif implant,"Surgical operation with implant of artificial internal device causing abnormal patient reaction, or later complication,without mention of misadventure at time of operation",222630,Adverse effects of medical care,0
+109,140167,17,E9426,Adv eff antihyperten agt,Other antihypertensive agents causing adverse effects in therapeutic use,222630,Adverse effects of medical drugs,0
+109,175347,1,40492,Hy ht/kd NOS st V w/o hf,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease",231823,Hypertension with complications and secondary hypertension,1
+109,175347,2,5856,End stage renal disease,End stage renal disease,231823,Chronic kidney disease,1
+109,175347,4,7100,Syst lupus erythematosus,Systemic lupus erythematosus,231823,Systemic lupus erythematosus and connective tissue disorders,0
+109,175347,5,7907,Bacteremia,Bacteremia,231823,Septicemia (except in labor),1
+109,175347,6,99662,React-oth vasc dev/graft,"Infection and inflammatory reaction due to other vascular device, implant, and graft",231823,Complication of device; implant or graft,0
+109,175347,7,04119,Other staphylococcus,"Staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus",231823,Bacterial infection; unspecified site,0
+109,175347,8,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,231823,Nephritis; nephrosis; renal sclerosis,0
+109,175347,9,2859,Anemia NOS,"Anemia, unspecified",231823,Deficiency and other anemia,0
+109,175347,10,V4578,Acquired absence of eye,"Acquired absence of organ, eye",231823,Residual codes; unclassified,0
+109,175347,11,3643,Iridocyclitis NOS,Unspecified iridocyclitis,231823,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,175347,12,36019,Endophthalmitis NEC,Other endophthalmitis,231823,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,161950,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",237552,Hypertension with complications and secondary hypertension,1
+109,161950,2,5856,End stage renal disease,End stage renal disease,237552,Chronic kidney disease,1
+109,161950,3,78959,Ascites NEC,Other ascites,237552,Other liver diseases,1
+109,161950,5,7100,Syst lupus erythematosus,Systemic lupus erythematosus,237552,Systemic lupus erythematosus and connective tissue disorders,0
+109,161950,6,7840,Headache,Headache,237552,Headache; including migraine,0
+109,161950,7,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,237552,Deficiency and other anemia,0
+109,161950,8,30000,Anxiety state NOS,"Anxiety state, unspecified",237552,Anxiety disorders,0
+109,161950,9,78659,Chest pain NEC,Other chest pain,237552,Nonspecific chest pain,0
+109,161950,10,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,237552,Phlebitis; thrombophlebitis and thromboembolism,0
+109,161950,11,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,237552,Other aftercare,0
+109,161950,12,V4511,Renal dialysis status,Renal dialysis status,237552,Chronic kidney disease,1
+109,161950,13,V4578,Acquired absence of eye,"Acquired absence of organ, eye",237552,Residual codes; unclassified,0
+109,166018,1,4010,Malignant hypertension,Malignant essential hypertension,241668,Hypertension with complications and secondary hypertension,1
+109,166018,2,5856,End stage renal disease,End stage renal disease,241668,Chronic kidney disease,1
+109,166018,3,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,241668,Nephritis; nephrosis; renal sclerosis,0
+109,166018,4,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,241668,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,166018,6,7100,Syst lupus erythematosus,Systemic lupus erythematosus,241668,Systemic lupus erythematosus and connective tissue disorders,0
+109,166018,7,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",241668,Coagulation and hemorrhagic disorders,0
+109,166018,8,2859,Anemia NOS,"Anemia, unspecified",241668,Deficiency and other anemia,0
+109,166018,10,V4589,Post-proc states NEC,Other postprocedural status,241668,Residual codes; unclassified,0
+109,166018,11,V4569,Post-proc st eye/adn NEC,Other states following surgery of eye and adnexa,241668,Other eye disorders,0
+109,174489,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",242589,Hypertension with complications and secondary hypertension,1
+109,174489,2,5856,End stage renal disease,End stage renal disease,242589,Chronic kidney disease,1
+109,174489,3,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,242589,Nephritis; nephrosis; renal sclerosis,0
+109,174489,4,3643,Iridocyclitis NOS,Unspecified iridocyclitis,242589,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,174489,5,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,242589,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,174489,6,78900,Abdmnal pain unspcf site,"Abdominal pain, unspecified site",242589,Abdominal pain,0
+109,174489,7,33829,Chronic pain NEC,Other chronic pain,242589,Other nervous system disorders,0
+109,174489,8,78701,Nausea with vomiting,Nausea with vomiting,242589,Nausea and vomiting,0
+109,174489,9,7100,Syst lupus erythematosus,Systemic lupus erythematosus,242589,Systemic lupus erythematosus and connective tissue disorders,0
+109,174489,10,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",242589,Coagulation and hemorrhagic disorders,0
+109,174489,11,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,242589,Deficiency and other anemia,0
+109,174489,12,44389,Periph vascular dis NEC,Other specified peripheral vascular diseases,242589,Other circulatory disease,0
+109,174489,13,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),242589,Residual codes; unclassified,0
+109,174489,14,28529,Anemia-other chronic dis,Anemia of other chronic disease,242589,Deficiency and other anemia,0
+109,174489,15,53190,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",242589,Gastroduodenal ulcer (except hemorrhage),0
+109,174489,16,34590,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy",242589,Epilepsy; convulsions,0
+109,174489,17,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,242589,Other aftercare,0
+109,174489,18,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,242589,Phlebitis; thrombophlebitis and thromboembolism,0
+109,174489,19,V1254,Hx TIA/stroke w/o resid,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",242589,Other circulatory disease,0
+109,158943,2,5856,End stage renal disease,End stage renal disease,243532,Chronic kidney disease,1
+109,158943,3,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",243532,Hypertension with complications and secondary hypertension,1
+109,158943,4,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,243532,Nephritis; nephrosis; renal sclerosis,0
+109,158943,5,4592,Compression of vein,Compression of vein,243532,Other diseases of veins and lymphatics,0
+109,158943,6,4239,Pericardial disease NOS,Unspecified disease of pericardium,243532,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,158943,7,99662,React-oth vasc dev/graft,"Infection and inflammatory reaction due to other vascular device, implant, and graft",243532,Complication of device; implant or graft,0
+109,158943,8,7907,Bacteremia,Bacteremia,243532,Septicemia (except in labor),1
+109,158943,9,28981,Prim hypercoagulable st,Primary hypercoagulable state,243532,Coagulation and hemorrhagic disorders,0
+109,158943,10,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,243532,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,158943,12,78900,Abdmnal pain unspcf site,"Abdominal pain, unspecified site",243532,Abdominal pain,0
+109,158943,13,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",243532,Urinary tract infections,0
+109,158943,14,2762,Acidosis,Acidosis,243532,Fluid and electrolyte disorders,1
+109,158943,15,78659,Chest pain NEC,Other chest pain,243532,Nonspecific chest pain,0
+109,158943,16,33829,Chronic pain NEC,Other chronic pain,243532,Other nervous system disorders,0
+109,158943,17,7100,Syst lupus erythematosus,Systemic lupus erythematosus,243532,Systemic lupus erythematosus and connective tissue disorders,0
+109,158943,18,V4512,Noncmplnt w renal dialys,Noncompliance with renal dialysis,243532,Chronic kidney disease,1
+109,158943,19,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",243532,Coagulation and hemorrhagic disorders,0
+109,158943,20,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,243532,Deficiency and other anemia,0
+109,158943,21,2767,Hyperpotassemia,Hyperpotassemia,243532,Fluid and electrolyte disorders,1
+109,158943,22,04104,Enterococcus group d,"Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group D [Enterococcus]",243532,Bacterial infection; unspecified site,0
+109,158943,23,E8791,Abn react-renal dialysis,"Kidney dialysis as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",243532,Adverse effects of medical care,0
+109,158943,24,04112,MRSA elsewhere/NOS,Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site,243532,Bacterial infection; unspecified site,0
+109,158943,25,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),243532,Residual codes; unclassified,0
+109,158943,26,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,243532,Phlebitis; thrombophlebitis and thromboembolism,0
+109,158943,27,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,243532,Other aftercare,0
+109,193281,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",243688,Hypertension with complications and secondary hypertension,1
+109,193281,2,5856,End stage renal disease,End stage renal disease,243688,Chronic kidney disease,1
+109,193281,3,7100,Syst lupus erythematosus,Systemic lupus erythematosus,243688,Systemic lupus erythematosus and connective tissue disorders,0
+109,193281,4,7907,Bacteremia,Bacteremia,243688,Septicemia (except in labor),1
+109,193281,5,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,243688,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,193281,6,99662,React-oth vasc dev/graft,"Infection and inflammatory reaction due to other vascular device, implant, and graft",243688,Complication of device; implant or graft,0
+109,193281,7,99812,Hematoma complic proc,Hematoma complicating a procedure,243688,Complications of surgical procedures or medical care,1
+109,193281,8,36001,Acute endophthalmitis,Acute endophthalmitis,243688,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,193281,9,11289,Candidiasis site NEC,Other candidiasis of other specified sites,243688,Mycoses,0
+109,193281,10,V5865,Long-term use steroids,Long-term (current) use of steroids,243688,Other aftercare,0
+109,193281,11,7821,Nonspecif skin erupt NEC,Rash and other nonspecific skin eruption,243688,Other skin disorders,0
+109,193281,12,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,243688,Deficiency and other anemia,0
+109,193281,13,37900,Scleritis NOS,"Scleritis, unspecified",243688,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,193281,14,37632,Orbital hemorrhage,Orbital hemorrhage,243688,Other eye disorders,0
+109,193281,15,37005,Mycotic corneal ulcer,Mycotic corneal ulcer,243688,Other eye disorders,0
+109,193281,16,36400,Acute iridocyclitis NOS,"Acute and subacute iridocyclitis, unspecified",243688,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,131345,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",243978,Hypertension with complications and secondary hypertension,1
+109,131345,2,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,243978,Nephritis; nephrosis; renal sclerosis,0
+109,131345,3,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,243978,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,131345,4,7100,Syst lupus erythematosus,Systemic lupus erythematosus,243978,Systemic lupus erythematosus and connective tissue disorders,0
+109,131345,5,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",243978,Coagulation and hemorrhagic disorders,0
+109,131345,6,78702,Nausea alone,Nausea alone,243978,Nausea and vomiting,0
+109,131345,7,E9426,Adv eff antihyperten agt,Other antihypertensive agents causing adverse effects in therapeutic use,243978,Adverse effects of medical drugs,0
+109,131345,8,9596,Hip & thigh injury NOS,Hip and thigh injury,243978,Other injuries and conditions due to external causes,0
+109,131345,9,E9289,Accident NOS,Unspecified accident,243978,Unspecified,0
+109,131345,10,4589,Hypotension NOS,"Hypotension, unspecified",243978,Other circulatory disease,0
+109,131345,11,2859,Anemia NOS,"Anemia, unspecified",243978,Deficiency and other anemia,0
+109,131345,12,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,243978,Phlebitis; thrombophlebitis and thromboembolism,0
+109,131345,13,5856,End stage renal disease,End stage renal disease,243978,Chronic kidney disease,1
+109,131345,15,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",243978,Urinary tract infections,0
+109,131345,16,2767,Hyperpotassemia,Hyperpotassemia,243978,Fluid and electrolyte disorders,1
+109,131345,17,2762,Acidosis,Acidosis,243978,Fluid and electrolyte disorders,1
+109,131345,18,2753,Dis phosphorus metabol,Disorders of phosphorus metabolism,243978,Other nutritional; endocrine; and metabolic disorders,0
+109,131345,19,27541,Hypocalcemia,Hypocalcemia,243978,Other nutritional; endocrine; and metabolic disorders,0
+109,131345,20,58881,Sec hyperparathyrd-renal,Secondary hyperparathyroidism (of renal origin),243978,Other diseases of kidney and ureters,0
+109,137510,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",246183,Hypertension with complications and secondary hypertension,1
+109,137510,2,5856,End stage renal disease,End stage renal disease,246183,Chronic kidney disease,1
+109,137510,3,3643,Iridocyclitis NOS,Unspecified iridocyclitis,246183,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,137510,4,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,246183,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,137510,5,4239,Pericardial disease NOS,Unspecified disease of pericardium,246183,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,137510,7,7100,Syst lupus erythematosus,Systemic lupus erythematosus,246183,Systemic lupus erythematosus and connective tissue disorders,0
+109,137510,8,58381,Nephritis NOS in oth dis,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",246183,Nephritis; nephrosis; renal sclerosis,0
+109,137510,9,V4512,Noncmplnt w renal dialys,Noncompliance with renal dialysis,246183,Chronic kidney disease,1
+109,137510,10,V1581,Hx of past noncompliance,"Personal history of noncompliance with medical treatment, presenting hazards to health",246183,Residual codes; unclassified,0
+109,137510,11,V642,No proc/patient decision,Surgical or other procedure not carried out because of patient's decision,246183,Residual codes; unclassified,0
+109,137510,12,78904,Abdmnal pain lt lwr quad,"Abdominal pain, left lower quadrant",246183,Abdominal pain,0
+109,137510,13,V4511,Renal dialysis status,Renal dialysis status,246183,Chronic kidney disease,1
+109,137510,14,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",246183,Coagulation and hemorrhagic disorders,0
+109,137510,15,28529,Anemia-other chronic dis,Anemia of other chronic disease,246183,Deficiency and other anemia,0
+109,137510,16,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,246183,Phlebitis; thrombophlebitis and thromboembolism,0
+109,137510,17,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,246183,Other aftercare,0
+109,137510,18,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",246183,Peripheral and visceral atherosclerosis,0
+109,137510,19,V4578,Acquired absence of eye,"Acquired absence of organ, eye",246183,Residual codes; unclassified,0
+109,137510,20,V0254,Meth resis Staph carrier,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus,246183,Immunizations and screening for infectious disease,0
+109,124398,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",249219,Hypertension with complications and secondary hypertension,1
+109,124398,2,5856,End stage renal disease,End stage renal disease,249219,Chronic kidney disease,1
+109,124398,3,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,249219,Nephritis; nephrosis; renal sclerosis,0
+109,124398,5,7100,Syst lupus erythematosus,Systemic lupus erythematosus,249219,Systemic lupus erythematosus and connective tissue disorders,0
+109,124398,6,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,249219,Deficiency and other anemia,0
+109,124398,7,V5865,Long-term use steroids,Long-term (current) use of steroids,249219,Other aftercare,0
+109,124398,8,33829,Chronic pain NEC,Other chronic pain,249219,Other nervous system disorders,0
+109,124398,9,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),249219,Residual codes; unclassified,0
+109,124398,10,78907,Abdmnal pain generalized,"Abdominal pain, generalized",249219,Abdominal pain,0
+109,124398,11,2767,Hyperpotassemia,Hyperpotassemia,249219,Fluid and electrolyte disorders,1
+109,147469,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",253139,Hypertension with complications and secondary hypertension,1
+109,147469,2,5856,End stage renal disease,End stage renal disease,253139,Chronic kidney disease,1
+109,147469,3,34839,Encephalopathy NEC,Other encephalopathy,253139,Other nervous system disorders,0
+109,147469,4,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,253139,Nephritis; nephrosis; renal sclerosis,0
+109,147469,5,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",253139,Urinary tract infections,0
+109,147469,6,2762,Acidosis,Acidosis,253139,Fluid and electrolyte disorders,1
+109,147469,7,3643,Iridocyclitis NOS,Unspecified iridocyclitis,253139,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,147469,8,2839,Acq hemolytic anemia NOS,"Acquired hemolytic anemia, unspecified",253139,Deficiency and other anemia,0
+109,147469,9,7100,Syst lupus erythematosus,Systemic lupus erythematosus,253139,Systemic lupus erythematosus and connective tissue disorders,0
+109,147469,10,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,253139,Phlebitis; thrombophlebitis and thromboembolism,0
+109,147469,11,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,253139,Other aftercare,0
+109,147469,12,7842,Swelling in head & neck,"Swelling, mass, or lump in head and neck",253139,Residual codes; unclassified,0
+109,147469,13,2767,Hyperpotassemia,Hyperpotassemia,253139,Fluid and electrolyte disorders,1
+109,147469,14,61172,Lump or mass in breast,Lump or mass in breast,253139,Nonmalignant breast conditions,0
+109,147469,15,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",253139,Coagulation and hemorrhagic disorders,0
+109,147469,16,27541,Hypocalcemia,Hypocalcemia,253139,Other nutritional; endocrine; and metabolic disorders,0
+109,147469,17,2753,Dis phosphorus metabol,Disorders of phosphorus metabolism,253139,Other nutritional; endocrine; and metabolic disorders,0
+109,155726,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",254406,Hypertension with complications and secondary hypertension,1
+109,155726,2,5856,End stage renal disease,End stage renal disease,254406,Chronic kidney disease,1
+109,155726,3,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,254406,Nephritis; nephrosis; renal sclerosis,0
+109,155726,4,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,254406,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,155726,5,78959,Ascites NEC,Other ascites,254406,Other liver diseases,1
+109,155726,6,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",254406,Coagulation and hemorrhagic disorders,0
+109,155726,7,4592,Compression of vein,Compression of vein,254406,Other diseases of veins and lymphatics,0
+109,155726,9,7100,Syst lupus erythematosus,Systemic lupus erythematosus,254406,Systemic lupus erythematosus and connective tissue disorders,0
+109,155726,10,78900,Abdmnal pain unspcf site,"Abdominal pain, unspecified site",254406,Abdominal pain,0
+109,155726,11,33819,Acute pain NEC,Other acute pain,254406,Other nervous system disorders,0
+109,155726,12,33829,Chronic pain NEC,Other chronic pain,254406,Other nervous system disorders,0
+109,155726,13,53190,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",254406,Gastroduodenal ulcer (except hemorrhage),0
+109,155726,14,53081,Esophageal reflux,Esophageal reflux,254406,Esophageal disorders,0
+109,155726,15,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",254406,Mood disorders,0
+109,155726,16,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,254406,Deficiency and other anemia,0
+109,155726,17,28529,Anemia-other chronic dis,Anemia of other chronic disease,254406,Deficiency and other anemia,0
+109,155726,18,34590,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy",254406,Epilepsy; convulsions,0
+109,155726,19,73399,Bone & cartilage dis NEC,Other disorders of bone and cartilage,254406,Other bone disease and musculoskeletal deformities,0
+109,155726,20,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),254406,Residual codes; unclassified,0
+109,155726,21,44389,Periph vascular dis NEC,Other specified peripheral vascular diseases,254406,Other circulatory disease,0
+109,155726,22,62211,Mild dysplasia of cervix,Mild dysplasia of cervix,254406,Other female genital disorders,0
+109,155726,23,V4512,Noncmplnt w renal dialys,Noncompliance with renal dialysis,254406,Chronic kidney disease,1
+109,155726,24,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,254406,Phlebitis; thrombophlebitis and thromboembolism,0
+109,155726,25,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,254406,Other aftercare,0
+109,176760,1,9992,Vasc comp med care NEC,"Other vascular complications of medical care, not elsewhere classified",256504,Complications of surgical procedures or medical care,1
+109,176760,2,5856,End stage renal disease,End stage renal disease,256504,Chronic kidney disease,1
+109,176760,3,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",256504,Hypertension with complications and secondary hypertension,1
+109,176760,5,7100,Syst lupus erythematosus,Systemic lupus erythematosus,256504,Systemic lupus erythematosus and connective tissue disorders,0
+109,176760,6,45184,Phlbts vn NOS up extrm,"Phlebitis and thrombophlebitis of upper extremities, unspecified",256504,Phlebitis; thrombophlebitis and thromboembolism,0
+109,139061,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",257358,Hypertension with complications and secondary hypertension,1
+109,139061,2,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,257358,Nephritis; nephrosis; renal sclerosis,0
+109,139061,3,5855,Chron kidney dis stage V,"Chronic kidney disease, Stage V",257358,Chronic kidney disease,1
+109,139061,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",257358,Urinary tract infections,0
+109,139061,5,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,257358,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,139061,6,7100,Syst lupus erythematosus,Systemic lupus erythematosus,257358,Systemic lupus erythematosus and connective tissue disorders,0
+109,139061,7,7243,Sciatica,Sciatica,257358,Spondylosis; intervertebral disc disorders; other back problems,0
+109,139061,8,2767,Hyperpotassemia,Hyperpotassemia,257358,Fluid and electrolyte disorders,1
+109,139061,9,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",257358,Coagulation and hemorrhagic disorders,0
+109,139061,10,79092,Abnrml coagultion prfile,Abnormal coagulation profile,257358,Residual codes; unclassified,0
+109,139061,11,25200,Hyperparathyroidism NOS,"Hyperparathyroidism, unspecified",257358,Other endocrine disorders,0
+109,139061,12,28529,Anemia-other chronic dis,Anemia of other chronic disease,257358,Deficiency and other anemia,0
+109,139061,13,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,257358,Phlebitis; thrombophlebitis and thromboembolism,0
+109,108375,1,7100,Syst lupus erythematosus,Systemic lupus erythematosus,257698,Systemic lupus erythematosus and connective tissue disorders,0
+109,108375,2,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",257698,Hypertension with complications and secondary hypertension,1
+109,108375,3,5856,End stage renal disease,End stage renal disease,257698,Chronic kidney disease,1
+109,108375,4,58381,Nephritis NOS in oth dis,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",257698,Nephritis; nephrosis; renal sclerosis,0
+109,108375,5,3643,Iridocyclitis NOS,Unspecified iridocyclitis,257698,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,108375,6,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,257698,Deficiency and other anemia,0
+109,124657,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",261180,Hypertension with complications and secondary hypertension,1
+109,124657,2,5856,End stage renal disease,End stage renal disease,261180,Chronic kidney disease,1
+109,124657,4,9992,Vasc comp med care NEC,"Other vascular complications of medical care, not elsewhere classified",261180,Complications of surgical procedures or medical care,1
+109,124657,5,7100,Syst lupus erythematosus,Systemic lupus erythematosus,261180,Systemic lupus erythematosus and connective tissue disorders,0
+109,124657,6,2767,Hyperpotassemia,Hyperpotassemia,261180,Fluid and electrolyte disorders,1
+109,124657,7,45184,Phlbts vn NOS up extrm,"Phlebitis and thrombophlebitis of upper extremities, unspecified",261180,Phlebitis; thrombophlebitis and thromboembolism,0
+109,124657,8,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,261180,Phlebitis; thrombophlebitis and thromboembolism,0
+109,124657,9,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,261180,Other aftercare,0
+109,172335,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",262652,Hypertension with complications and secondary hypertension,1
+109,172335,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",262652,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+109,172335,3,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,262652,Nephritis; nephrosis; renal sclerosis,0
+109,172335,4,5855,Chron kidney dis stage V,"Chronic kidney disease, Stage V",262652,Chronic kidney disease,1
+109,172335,5,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,262652,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,172335,6,2762,Acidosis,Acidosis,262652,Fluid and electrolyte disorders,1
+109,172335,7,7100,Syst lupus erythematosus,Systemic lupus erythematosus,262652,Systemic lupus erythematosus and connective tissue disorders,0
+109,172335,8,2767,Hyperpotassemia,Hyperpotassemia,262652,Fluid and electrolyte disorders,1
+109,172335,9,7243,Sciatica,Sciatica,262652,Spondylosis; intervertebral disc disorders; other back problems,0
+109,172335,10,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension,262652,Complications of surgical procedures or medical care,1
+109,172335,11,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",262652,Coagulation and hemorrhagic disorders,0
+109,172335,12,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,262652,Deficiency and other anemia,0
+109,172335,13,28529,Anemia-other chronic dis,Anemia of other chronic disease,262652,Deficiency and other anemia,0
+109,172335,14,27541,Hypocalcemia,Hypocalcemia,262652,Other nutritional; endocrine; and metabolic disorders,0
+109,170149,2,5856,End stage renal disease,End stage renal disease,266497,Chronic kidney disease,1
+109,170149,3,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",266497,Hypertension with complications and secondary hypertension,1
+109,170149,4,4592,Compression of vein,Compression of vein,266497,Other diseases of veins and lymphatics,0
+109,170149,5,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,266497,Nephritis; nephrosis; renal sclerosis,0
+109,170149,6,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,266497,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,170149,8,7100,Syst lupus erythematosus,Systemic lupus erythematosus,266497,Systemic lupus erythematosus and connective tissue disorders,0
+109,170149,9,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,266497,Deficiency and other anemia,0
+109,170149,10,2767,Hyperpotassemia,Hyperpotassemia,266497,Fluid and electrolyte disorders,1
+109,170149,11,25200,Hyperparathyroidism NOS,"Hyperparathyroidism, unspecified",266497,Other endocrine disorders,0
+109,170149,12,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension,266497,Complications of surgical procedures or medical care,1
+109,170149,13,78701,Nausea with vomiting,Nausea with vomiting,266497,Nausea and vomiting,0
+109,170149,15,79500,Abn glandular pap smear,Abnormal glandular Papanicolaou smear of cervix,266497,Other screening for suspected conditions (not mental disorders or infectious disease),0
+109,170149,16,78909,Abdmnal pain oth spcf st,"Abdominal pain, other specified site",266497,Abdominal pain,0
+109,170149,17,2518,Pancreatic disorder NEC,Other specified disorders of pancreatic internal secretion,266497,Other endocrine disorders,0
+109,170149,18,E9320,Adv eff corticosteroids,Adrenal cortical steroids causing adverse effects in therapeutic use,266497,Adverse effects of medical drugs,0
+109,128755,1,4372,Hypertens encephalopathy,Hypertensive encephalopathy,271885,Hypertension with complications and secondary hypertension,1
+109,128755,2,78039,Convulsions NEC,Other convulsions,271885,Epilepsy; convulsions,0
+109,128755,3,7100,Syst lupus erythematosus,Systemic lupus erythematosus,271885,Systemic lupus erythematosus and connective tissue disorders,0
+109,128755,4,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",271885,Hypertension with complications and secondary hypertension,1
+109,128755,6,2859,Anemia NOS,"Anemia, unspecified",271885,Deficiency and other anemia,0
+109,135923,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",274518,Hypertension with complications and secondary hypertension,1
+109,135923,2,5856,End stage renal disease,End stage renal disease,274518,Chronic kidney disease,1
+109,135923,4,7100,Syst lupus erythematosus,Systemic lupus erythematosus,274518,Systemic lupus erythematosus and connective tissue disorders,0
+109,135923,5,79902,Hypoxemia,Hypoxemia,274518,Other injuries and conditions due to external causes,0
+109,135923,6,E9352,Adv eff opiates,Other opiates and related narcotics causing adverse effects in therapeutic use,274518,Adverse effects of medical drugs,0
+109,135923,7,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",274518,Coagulation and hemorrhagic disorders,0
+109,135923,8,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,274518,Deficiency and other anemia,0
+109,135923,9,78909,Abdmnal pain oth spcf st,"Abdominal pain, other specified site",274518,Abdominal pain,0
+109,135923,10,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),274518,Residual codes; unclassified,0
+109,135923,11,3004,Dysthymic disorder,Dysthymic disorder,274518,Mood disorders,0
+109,135923,12,V4511,Renal dialysis status,Renal dialysis status,274518,Chronic kidney disease,1
+109,135923,13,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,274518,Phlebitis; thrombophlebitis and thromboembolism,0
+109,135923,14,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,274518,Other aftercare,0
+109,135923,15,V4589,Post-proc states NEC,Other postprocedural status,274518,Residual codes; unclassified,0
+109,173633,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",284204,Hypertension with complications and secondary hypertension,1
+109,173633,2,5856,End stage renal disease,End stage renal disease,284204,Chronic kidney disease,1
+109,173633,3,58381,Nephritis NOS in oth dis,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",284204,Nephritis; nephrosis; renal sclerosis,0
+109,173633,4,7100,Syst lupus erythematosus,Systemic lupus erythematosus,284204,Systemic lupus erythematosus and connective tissue disorders,0
+109,173633,5,5589,Noninf gastroenterit NEC,Other and unspecified noninfectious gastroenteritis and colitis,284204,Noninfectious gastroenteritis,0
+109,173633,6,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",284204,Coagulation and hemorrhagic disorders,0
+109,173633,7,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,284204,Deficiency and other anemia,0
+109,173633,8,45829,Iatrogenc hypotnsion NEC,Other iatrogenic hypotension,284204,Complications of surgical procedures or medical care,1
+109,173633,9,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),284204,Residual codes; unclassified,0
+109,173633,10,22804,Hemangioma intra-abdom,Hemangioma of intra-abdominal structures,284204,Other and unspecified benign neoplasm,0
+109,173633,11,33829,Chronic pain NEC,Other chronic pain,284204,Other nervous system disorders,0
+109,173633,12,78900,Abdmnal pain unspcf site,"Abdominal pain, unspecified site",284204,Abdominal pain,0
+109,173633,13,79092,Abnrml coagultion prfile,Abnormal coagulation profile,284204,Residual codes; unclassified,0
+109,173633,14,V4511,Renal dialysis status,Renal dialysis status,284204,Chronic kidney disease,1
+109,173633,15,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,284204,Phlebitis; thrombophlebitis and thromboembolism,0
+109,136572,2,5856,End stage renal disease,End stage renal disease,286860,Chronic kidney disease,1
+109,136572,3,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",286860,Hypertension with complications and secondary hypertension,1
+109,136572,4,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,286860,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,136572,5,4239,Pericardial disease NOS,Unspecified disease of pericardium,286860,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,136572,6,28529,Anemia-other chronic dis,Anemia of other chronic disease,286860,Deficiency and other anemia,0
+109,136572,7,2767,Hyperpotassemia,Hyperpotassemia,286860,Fluid and electrolyte disorders,1
+109,136572,8,7100,Syst lupus erythematosus,Systemic lupus erythematosus,286860,Systemic lupus erythematosus and connective tissue disorders,0
+109,136572,9,78909,Abdmnal pain oth spcf st,"Abdominal pain, other specified site",286860,Abdominal pain,0
+109,136572,10,33829,Chronic pain NEC,Other chronic pain,286860,Other nervous system disorders,0
+109,136572,11,4589,Hypotension NOS,"Hypotension, unspecified",286860,Other circulatory disease,0
+109,136572,12,53190,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",286860,Gastroduodenal ulcer (except hemorrhage),0
+109,136572,13,34590,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy",286860,Epilepsy; convulsions,0
+109,136572,14,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",286860,Mood disorders,0
+109,136572,15,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,286860,Phlebitis; thrombophlebitis and thromboembolism,0
+109,136572,16,V4512,Noncmplnt w renal dialys,Noncompliance with renal dialysis,286860,Chronic kidney disease,1
+109,189332,2,5856,End stage renal disease,End stage renal disease,287547,Chronic kidney disease,1
+109,189332,3,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",287547,Hypertension with complications and secondary hypertension,1
+109,189332,4,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,287547,Nephritis; nephrosis; renal sclerosis,0
+109,189332,5,4232,Constrictiv pericarditis,Constrictive pericarditis,287547,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,189332,6,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,287547,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,189332,7,78959,Ascites NEC,Other ascites,287547,Other liver diseases,1
+109,189332,8,4592,Compression of vein,Compression of vein,287547,Other diseases of veins and lymphatics,0
+109,189332,10,4275,Cardiac arrest,Cardiac arrest,287547,Cardiac arrest and ventricular fibrillation,0
+109,189332,11,V1581,Hx of past noncompliance,"Personal history of noncompliance with medical treatment, presenting hazards to health",287547,Residual codes; unclassified,0
+109,189332,12,2767,Hyperpotassemia,Hyperpotassemia,287547,Fluid and electrolyte disorders,1
+109,189332,13,7100,Syst lupus erythematosus,Systemic lupus erythematosus,287547,Systemic lupus erythematosus and connective tissue disorders,0
+109,189332,14,78900,Abdmnal pain unspcf site,"Abdominal pain, unspecified site",287547,Abdominal pain,0
+109,189332,15,33829,Chronic pain NEC,Other chronic pain,287547,Other nervous system disorders,0
+109,189332,16,53190,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",287547,Gastroduodenal ulcer (except hemorrhage),0
+109,189332,17,53081,Esophageal reflux,Esophageal reflux,287547,Esophageal disorders,0
+109,189332,18,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,287547,Deficiency and other anemia,0
+109,189332,19,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",287547,Coagulation and hemorrhagic disorders,0
+109,189332,20,34590,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy",287547,Epilepsy; convulsions,0
+109,189332,21,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),287547,Residual codes; unclassified,0
+109,189332,22,62211,Mild dysplasia of cervix,Mild dysplasia of cervix,287547,Other female genital disorders,0
+109,189332,23,44389,Periph vascular dis NEC,Other specified peripheral vascular diseases,287547,Other circulatory disease,0
+109,189332,24,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,287547,Phlebitis; thrombophlebitis and thromboembolism,0
+109,189332,25,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,287547,Other aftercare,0
+109,164029,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",290868,Hypertension with complications and secondary hypertension,1
+109,164029,2,7100,Syst lupus erythematosus,Systemic lupus erythematosus,290868,Systemic lupus erythematosus and connective tissue disorders,0
+109,164029,3,5856,End stage renal disease,End stage renal disease,290868,Chronic kidney disease,1
+109,164029,4,V4983,Await organ transplnt st,Awaiting organ transplant status,290868,Residual codes; unclassified,0
+109,164029,5,58381,Nephritis NOS in oth dis,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",290868,Nephritis; nephrosis; renal sclerosis,0
+109,164029,6,3643,Iridocyclitis NOS,Unspecified iridocyclitis,290868,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,113189,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",291270,Hypertension with complications and secondary hypertension,1
+109,113189,2,5856,End stage renal disease,End stage renal disease,291270,Chronic kidney disease,1
+109,113189,3,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,291270,Nephritis; nephrosis; renal sclerosis,0
+109,113189,5,4466,Thrombot microangiopathy,Thrombotic microangiopathy,291270,Other circulatory disease,0
+109,113189,6,7100,Syst lupus erythematosus,Systemic lupus erythematosus,291270,Systemic lupus erythematosus and connective tissue disorders,0
+109,113189,7,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,291270,Deficiency and other anemia,0
+109,113189,8,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",291270,Coagulation and hemorrhagic disorders,0
+109,113189,9,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),291270,Residual codes; unclassified,0
+109,113189,10,72992,Nontrauma hema soft tiss,Nontraumatic hematoma of soft tissue,291270,Other connective tissue disease,0
+109,113189,11,3004,Dysthymic disorder,Dysthymic disorder,291270,Mood disorders,0
+109,113189,12,V4512,Noncmplnt w renal dialys,Noncompliance with renal dialysis,291270,Chronic kidney disease,1
+109,113189,13,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,291270,Other aftercare,0
+109,113189,14,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,291270,Phlebitis; thrombophlebitis and thromboembolism,0
+109,131376,1,40301,Mal hyp kid w cr kid V,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",299251,Hypertension with complications and secondary hypertension,1
+109,131376,2,5856,End stage renal disease,End stage renal disease,299251,Chronic kidney disease,1
+109,131376,3,58281,Chr nephritis in oth dis,Chronic glomerulonephritis in diseases classified elsewhere,299251,Nephritis; nephrosis; renal sclerosis,0
+109,131376,4,4254,Prim cardiomyopathy NEC,Other primary cardiomyopathies,299251,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
+109,131376,5,3643,Iridocyclitis NOS,Unspecified iridocyclitis,299251,Inflammation; infection of eye (except that caused by tuberculosis or sexually transmitteddisease),0
+109,131376,7,78959,Ascites NEC,Other ascites,299251,Other liver diseases,1
+109,131376,8,33829,Chronic pain NEC,Other chronic pain,299251,Other nervous system disorders,0
+109,131376,9,78900,Abdmnal pain unspcf site,"Abdominal pain, unspecified site",299251,Abdominal pain,0
+109,131376,10,7100,Syst lupus erythematosus,Systemic lupus erythematosus,299251,Systemic lupus erythematosus and connective tissue disorders,0
+109,131376,11,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",299251,Coagulation and hemorrhagic disorders,0
+109,131376,12,28521,Anemia in chr kidney dis,Anemia in chronic kidney disease,299251,Deficiency and other anemia,0
+109,131376,13,32723,Obstructive sleep apnea,Obstructive sleep apnea (adult)(pediatric),299251,Residual codes; unclassified,0
+109,131376,14,44389,Periph vascular dis NEC,Other specified peripheral vascular diseases,299251,Other circulatory disease,0
+109,131376,15,28529,Anemia-other chronic dis,Anemia of other chronic disease,299251,Deficiency and other anemia,0
+109,131376,16,53190,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",299251,Gastroduodenal ulcer (except hemorrhage),0
+109,131376,17,34590,Epilep NOS w/o intr epil,"Epilepsy, unspecified, without mention of intractable epilepsy",299251,Epilepsy; convulsions,0
+109,131376,18,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,299251,Other aftercare,0
+109,131376,19,V1251,Hx-ven thrombosis/embols,Personal history of venous thrombosis and embolism,299251,Phlebitis; thrombophlebitis and thromboembolism,0
+109,131376,20,V1254,Hx TIA/stroke w/o resid,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",299251,Other circulatory disease,0

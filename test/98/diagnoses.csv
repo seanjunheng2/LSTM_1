@@ -1,0 +1,3 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+98,188606,1,4373,Nonrupt cerebral aneurym,"Cerebral aneurysm, nonruptured",216929,Other and ill-defined cerebrovascular disease,0
+98,188606,2,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,216929,Thyroid disorders,0

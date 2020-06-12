@@ -1,0 +1,11 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+63,195961,1,71945,Joint pain-pelvis,"Pain in joint, pelvic region and thigh",244541,Other non-traumatic joint disorders,0
+63,195961,2,4280,CHF NOS,"Congestive heart failure, unspecified",244541,Congestive heart failure; nonhypertensive,1
+63,195961,3,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",244541,Chronic obstructive pulmonary disease and bronchiectasis,1
+63,195961,4,57420,Cholelithiasis NOS,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction",244541,Biliary tract disease,0
+63,195961,5,4148,Chr ischemic hrt dis NEC,Other specified forms of chronic ischemic heart disease,244541,Coronary atherosclerosis and other heart disease,1
+63,195961,6,E8889,Fall NOS,Unspecified fall,244541,Fall,0
+63,195961,7,E8498,Accident in place NEC,Accidents occurring in other specified places,244541,Place of occurrence,0
+63,195961,8,7808,Generalizd hyperhidrosis,Generalized hyperhidrosis,244541,Other skin disorders,0
+63,195961,9,2948,Mental disor NEC oth dis,Other persistent mental disorders due to conditions classified elsewhere,244541,"Delirium, dementia, and amnestic and other cognitive disorders",0
+63,195961,10,3079,Special symptom NEC/NOS,"Other and unspecified special symptoms or syndromes, not elsewhere classified",244541,Developmental disorders,0

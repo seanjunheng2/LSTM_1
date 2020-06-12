@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+293,125963,1,7455,Secundum atrial sept def,Ostium secundum type atrial septal defect,263651,Cardiac and circulatory congenital anomalies,0
+293,125963,2,3963,Mitral/aortic val insuff,Mitral valve insufficiency and aortic valve insufficiency,263651,Heart valve disorders,0
+293,125963,3,20190,Hdgk dis unsp xtrndl org,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites",263651,Hodgkin`s disease,0
+293,125963,4,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,263651,Coronary atherosclerosis and other heart disease,1
+293,125963,5,V1259,Hx-circulatory dis NEC,Personal history of other diseases of circulatory system,263651,Other circulatory disease,0

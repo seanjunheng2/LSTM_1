@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+245,105501,1,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",216674,Acute myocardial infarction,1
+245,105501,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,216674,Coronary atherosclerosis and other heart disease,1
+245,105501,3,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",216674,Complications of surgical procedures or medical care,1
+245,105501,4,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia,216674,Cardiac dysrhythmias,1
+245,105501,5,78551,Cardiogenic shock,Cardiogenic shock,216674,Shock,1
+245,105501,6,4280,CHF NOS,"Congestive heart failure, unspecified",216674,Congestive heart failure; nonhypertensive,1
+245,105501,7,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",216674,Acute and unspecified renal failure,1
+245,105501,8,3963,Mitral/aortic val insuff,Mitral valve insufficiency and aortic valve insufficiency,216674,Heart valve disorders,0
+245,105501,9,V667,Encountr palliative care,Encounter for palliative care,216674,Other aftercare,0

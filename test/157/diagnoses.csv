@@ -1,0 +1,35 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+157,110545,1,85222,Subdural hem-brief coma,"Subdural hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness",235058,Intracranial injury,0
+157,110545,2,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure,235058,Complications of surgical procedures or medical care,1
+157,110545,3,27651,Dehydration,Dehydration,235058,Fluid and electrolyte disorders,1
+157,110545,4,25082,DMII oth uncntrld,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled",235058,Diabetes mellitus with complications,1
+157,110545,5,4321,Subdural hemorrhage,Subdural hemorrhage,235058,Acute cerebrovascular disease,1
+157,110545,6,7843,Aphasia,Aphasia,235058,Other nervous system disorders,0
+157,110545,7,79092,Abnrml coagultion prfile,Abnormal coagulation profile,235058,Residual codes; unclassified,0
+157,110545,8,2859,Anemia NOS,"Anemia, unspecified",235058,Deficiency and other anemia,0
+157,110545,9,E8859,Fall from slipping NEC,"Fall from other slipping, tripping, or stumbling",235058,Fall,0
+157,110545,10,2939,Transient mental dis NOS,Unspecified transient mental disorder in conditions classified elsewhere,235058,Miscellaneous mental health disorders,0
+157,110545,11,7310,Osteitis deformans NOS,Osteitis deformans without mention of bone tumor,235058,Other bone disease and musculoskeletal deformities,0
+157,110545,12,7850,Tachycardia NOS,"Tachycardia, unspecified",235058,Cardiac dysrhythmias,1
+157,110545,13,79001,"Drop, hematocrit, precip",Precipitous drop in hematocrit,235058,Other hematologic conditions,0
+157,107880,1,0389,Septicemia NOS,Unspecified septicemia,264885,Septicemia (except in labor),1
+157,107880,2,99592,Severe sepsis,Severe sepsis,264885,Septicemia (except in labor),1
+157,107880,3,78552,Septic shock,Septic shock,264885,Shock,1
+157,107880,4,51881,Acute respiratry failure,Acute respiratory failure,264885,Respiratory failure; insufficiency; arrest (adult),1
+157,107880,5,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,264885,Aspiration pneumonitis; food/vomitus,0
+157,107880,6,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",264885,Urinary tract infections,0
+157,107880,7,48241,Meth sus pneum d/t Staph,Methicillin susceptible pneumonia due to Staphylococcus aureus,264885,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+157,107880,8,4280,CHF NOS,"Congestive heart failure, unspecified",264885,Congestive heart failure; nonhypertensive,1
+157,107880,9,V090,Inf mcrg rstn pncllins,Infection with microorganisms resistant to penicillins,264885,Bacterial infection; unspecified site,0
+157,107880,11,2762,Acidosis,Acidosis,264885,Fluid and electrolyte disorders,1
+157,107880,12,V0980,Inf mcr rst ot drg nt ml,Infection with microorganisms without mention of resistance to multiple drugs,264885,Bacterial infection; unspecified site,0
+157,107880,13,43811,Late eff CV dis-aphasia,"Late effects of cerebrovascular disease, aphasia",264885,Late effects of cerebrovascular disease,0
+157,107880,14,4380,Late ef CV dis-cognf def,"Late effects of cerebrovascular disease, cognitive deficits",264885,Late effects of cerebrovascular disease,0
+157,107880,15,43889,Late effect CV dis NEC,Other late effects of cerebrovascular disease,264885,Late effects of cerebrovascular disease,0
+157,107880,16,78079,Malaise and fatigue NEC,Other malaise and fatigue,264885,Malaise and fatigue,0
+157,107880,17,V5843,Aftrcare inj/trauma surg,Aftercare following surgery for injury and trauma,264885,Other aftercare,0
+157,107880,18,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",264885,Diabetes mellitus without complication,1
+157,107880,19,7310,Osteitis deformans NOS,Osteitis deformans without mention of bone tumor,264885,Other bone disease and musculoskeletal deformities,0
+157,107880,20,2768,Hypopotassemia,Hypopotassemia,264885,Fluid and electrolyte disorders,1
+157,107880,22,4019,Hypertension NOS,Unspecified essential hypertension,264885,Essential hypertension,1
+157,107880,23,2859,Anemia NOS,"Anemia, unspecified",264885,Deficiency and other anemia,0

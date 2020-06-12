@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+59,104130,1,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",224440,Urinary tract infections,0
+59,104130,2,40391,Hyp kid NOS w cr kid V,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",224440,Hypertension with complications and secondary hypertension,1
+59,104130,3,5856,End stage renal disease,End stage renal disease,224440,Chronic kidney disease,1
+59,104130,4,25080,DMII oth nt st uncntrld,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",224440,Diabetes mellitus with complications,1
+59,104130,6,4589,Hypotension NOS,"Hypotension, unspecified",224440,Other circulatory disease,0
+59,104130,7,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",224440,Mood disorders,0
+59,104130,8,2948,Mental disor NEC oth dis,Other persistent mental disorders due to conditions classified elsewhere,224440,"Delirium, dementia, and amnestic and other cognitive disorders",0
+59,104130,9,78701,Nausea with vomiting,Nausea with vomiting,224440,Nausea and vomiting,0
+59,104130,10,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,224440,Thyroid disorders,0
+59,104130,11,V4501,Status cardiac pacemaker,Cardiac pacemaker in situ,224440,Conduction disorders,1
+59,104130,12,28529,Anemia-other chronic dis,Anemia of other chronic disease,224440,Deficiency and other anemia,0

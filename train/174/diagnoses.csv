@@ -1,0 +1,8 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+174,110104,1,07020,Hpt B acte coma wo dlta,"Viral hepatitis B with hepatic coma, acute or unspecified, without mention of hepatitis delta",232160,Hepatitis,0
+174,110104,2,30561,Cocaine abuse-continuous,"Cocaine abuse, continuous",232160,Substance-related disorders,0
+174,110104,3,30551,Opioid abuse-continuous,"Opioid abuse, continuous",232160,Substance-related disorders,0
+174,110104,4,78039,Convulsions NEC,Other convulsions,232160,Epilepsy; convulsions,0
+174,110104,5,2858,Anemia NEC,Other specified anemias,232160,Deficiency and other anemia,0
+174,110104,6,79092,Abnrml coagultion prfile,Abnormal coagulation profile,232160,Residual codes; unclassified,0
+174,110104,7,29680,Bipolar disorder NOS,"Bipolar disorder, unspecified",232160,Mood disorders,0

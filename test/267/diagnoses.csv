@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+267,163714,2,5770,Acute pancreatitis,Acute pancreatitis,223660,Pancreatic disorders (not diabetes),0
+267,163714,3,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",223660,Urinary tract infections,0
+267,163714,4,07032,Hpt B chrn wo cm wo dlta,Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta,223660,Hepatitis,0
+267,163714,5,56789,Peritonitis NEC,Other specified peritonitis,223660,Peritonitis and intestinal abscess,0
+267,163714,6,9982,Accidental op laceration,"Accidental puncture or laceration during a procedure, not elsewhere classified",223660,Complications of surgical procedures or medical care,1
+267,163714,7,E8788,Abn react-surg proc NEC,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",223660,Adverse effects of medical care,0
+267,163714,8,E8490,Accident in home,Home accidents,223660,Place of occurrence,0
+267,163714,9,5778,Pancreatic disease NEC,Other specified diseases of pancreas,223660,Pancreatic disorders (not diabetes),0
+267,163714,10,7850,Tachycardia NOS,"Tachycardia, unspecified",223660,Cardiac dysrhythmias,1

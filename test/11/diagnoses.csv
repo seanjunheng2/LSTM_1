@@ -1,0 +1,2 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+11,194540,1,1913,Mal neo parietal lobe,Malignant neoplasm of parietal lobe,229441,Cancer of brain and nervous system,0

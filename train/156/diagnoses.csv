@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+156,199280,1,44103,Dsct of thoracoabd aorta,"Dissection of aorta, thoracoabdominal",259092,Aortic; peripheral; and visceral artery aneurysms,0
+156,199280,3,5109,Empyema w/o fistula,Empyema without mention of fistula,259092,Pleurisy; pneumothorax; pulmonary collapse,1
+156,199280,4,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure,259092,Complications of surgical procedures or medical care,1
+156,199280,5,42731,Atrial fibrillation,Atrial fibrillation,259092,Cardiac dysrhythmias,1
+156,199280,6,2869,Coagulat defect NEC/NOS,Other and unspecified coagulation defects,259092,Coagulation and hemorrhagic disorders,0
+156,199280,7,4280,CHF NOS,"Congestive heart failure, unspecified",259092,Congestive heart failure; nonhypertensive,1
+156,199280,8,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis,259092,Acute and unspecified renal failure,1
+156,199280,9,5180,Pulmonary collapse,Pulmonary collapse,259092,Pleurisy; pneumothorax; pulmonary collapse,1
+156,199280,10,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",259092,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+156,199280,12,2930,Delirium d/t other cond,Delirium due to conditions classified elsewhere,259092,"Delirium, dementia, and amnestic and other cognitive disorders",0
+156,199280,13,78057,Sleep apnea NOS,Unspecified sleep apnea,259092,Residual codes; unclassified,0
+156,199280,14,47829,Disease of pharynx NEC,"Other diseases of pharynx, not elsewhere classified",259092,Other upper respiratory disease,1

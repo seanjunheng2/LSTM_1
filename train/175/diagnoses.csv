@@ -1,0 +1,24 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+175,176764,1,42831,Ac diastolic hrt failure,Acute diastolic heart failure,252789,Congestive heart failure; nonhypertensive,1
+175,176764,2,51881,Acute respiratry failure,Acute respiratory failure,252789,Respiratory failure; insufficiency; arrest (adult),1
+175,176764,3,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,252789,Aspiration pneumonitis; food/vomitus,0
+175,176764,4,42731,Atrial fibrillation,Atrial fibrillation,252789,Cardiac dysrhythmias,1
+175,176764,5,70707,"Pressure ulcer, heel","Pressure ulcer, heel",252789,Chronic ulcer of skin,0
+175,176764,6,V422,Heart valve transplant,Heart valve replaced by transplant,252789,Heart valve disorders,0
+175,176764,7,2738,Dis plas protein met NEC,Other disorders of plasma protein metabolism,252789,Other nutritional; endocrine; and metabolic disorders,0
+175,176764,8,V5417,Aftrcre traum fx vertebr,Aftercare for healing traumatic fracture of vertebrae,252789,Other fractures,0
+175,176764,9,V4581,Aortocoronary bypass,Aortocoronary bypass status,252789,Coronary atherosclerosis and other heart disease,1
+175,159223,1,80604,C1-c4 fx-cl/cord inj NEC,Closed fracture of C1-C4 level with other specified spinal cord injury,279009,Spinal cord injury,0
+175,159223,2,8052,Fx dorsal vertebra-close,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury,279009,Other fractures,0
+175,159223,3,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris,279009,Coronary atherosclerosis and other heart disease,1
+175,159223,4,42731,Atrial fibrillation,Atrial fibrillation,279009,Cardiac dysrhythmias,1
+175,159223,5,V422,Heart valve transplant,Heart valve replaced by transplant,279009,Heart valve disorders,0
+175,159223,6,4280,CHF NOS,"Congestive heart failure, unspecified",279009,Congestive heart failure; nonhypertensive,1
+175,159223,7,E8809,Fall on stair/step NEC,Accidental fall on or from other stairs or steps,279009,Fall,0
+175,159223,8,80701,Fracture one rib-closed,Closed fracture of one rib,279009,Other fractures,0
+175,159223,9,4414,Abdom aortic aneurysm,Abdominal aneurysm without mention of rupture,279009,Aortic; peripheral; and visceral artery aneurysms,0
+175,159223,10,4019,Hypertension NOS,Unspecified essential hypertension,279009,Essential hypertension,1
+175,159223,11,V4501,Status cardiac pacemaker,Cardiac pacemaker in situ,279009,Conduction disorders,1
+175,159223,12,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",279009,Peripheral and visceral atherosclerosis,0
+175,159223,13,8730,Open wound of scalp,"Open wound of scalp, without mention of complication",279009,Open wounds of head; neck; and trunk,0
+175,159223,14,57420,Cholelithiasis NOS,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction",279009,Biliary tract disease,0

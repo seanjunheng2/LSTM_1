@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+287,175954,1,99859,Other postop infection,Other postoperative infection,245343,Complications of surgical procedures or medical care,1
+287,175954,2,3240,Intracranial abscess,Intracranial abscess,245343,Other CNS infection and poliomyelitis,0
+287,175954,3,496,Chr airway obstruct NEC,"Chronic airway obstruction, not elsewhere classified",245343,Chronic obstructive pulmonary disease and bronchiectasis,1
+287,175954,4,99669,React-int pros devic NEC,"Infection and inflammatory reaction due to other internal prosthetic device, implant, and graft",245343,Complication of device; implant or graft,0
+287,175954,5,7907,Bacteremia,Bacteremia,245343,Septicemia (except in labor),1
+287,175954,6,7140,Rheumatoid arthritis,Rheumatoid arthritis,245343,Rheumatoid arthritis and related disease,0
+287,175954,7,1700,Mal neo skull/face bone,"Malignant neoplasm of bones of skull and face, except mandible",245343,Cancer of bone and connective tissue,0
+287,175954,8,2536,Neurohypophysis dis NEC,Other disorders of neurohypophysis,245343,Other endocrine disorders,0

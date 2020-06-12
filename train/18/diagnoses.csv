@@ -1,0 +1,14 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+18,188822,1,25080,DMII oth nt st uncntrld,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",298129,Diabetes mellitus with complications,1
+18,188822,2,78039,Convulsions NEC,Other convulsions,298129,Epilepsy; convulsions,0
+18,188822,3,29633,Recur depr psych-severe,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",298129,Mood disorders,0
+18,188822,4,V5867,Long-term use of insulin,Long-term (current) use of insulin,298129,Other aftercare,0
+18,188822,5,E9323,Adv eff insulin/antidiab,Insulins and antidiabetic agents causing adverse effects in therapeutic use,298129,Adverse effects of medical drugs,0
+18,188822,6,V5869,Long-term use meds NEC,Long-term (current) use of other medications,298129,Other aftercare,0
+18,188822,7,47829,Disease of pharynx NEC,"Other diseases of pharynx, not elsewhere classified",298129,Other upper respiratory disease,1
+18,188822,8,78057,Sleep apnea NOS,Unspecified sleep apnea,298129,Residual codes; unclassified,0
+18,188822,9,78321,Abnormal loss of weight,Loss of weight,298129,Other nutritional; endocrine; and metabolic disorders,0
+18,188822,10,4019,Hypertension NOS,Unspecified essential hypertension,298129,Essential hypertension,1
+18,188822,11,4264,Rt bundle branch block,Right bundle branch block,298129,Conduction disorders,1
+18,188822,12,2720,Pure hypercholesterolem,Pure hypercholesterolemia,298129,Disorders of lipid metabolism,1
+18,188822,13,V170,Fam hx-psychiatric cond,Family history of psychiatric condition,298129,Residual codes; unclassified,0

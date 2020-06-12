@@ -1,0 +1,8 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+134,167887,1,3963,Mitral/aortic val insuff,Mitral valve insufficiency and aortic valve insufficiency,249359,Heart valve disorders,0
+134,167887,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,249359,Coronary atherosclerosis and other heart disease,1
+134,167887,3,4019,Hypertension NOS,Unspecified essential hypertension,249359,Essential hypertension,1
+134,167887,4,53081,Esophageal reflux,Esophageal reflux,249359,Esophageal disorders,0
+134,167887,5,3659,Glaucoma NOS,Unspecified glaucoma,249359,Glaucoma,0
+134,167887,6,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,249359,Thyroid disorders,0
+134,167887,7,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",249359,Peripheral and visceral atherosclerosis,0

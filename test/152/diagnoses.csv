@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+152,117181,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,279643,Coronary atherosclerosis and other heart disease,1
+152,117181,2,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",279643,Complications of surgical procedures or medical care,1
+152,117181,3,42731,Atrial fibrillation,Atrial fibrillation,279643,Cardiac dysrhythmias,1
+152,117181,4,9975,Surg compl-urinary tract,"Urinary complications, not elsewhere classified",279643,Complications of surgical procedures or medical care,1
+152,117181,5,78820,Retention urine NOS,"Retention of urine, unspecified",279643,Genitourinary symptoms and ill-defined conditions,0
+152,117181,6,4019,Hypertension NOS,Unspecified essential hypertension,279643,Essential hypertension,1
+152,117181,7,2720,Pure hypercholesterolem,Pure hypercholesterolemia,279643,Disorders of lipid metabolism,1
+152,117181,8,412,Old myocardial infarct,Old myocardial infarction,279643,Coronary atherosclerosis and other heart disease,1
+152,117181,9,60000,BPH w/o urinary obs/LUTS,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),279643,Hyperplasia of prostate,0
+152,117181,10,4414,Abdom aortic aneurysm,Abdominal aneurysm without mention of rupture,279643,Aortic; peripheral; and visceral artery aneurysms,0
+152,117181,11,V1301,Prsnl hst urnr dsrd calc,Personal history of urinary calculi,279643,Calculus of urinary tract,0

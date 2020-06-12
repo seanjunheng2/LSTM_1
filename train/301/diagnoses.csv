@@ -1,0 +1,18 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+301,160332,1,19889,Secondary malig neo NEC,Secondary malignant neoplasm of other specified sites,288401,Secondary malignancies,0
+301,160332,2,5780,Hematemesis,Hematemesis,288401,Gastrointestinal hemorrhage,1
+301,160332,3,27651,Dehydration,Dehydration,288401,Fluid and electrolyte disorders,1
+301,160332,4,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",288401,Acute and unspecified renal failure,1
+301,160332,5,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic),288401,Deficiency and other anemia,0
+301,160332,6,2762,Acidosis,Acidosis,288401,Fluid and electrolyte disorders,1
+301,160332,7,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition,288401,Nutritional deficiencies,0
+301,160332,8,2760,Hyperosmolality,Hyperosmolality and/or hypernatremia,288401,Fluid and electrolyte disorders,1
+301,160332,9,5762,Obstruction of bile duct,Obstruction of bile duct,288401,Biliary tract disease,0
+301,160332,10,4019,Hypertension NOS,Unspecified essential hypertension,288401,Essential hypertension,1
+301,160332,11,2720,Pure hypercholesterolem,Pure hypercholesterolemia,288401,Disorders of lipid metabolism,1
+301,160332,12,33829,Chronic pain NEC,Other chronic pain,288401,Other nervous system disorders,0
+301,160332,13,7245,Backache NOS,"Backache, unspecified",288401,Spondylosis; intervertebral disc disorders; other back problems,0
+301,160332,14,4414,Abdom aortic aneurysm,Abdominal aneurysm without mention of rupture,288401,Aortic; peripheral; and visceral artery aneurysms,0
+301,160332,15,V1009,Hx of GI malignancy NEC,Personal history of malignant neoplasm of other gastrointestinal tract,288401,Cancer of other GI organs; peritoneum,0
+301,160332,16,V4501,Status cardiac pacemaker,Cardiac pacemaker in situ,288401,Conduction disorders,1
+301,160332,17,V667,Encountr palliative care,Encounter for palliative care,288401,Other aftercare,0

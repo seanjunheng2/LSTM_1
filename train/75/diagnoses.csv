@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+75,112086,1,4241,Aortic valve disorder,Aortic valve disorders,281607,Heart valve disorders,0
+75,112086,3,5180,Pulmonary collapse,Pulmonary collapse,281607,Pleurisy; pneumothorax; pulmonary collapse,1
+75,112086,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",281607,Urinary tract infections,0
+75,112086,5,99709,Surg comp nerv systm NEC,Other nervous system complications,281607,Complications of surgical procedures or medical care,1
+75,112086,6,3558,Mononeuritis leg NOS,"Mononeuritis of lower limb, unspecified",281607,Other nervous system disorders,0
+75,112086,7,4019,Hypertension NOS,Unspecified essential hypertension,281607,Essential hypertension,1
+75,112086,8,2720,Pure hypercholesterolem,Pure hypercholesterolemia,281607,Disorders of lipid metabolism,1
+75,112086,9,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",281607,Diabetes mellitus without complication,1
+75,112086,10,53081,Esophageal reflux,Esophageal reflux,281607,Esophageal disorders,0
+75,112086,11,5533,Diaphragmatic hernia,Diaphragmatic hernia without mention of obstruction or gangrene,281607,Abdominal hernia,0
+75,112086,12,V1582,History of tobacco use,Personal history of tobacco use,281607,Screening and history of mental health and substance abuse codes,0

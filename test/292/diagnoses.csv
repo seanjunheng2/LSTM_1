@@ -1,0 +1,8 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+292,179726,1,0389,Septicemia NOS,Unspecified septicemia,222505,Septicemia (except in labor),1
+292,179726,2,78559,Shock w/o trauma NEC,Other shock without mention of trauma,222505,Shock,1
+292,179726,3,5761,Cholangitis,Cholangitis,222505,Biliary tract disease,0
+292,179726,5,45620,Bleed esoph var oth dis,"Esophageal varices in diseases classified elsewhere, with bleeding",222505,Gastrointestinal hemorrhage,1
+292,179726,6,78039,Convulsions NEC,Other convulsions,222505,Epilepsy; convulsions,0
+292,179726,7,2762,Acidosis,Acidosis,222505,Fluid and electrolyte disorders,1
+292,179726,9,5723,Portal hypertension,Portal hypertension,222505,Other liver diseases,1

@@ -1,0 +1,12 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+184,137477,1,1919,Malig neo brain NOS,"Malignant neoplasm of brain, unspecified",236049,Cancer of brain and nervous system,0
+184,137477,2,6826,Cellulitis of leg,"Cellulitis and abscess of leg, except foot",236049,Skin and subcutaneous tissue infections,0
+184,137477,3,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",236049,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+184,137477,5,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",236049,Diabetes mellitus without complication,1
+184,137477,6,3594,Toxic myopathy,Toxic myopathy,236049,Other nervous system disorders,0
+184,137477,7,E9320,Adv eff corticosteroids,Adrenal cortical steroids causing adverse effects in therapeutic use,236049,Adverse effects of medical drugs,0
+184,137526,1,1916,Mal neo cerebellum NOS,Malignant neoplasm of cerebellum nos,285726,Cancer of brain and nervous system,0
+184,137526,2,78039,Convulsions NEC,Other convulsions,285726,Epilepsy; convulsions,0
+184,137526,4,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",285726,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
+184,137526,6,34830,Encephalopathy NOS,"Encephalopathy, unspecified",285726,Other nervous system disorders,0
+184,137526,7,2859,Anemia NOS,"Anemia, unspecified",285726,Deficiency and other anemia,0

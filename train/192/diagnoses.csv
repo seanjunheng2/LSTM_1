@@ -1,0 +1,7 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+192,194518,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,298170,Coronary atherosclerosis and other heart disease,1
+192,194518,2,25001,DMI wo cmp nt st uncntrl,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled",298170,Diabetes mellitus without complication,1
+192,194518,3,4148,Chr ischemic hrt dis NEC,Other specified forms of chronic ischemic heart disease,298170,Coronary atherosclerosis and other heart disease,1
+192,194518,4,2720,Pure hypercholesterolem,Pure hypercholesterolemia,298170,Disorders of lipid metabolism,1
+192,194518,5,7140,Rheumatoid arthritis,Rheumatoid arthritis,298170,Rheumatoid arthritis and related disease,0
+192,194518,6,4439,Periph vascular dis NOS,"Peripheral vascular disease, unspecified",298170,Peripheral and visceral atherosclerosis,0

@@ -1,0 +1,25 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+191,136614,1,51881,Acute respiratry failure,Acute respiratory failure,280149,Respiratory failure; insufficiency; arrest (adult),1
+191,136614,2,99859,Other postop infection,Other postoperative infection,280149,Complications of surgical procedures or medical care,1
+191,136614,3,03842,E coli septicemia,Septicemia due to escherichia coli [E. coli],280149,Septicemia (except in labor),1
+191,136614,4,99591,Sepsis,Sepsis,280149,Septicemia (except in labor),1
+191,136614,5,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",280149,Acute and unspecified renal failure,1
+191,136614,6,78552,Septic shock,Septic shock,280149,Shock,1
+191,136614,7,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",280149,Urinary tract infections,0
+191,136614,8,591,Hydronephrosis,Hydronephrosis,280149,Other diseases of kidney and ureters,0
+191,136614,9,42732,Atrial flutter,Atrial flutter,280149,Cardiac dysrhythmias,1
+191,136614,10,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",280149,Chronic kidney disease,1
+191,136614,11,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,280149,Coronary atherosclerosis and other heart disease,1
+191,136614,12,40390,Hy kid NOS w cr kid I-IV,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",280149,Hypertension with complications and secondary hypertension,1
+191,136614,13,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",280149,Diabetes mellitus without complication,1
+191,136614,14,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,280149,Disorders of lipid metabolism,1
+191,136614,15,2749,Gout NOS,"Gout, unspecified",280149,Gout and other crystal arthropathies,0
+191,142081,1,0380,Streptococcal septicemia,Streptococcal septicemia,285720,Septicemia (except in labor),1
+191,142081,2,51881,Acute respiratry failure,Acute respiratory failure,285720,Respiratory failure; insufficiency; arrest (adult),1
+191,142081,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",285720,Acute and unspecified renal failure,1
+191,142081,4,5921,Calculus of ureter,Calculus of ureter,285720,Calculus of urinary tract,0
+191,142081,5,53240,Chr duoden ulcer w hem,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",285720,Gastrointestinal hemorrhage,1
+191,142081,6,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,285720,Aspiration pneumonitis; food/vomitus,0
+191,142081,7,2800,Chr blood loss anemia,Iron deficiency anemia secondary to blood loss (chronic),285720,Deficiency and other anemia,0
+191,142081,8,9975,Surg compl-urinary tract,"Urinary complications, not elsewhere classified",285720,Complications of surgical procedures or medical care,1
+191,142081,9,4280,CHF NOS,"Congestive heart failure, unspecified",285720,Congestive heart failure; nonhypertensive,1

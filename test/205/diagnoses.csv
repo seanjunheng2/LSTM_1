@@ -1,0 +1,10 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+205,135671,1,4280,CHF NOS,"Congestive heart failure, unspecified",277536,Congestive heart failure; nonhypertensive,1
+205,135671,2,4240,Mitral valve disorder,Mitral valve disorders,277536,Heart valve disorders,0
+205,135671,3,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",277536,Urinary tract infections,0
+205,135671,4,2761,Hyposmolality,Hyposmolality and/or hyponatremia,277536,Fluid and electrolyte disorders,1
+205,135671,5,4589,Hypotension NOS,"Hypotension, unspecified",277536,Other circulatory disease,0
+205,135671,6,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,277536,Coronary atherosclerosis and other heart disease,1
+205,135671,7,2859,Anemia NOS,"Anemia, unspecified",277536,Deficiency and other anemia,0
+205,135671,8,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",277536,Diabetes mellitus without complication,1
+205,135671,9,412,Old myocardial infarct,Old myocardial infarction,277536,Coronary atherosclerosis and other heart disease,1

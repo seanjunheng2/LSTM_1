@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+163,138528,1,41071,"Subendo infarct, initial","Subendocardial infarction, initial episode of care",229098,Acute myocardial infarction,1
+163,138528,2,4280,CHF NOS,"Congestive heart failure, unspecified",229098,Congestive heart failure; nonhypertensive,1
+163,138528,3,42840,Syst/diast hrt fail NOS,"Combined systolic and diastolic heart failure, unspecified",229098,Congestive heart failure; nonhypertensive,1
+163,138528,4,5180,Pulmonary collapse,Pulmonary collapse,229098,Pleurisy; pneumothorax; pulmonary collapse,1
+163,138528,5,501,Asbestosis,Asbestosis,229098,Lung disease due to external agents,0
+163,138528,6,V4502,Status autm crd dfbrltr,Automatic implantable cardiac defibrillator in situ,229098,Conduction disorders,1
+163,138528,7,4940,Bronchiectas w/o ac exac,Bronchiectasis without acute exacerbation,229098,Chronic obstructive pulmonary disease and bronchiectasis,1
+163,138528,8,5771,Chronic pancreatitis,Chronic pancreatitis,229098,Pancreatic disorders (not diabetes),0

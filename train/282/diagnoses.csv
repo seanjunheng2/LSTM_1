@@ -1,0 +1,13 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+282,119013,1,99644,Periprosthetc fx-pros jt,Peri-prosthetic fracture around prosthetic joint,293262,Complication of device; implant or graft,0
+282,119013,2,78039,Convulsions NEC,Other convulsions,293262,Epilepsy; convulsions,0
+282,119013,3,5859,Chronic kidney dis NOS,"Chronic kidney disease, unspecified",293262,Chronic kidney disease,1
+282,119013,4,5990,Urin tract infection NOS,"Urinary tract infection, site not specified",293262,Urinary tract infections,0
+282,119013,5,E8859,Fall from slipping NEC,"Fall from other slipping, tripping, or stumbling",293262,Fall,0
+282,119013,6,4019,Hypertension NOS,Unspecified essential hypertension,293262,Essential hypertension,1
+282,119013,7,73300,Osteoporosis NOS,"Osteoporosis, unspecified",293262,Osteoporosis,0
+282,119013,8,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,293262,Thyroid disorders,0
+282,119013,9,3004,Dysthymic disorder,Dysthymic disorder,293262,Mood disorders,0
+282,119013,10,4389,Late effect CV dis NOS,Unspecified late effects of cerebrovascular disease,293262,Late effects of cerebrovascular disease,0
+282,119013,11,V4364,Joint replaced hip,Hip joint replacement,293262,Other connective tissue disease,0
+282,119013,12,V4365,Joint replaced knee,Knee joint replacement,293262,Other connective tissue disease,0

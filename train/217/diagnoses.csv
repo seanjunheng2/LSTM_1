@@ -1,0 +1,4 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+217,155173,1,3962,Mitral insuf/aort stenos,Mitral valve insufficiency and aortic valve stenosis,226300,Heart valve disorders,0
+217,155173,2,42731,Atrial fibrillation,Atrial fibrillation,226300,Cardiac dysrhythmias,1
+217,155173,3,4168,Chr pulmon heart dis NEC,Other chronic pulmonary heart diseases,226300,Pulmonary heart disease,0

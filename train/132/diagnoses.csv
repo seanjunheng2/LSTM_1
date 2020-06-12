@@ -1,0 +1,5 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+132,160192,1,430,Subarachnoid hemorrhage,Subarachnoid hemorrhage,267893,Acute cerebrovascular disease,1
+132,160192,2,78039,Convulsions NEC,Other convulsions,267893,Epilepsy; convulsions,0
+132,160192,3,2761,Hyposmolality,Hyposmolality and/or hyponatremia,267893,Fluid and electrolyte disorders,1
+132,160192,4,3051,Tobacco use disorder,Tobacco use disorder,267893,Screening and history of mental health and substance abuse codes,0

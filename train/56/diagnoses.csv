@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+56,181711,1,1983,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord,275642,Secondary malignancies,0
+56,181711,2,1628,Mal neo bronch/lung NEC,Malignant neoplasm of other parts of bronchus or lung,275642,Cancer of bronchus; lung,0
+56,181711,3,53140,Chr stomach ulc w hem,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",275642,Gastrointestinal hemorrhage,1
+56,181711,4,2761,Hyposmolality,Hyposmolality and/or hyponatremia,275642,Fluid and electrolyte disorders,1
+56,181711,5,4280,CHF NOS,"Congestive heart failure, unspecified",275642,Congestive heart failure; nonhypertensive,1
+56,181711,6,78039,Convulsions NEC,Other convulsions,275642,Epilepsy; convulsions,0
+56,181711,7,2720,Pure hypercholesterolem,Pure hypercholesterolemia,275642,Disorders of lipid metabolism,1
+56,181711,8,4019,Hypertension NOS,Unspecified essential hypertension,275642,Essential hypertension,1

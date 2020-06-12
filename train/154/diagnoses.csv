@@ -1,0 +1,16 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+154,162891,1,99672,Comp-oth cardiac device,"Other complications due to other cardiac device, implant, and graft",250579,Complication of device; implant or graft,0
+154,162891,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,250579,Coronary atherosclerosis and other heart disease,1
+154,162891,3,4111,Intermed coronary synd,Intermediate coronary syndrome,250579,Coronary atherosclerosis and other heart disease,1
+154,162891,4,2720,Pure hypercholesterolem,Pure hypercholesterolemia,250579,Disorders of lipid metabolism,1
+154,162891,5,4019,Hypertension NOS,Unspecified essential hypertension,250579,Essential hypertension,1
+154,162891,6,412,Old myocardial infarct,Old myocardial infarction,250579,Coronary atherosclerosis and other heart disease,1
+154,162891,7,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,250579,Coronary atherosclerosis and other heart disease,1
+154,162891,8,V1582,History of tobacco use,Personal history of tobacco use,250579,Screening and history of mental health and substance abuse codes,0
+154,111735,1,41041,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care",275949,Acute myocardial infarction,1
+154,111735,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,275949,Coronary atherosclerosis and other heart disease,1
+154,111735,3,07999,Viral infection NOS,Unspecified viral infection,275949,Viral infection,0
+154,111735,4,4019,Hypertension NOS,Unspecified essential hypertension,275949,Essential hypertension,1
+154,111735,5,2720,Pure hypercholesterolem,Pure hypercholesterolemia,275949,Disorders of lipid metabolism,1
+154,111735,6,30000,Anxiety state NOS,"Anxiety state, unspecified",275949,Anxiety disorders,0
+154,111735,7,V1582,History of tobacco use,Personal history of tobacco use,275949,Screening and history of mental health and substance abuse codes,0

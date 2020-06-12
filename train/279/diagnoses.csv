@@ -1,0 +1,9 @@
+SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
+279,192224,1,1561,Mal neo extrahepat ducts,Malignant neoplasm of extrahepatic bile ducts,204407,Cancer of other GI organs; peritoneum,0
+279,192224,3,2767,Hyperpotassemia,Hyperpotassemia,204407,Fluid and electrolyte disorders,1
+279,192224,4,2762,Acidosis,Acidosis,204407,Fluid and electrolyte disorders,1
+279,192224,5,5761,Cholangitis,Cholangitis,204407,Biliary tract disease,0
+279,192224,6,591,Hydronephrosis,Hydronephrosis,204407,Other diseases of kidney and ureters,0
+279,192224,7,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,204407,Other liver diseases,1
+279,192224,8,5845,"Ac kidny fail, tubr necr",Acute kidney failure with lesion of tubular necrosis,204407,Acute and unspecified renal failure,1
+279,192224,9,0389,Septicemia NOS,Unspecified septicemia,204407,Septicemia (except in labor),1
