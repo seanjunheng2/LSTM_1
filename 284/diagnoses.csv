@@ -1,7 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-284,112354,1,53140,Chr stomach ulc w hem,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",223593,Gastrointestinal hemorrhage,1
-284,112354,2,4280,CHF NOS,"Congestive heart failure, unspecified",223593,Congestive heart failure; nonhypertensive,1
-284,112354,3,42731,Atrial fibrillation,Atrial fibrillation,223593,Cardiac dysrhythmias,1
-284,112354,4,4019,Hypertension NOS,Unspecified essential hypertension,223593,Essential hypertension,1
-284,112354,5,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,223593,Other aftercare,0
-284,112354,6,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,223593,Acute posthemorrhagic anemia,0

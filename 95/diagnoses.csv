@@ -1,2 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-95,160891,1,4260,Atriovent block complete,"Atrioventricular block, complete",216431,Conduction disorders,1

@@ -1,7 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-71,111944,1,9695,Poison-tranquilizer NEC,Poisoning by other tranquilizers,211832,Poisoning by psychotropic agents,0
-71,111944,2,2762,Acidosis,Acidosis,211832,Fluid and electrolyte disorders,1
-71,111944,3,29590,Schizophrenia NOS-unspec,"Unspecified schizophrenia, unspecified",211832,Schizophrenia and other psychotic disorders,0
-71,111944,4,E9503,Poison-psychotropic agt,Suicide and self-inflicted poisoning by tranquilizers and other psychotropic agents,211832,Suicide and intentional self-inflicted injury,0
-71,111944,5,2859,Anemia NOS,"Anemia, unspecified",211832,Deficiency and other anemia,0
-71,111944,6,2662,B-complex defic NEC,Other B-complex deficiencies,211832,Nutritional deficiencies,0

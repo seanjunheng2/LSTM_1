@@ -1,4 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-43,146828,1,8052,Fx dorsal vertebra-close,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury,225852,Other fractures,0
-43,146828,2,5180,Pulmonary collapse,Pulmonary collapse,225852,Pleurisy; pneumothorax; pulmonary collapse,1
-43,146828,3,E8210,Oth off-road mv acc-driv,Nontraffic accident involving other off-road motor vehicle injuring driver of motor vehicle other than motorcycle,225852,Transport; not MVT,0

@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-77,142768,1,41061,"True post infarct, init","True posterior wall infarction, initial episode of care",297831,Acute myocardial infarction,1
-77,142768,2,4280,CHF NOS,"Congestive heart failure, unspecified",297831,Congestive heart failure; nonhypertensive,1
-77,142768,3,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,297831,Coronary atherosclerosis and other heart disease,1
-77,142768,4,2720,Pure hypercholesterolem,Pure hypercholesterolemia,297831,Disorders of lipid metabolism,1
-77,142768,5,2721,Pure hyperglyceridemia,Pure hyperglyceridemia,297831,Disorders of lipid metabolism,1

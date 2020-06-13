@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-160,161672,1,41041,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care",257626,Acute myocardial infarction,1
-160,161672,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,257626,Coronary atherosclerosis and other heart disease,1
-160,161672,3,7291,Myalgia and myositis NOS,"Myalgia and myositis, unspecified",257626,Other connective tissue disease,0
-160,161672,4,2720,Pure hypercholesterolem,Pure hypercholesterolemia,257626,Disorders of lipid metabolism,1
-160,161672,5,3051,Tobacco use disorder,Tobacco use disorder,257626,Screening and history of mental health and substance abuse codes,0

@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-266,186251,1,34550,Part epil w/o intr epil,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",293876,Epilepsy; convulsions,0
-266,186251,2,34830,Encephalopathy NOS,"Encephalopathy, unspecified",293876,Other nervous system disorders,0
-266,186251,3,42832,Chr diastolic hrt fail,Chronic diastolic heart failure,293876,Congestive heart failure; nonhypertensive,1
-266,186251,4,49390,Asthma NOS,"Asthma, unspecified type, unspecified",293876,Asthma,0
-266,186251,5,4280,CHF NOS,"Congestive heart failure, unspecified",293876,Congestive heart failure; nonhypertensive,1
-266,186251,6,27401,Acute gouty arthropathy,Acute gouty arthropathy,293876,Gout and other crystal arthropathies,0
-266,186251,7,4373,Nonrupt cerebral aneurym,"Cerebral aneurysm, nonruptured",293876,Other and ill-defined cerebrovascular disease,0
-266,186251,8,412,Old myocardial infarct,Old myocardial infarction,293876,Coronary atherosclerosis and other heart disease,1

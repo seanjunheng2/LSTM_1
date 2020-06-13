@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-181,102631,1,4411,Ruptur thoracic aneurysm,"Thoracic aneurysm, ruptured",246694,Aortic; peripheral; and visceral artery aneurysms,0
-181,102631,2,4241,Aortic valve disorder,Aortic valve disorders,246694,Heart valve disorders,0
-181,102631,3,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",246694,Complications of surgical procedures or medical care,1
-181,102631,4,4281,Left heart failure,Left heart failure,246694,Congestive heart failure; nonhypertensive,1
-181,102631,5,44103,Dsct of thoracoabd aorta,"Dissection of aorta, thoracoabdominal",246694,Aortic; peripheral; and visceral artery aneurysms,0

@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-231,177192,1,042,Human immuno virus dis,Human immunodeficiency virus [HIV] disease,213350,HIV infection,0
-231,177192,2,1363,Pneumocystosis,Pneumocystosis,213350,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
-231,177192,3,51881,Acute respiratry failure,Acute respiratory failure,213350,Respiratory failure; insufficiency; arrest (adult),1
-231,177192,4,78039,Convulsions NEC,Other convulsions,213350,Epilepsy; convulsions,0
-231,177192,5,2536,Neurohypophysis dis NEC,Other disorders of neurohypophysis,213350,Other endocrine disorders,0

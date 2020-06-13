@@ -1,4 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-189,119333,1,7464,Cong aorta valv insuffic,Congenital insufficiency of aortic valve,237693,Cardiac and circulatory congenital anomalies,0
-189,119333,2,4412,Thoracic aortic aneurysm,Thoracic aneurysm without mention of rupture,237693,Aortic; peripheral; and visceral artery aneurysms,0
-189,119333,3,2859,Anemia NOS,"Anemia, unspecified",237693,Deficiency and other anemia,0

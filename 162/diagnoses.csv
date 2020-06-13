@@ -1,5 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-162,195893,1,53140,Chr stomach ulc w hem,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",284604,Gastrointestinal hemorrhage,1
-162,195893,3,71590,Osteoarthros NOS-unspec,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",284604,Osteoarthritis,0
-162,195893,4,5533,Diaphragmatic hernia,Diaphragmatic hernia without mention of obstruction or gangrene,284604,Abdominal hernia,0
-162,195893,5,6961,Other psoriasis,Other psoriasis,284604,Other inflammatory condition of skin,0

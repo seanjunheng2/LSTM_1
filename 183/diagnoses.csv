@@ -1,4 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-183,113341,1,85300,Traumatic brain hem NEC,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",252525,Intracranial injury,0
-183,113341,2,95901,Head injury NOS,"Head injury, unspecified",252525,Other injuries and conditions due to external causes,0
-183,113341,3,E8120,Mv collision NOS-driver,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,252525,Motor vehicle traffic (MVT),0

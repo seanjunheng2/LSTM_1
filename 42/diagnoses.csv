@@ -1,8 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-42,119203,1,42741,Ventricular fibrillation,Ventricular fibrillation,210828,Cardiac arrest and ventricular fibrillation,0
-42,119203,2,4280,CHF NOS,"Congestive heart failure, unspecified",210828,Congestive heart failure; nonhypertensive,1
-42,119203,3,41400,Cor ath unsp vsl ntv/gft,"Coronary atherosclerosis of unspecified type of vessel, native or graft",210828,Coronary atherosclerosis and other heart disease,1
-42,119203,4,412,Old myocardial infarct,Old myocardial infarction,210828,Coronary atherosclerosis and other heart disease,1
-42,119203,5,4019,Hypertension NOS,Unspecified essential hypertension,210828,Essential hypertension,1
-42,119203,6,43820,Late ef-hemplga side NOS,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side",210828,Late effects of cerebrovascular disease,0
-42,119203,7,43819,Late ef-spch/lang df NEC,"Late effects of cerebrovascular disease, other speech and language deficits",210828,Late effects of cerebrovascular disease,0

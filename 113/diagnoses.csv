@@ -1,4 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-113,109976,1,1915,Mal neo cereb ventricle,Malignant neoplasm of ventricles,224661,Cancer of brain and nervous system,0
-113,109976,2,3314,Obstructiv hydrocephalus,Obstructive hydrocephalus,224661,Other hereditary and degenerative nervous system conditions,0
-113,109976,3,53081,Esophageal reflux,Esophageal reflux,224661,Esophageal disorders,0

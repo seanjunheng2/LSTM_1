@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-46,144073,1,5768,Dis of biliary tract NEC,Other specified disorders of biliary tract,268016,Biliary tract disease,0
-46,144073,2,20300,Mult mye w/o achv rmson,"Multiple myeloma, without mention of having achieved remission",268016,Multiple myeloma,0
-46,144073,3,99659,Malfunc oth device/graft,"Mechanical complication due to other implant and internal device, not elsewhere classified",268016,Complication of device; implant or graft,0
-46,144073,4,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure,268016,Complications of surgical procedures or medical care,1
-46,144073,5,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,268016,Acute posthemorrhagic anemia,0
-46,144073,6,2809,Iron defic anemia NOS,"Iron deficiency anemia, unspecified",268016,Deficiency and other anemia,0
-46,144073,7,2811,B12 defic anemia NEC,Other vitamin B12 deficiency anemia,268016,Deficiency and other anemia,0
-46,144073,8,22809,Hemangioma NEC,Hemangioma of other sites,268016,Other and unspecified benign neoplasm,0

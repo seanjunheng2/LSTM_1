@@ -1,3 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-238,174168,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,208413,Coronary atherosclerosis and other heart disease,1
-238,174168,2,4111,Intermed coronary synd,Intermediate coronary syndrome,208413,Coronary atherosclerosis and other heart disease,1

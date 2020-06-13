@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-276,135156,1,56212,Dvrtclo colon w hmrhg,Diverticulosis of colon with hemorrhage,206327,Diverticulosis and diverticulitis,0
-276,135156,2,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,206327,Acute posthemorrhagic anemia,0
-276,135156,3,53020,Ulc esophagus w/o bleed,Ulcer of esophagus without bleeding,206327,Esophageal disorders,0
-276,135156,4,53081,Esophageal reflux,Esophageal reflux,206327,Esophageal disorders,0
-276,135156,5,2720,Pure hypercholesterolem,Pure hypercholesterolemia,206327,Disorders of lipid metabolism,1

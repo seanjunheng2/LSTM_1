@@ -1,7 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-22,165315,1,9678,Pois-sedative/hypnot NEC,Poisoning by other sedatives and hypnotics,204798,Poisoning by other medications and drugs,0
-22,165315,2,9693,Poison-antipsychotic NEC,"Poisoning by other antipsychotics, neuroleptics, and major tranquilizers",204798,Poisoning by psychotropic agents,0
-22,165315,3,E9502,Poison-sedat/hypnotic,Suicide and self-inflicted poisoning by other sedatives and hypnotics,204798,Suicide and intentional self-inflicted injury,0
-22,165315,4,E9503,Poison-psychotropic agt,Suicide and self-inflicted poisoning by tranquilizers and other psychotropic agents,204798,Suicide and intentional self-inflicted injury,0
-22,165315,6,29620,Depress psychosis-unspec,"Major depressive affective disorder, single episode, unspecified",204798,Mood disorders,0
-22,165315,7,4019,Hypertension NOS,Unspecified essential hypertension,204798,Essential hypertension,1

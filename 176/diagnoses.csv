@@ -1,8 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-176,135828,1,4280,CHF NOS,"Congestive heart failure, unspecified",273927,Congestive heart failure; nonhypertensive,1
-176,135828,2,42731,Atrial fibrillation,Atrial fibrillation,273927,Cardiac dysrhythmias,1
-176,135828,5,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,273927,Coronary atherosclerosis and other heart disease,1
-176,135828,6,42781,Sinoatrial node dysfunct,Sinoatrial node dysfunction,273927,Cardiac dysrhythmias,1
-176,135828,7,V4501,Status cardiac pacemaker,Cardiac pacemaker in situ,273927,Conduction disorders,1
-176,135828,8,V5861,Long-term use anticoagul,Long-term (current) use of anticoagulants,273927,Other aftercare,0
-176,135828,9,V1046,Hx-prostatic malignancy,Personal history of malignant neoplasm of prostate,273927,Cancer of prostate,0

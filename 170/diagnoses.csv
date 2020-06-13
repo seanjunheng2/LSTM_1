@@ -1,8 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-170,175350,1,5081,Chr pul manif d/t radiat,Chronic and other pulmonary manifestations due to radiation,283077,Lung disease due to external agents,0
-170,175350,2,99679,Comp-int prost devic NEC,"Other complications due to other internal prosthetic device, implant, and graft",283077,Complication of device; implant or graft,0
-170,175350,3,51881,Acute respiratry failure,Acute respiratory failure,283077,Respiratory failure; insufficiency; arrest (adult),1
-170,175350,4,V1011,Hx-bronchogenic malignan,Personal history of malignant neoplasm of bronchus and lung,283077,Cancer of bronchus; lung,0
-170,175350,5,2449,Hypothyroidism NOS,Unspecified acquired hypothyroidism,283077,Thyroid disorders,0
-170,175350,6,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,283077,Disorders of lipid metabolism,1
-170,175350,7,53081,Esophageal reflux,Esophageal reflux,283077,Esophageal disorders,0

@@ -1,8 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-210,111253,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,269125,Coronary atherosclerosis and other heart disease,1
-210,111253,2,4111,Intermed coronary synd,Intermediate coronary syndrome,269125,Coronary atherosclerosis and other heart disease,1
-210,111253,3,99672,Comp-oth cardiac device,"Other complications due to other cardiac device, implant, and graft",269125,Complication of device; implant or graft,0
-210,111253,4,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",269125,Diabetes mellitus without complication,1
-210,111253,5,4019,Hypertension NOS,Unspecified essential hypertension,269125,Essential hypertension,1
-210,111253,6,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,269125,Disorders of lipid metabolism,1
-210,111253,7,53081,Esophageal reflux,Esophageal reflux,269125,Esophageal disorders,0

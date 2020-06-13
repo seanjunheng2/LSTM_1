@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-150,108732,1,1623,Mal neo upper lobe lung,"Malignant neoplasm of upper lobe, bronchus or lung",201239,Cancer of bronchus; lung,0
-150,108732,2,41519,Pulm embol/infarct NEC,Other pulmonary embolism and infarction,201239,Pulmonary heart disease,0
-150,108732,3,1961,Mal neo lymph-intrathor,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,201239,Secondary malignancies,0
-150,108732,5,4238,Pericardial disease NEC,Other specified diseases of pericardium,201239,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
-150,108732,6,1983,Sec mal neo brain/spine,Secondary malignant neoplasm of brain and spinal cord,201239,Secondary malignancies,0
-150,108732,7,28982,Sec hypercoagulable st,Secondary hypercoagulable state,201239,Coagulation and hemorrhagic disorders,0
-150,108732,8,34690,Migrne unsp wo ntrc mgrn,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",201239,Headache; including migraine,0
-150,108732,9,V1041,Hx-cervical malignancy,Personal history of malignant neoplasm of cervix uteri,201239,Cancer of cervix,0

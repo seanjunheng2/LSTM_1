@@ -1,8 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-212,189635,1,4329,Intracranial hemorr NOS,Unspecified intracranial hemorrhage,274498,Acute cerebrovascular disease,1
-212,189635,2,4019,Hypertension NOS,Unspecified essential hypertension,274498,Essential hypertension,1
-212,189635,3,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,274498,Coronary atherosclerosis and other heart disease,1
-212,189635,4,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,274498,Coronary atherosclerosis and other heart disease,1
-212,189635,5,42731,Atrial fibrillation,Atrial fibrillation,274498,Cardiac dysrhythmias,1
-212,189635,6,V1046,Hx-prostatic malignancy,Personal history of malignant neoplasm of prostate,274498,Cancer of prostate,0
-212,189635,7,79092,Abnrml coagultion prfile,Abnormal coagulation profile,274498,Residual codes; unclassified,0

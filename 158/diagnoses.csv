@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-158,169433,1,53240,Chr duoden ulcer w hem,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",257615,Gastrointestinal hemorrhage,1
-158,169433,2,49320,Chronic obst asthma NOS,"Chronic obstructive asthma, unspecified",257615,Asthma,0
-158,169433,3,V4581,Aortocoronary bypass,Aortocoronary bypass status,257615,Coronary atherosclerosis and other heart disease,1
-158,169433,4,412,Old myocardial infarct,Old myocardial infarction,257615,Coronary atherosclerosis and other heart disease,1
-158,169433,5,4019,Hypertension NOS,Unspecified essential hypertension,257615,Essential hypertension,1

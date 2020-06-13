@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-261,118523,1,4210,Ac/subac bact endocard,Acute and subacute bacterial endocarditis,218215,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
-261,118523,2,4280,CHF NOS,"Congestive heart failure, unspecified",218215,Congestive heart failure; nonhypertensive,1
-261,118523,3,42731,Atrial fibrillation,Atrial fibrillation,218215,Cardiac dysrhythmias,1
-261,118523,4,42732,Atrial flutter,Atrial flutter,218215,Cardiac dysrhythmias,1
-261,118523,5,2639,Protein-cal malnutr NOS,Unspecified protein-calorie malnutrition,218215,Nutritional deficiencies,0
-261,118523,6,03849,Gram-neg septicemia NEC,Other septicemia due to gram-negative organisms,218215,Septicemia (except in labor),1
-261,118523,8,1508,Mal neo esophagus NEC,Malignant neoplasm of other specified part of esophagus,218215,Cancer of esophagus,0
-261,118523,9,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",218215,Diabetes mellitus without complication,1

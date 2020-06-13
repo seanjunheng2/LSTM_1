@@ -1,7 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-114,178393,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,258626,Coronary atherosclerosis and other heart disease,1
-114,178393,2,4111,Intermed coronary synd,Intermediate coronary syndrome,258626,Coronary atherosclerosis and other heart disease,1
-114,178393,3,48283,Pneumo oth grm-neg bact,Pneumonia due to other gram-negative bacteria,258626,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
-114,178393,4,2859,Anemia NOS,"Anemia, unspecified",258626,Deficiency and other anemia,0
-114,178393,5,2720,Pure hypercholesterolem,Pure hypercholesterolemia,258626,Disorders of lipid metabolism,1
-114,178393,6,3051,Tobacco use disorder,Tobacco use disorder,258626,Screening and history of mental health and substance abuse codes,0

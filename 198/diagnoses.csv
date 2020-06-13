@@ -1,5 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-198,131286,1,430,Subarachnoid hemorrhage,Subarachnoid hemorrhage,251887,Acute cerebrovascular disease,1
-198,131286,3,4280,CHF NOS,"Congestive heart failure, unspecified",251887,Congestive heart failure; nonhypertensive,1
-198,131286,4,4019,Hypertension NOS,Unspecified essential hypertension,251887,Essential hypertension,1
-198,131286,5,2720,Pure hypercholesterolem,Pure hypercholesterolemia,251887,Disorders of lipid metabolism,1

@@ -1,5 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-265,101608,1,4240,Mitral valve disorder,Mitral valve disorders,299976,Heart valve disorders,0
-265,101608,2,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris,299976,Coronary atherosclerosis and other heart disease,1
-265,101608,3,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,299976,Coronary atherosclerosis and other heart disease,1
-265,101608,4,4019,Hypertension NOS,Unspecified essential hypertension,299976,Essential hypertension,1

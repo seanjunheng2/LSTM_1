@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-20,157681,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,264490,Coronary atherosclerosis and other heart disease,1
-20,157681,2,4111,Intermed coronary synd,Intermediate coronary syndrome,264490,Coronary atherosclerosis and other heart disease,1
-20,157681,3,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",264490,Diabetes mellitus without complication,1
-20,157681,4,2724,Hyperlipidemia NEC/NOS,Other and unspecified hyperlipidemia,264490,Disorders of lipid metabolism,1
-20,157681,5,4019,Hypertension NOS,Unspecified essential hypertension,264490,Essential hypertension,1

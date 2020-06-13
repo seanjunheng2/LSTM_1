@@ -1,7 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-172,148505,1,8600,Traum pneumothorax-close,Traumatic pneumothorax without mention of open wound into thorax,235343,Crushing injury or internal injury,0
-172,148505,2,07054,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma,235343,Hepatitis,0
-172,148505,3,30390,Alcoh dep NEC/NOS-unspec,"Other and unspecified alcohol dependence, unspecified",235343,Alcohol-related disorders,0
-172,148505,4,30401,Opioid dependence-contin,"Opioid type dependence, continuous",235343,Substance-related disorders,0
-172,148505,5,8760,Open wound of back,"Open wound of back, without mention of complication",235343,Open wounds of head; neck; and trunk,0
-172,148505,6,E966,Assault-cutting instr,Assault by cutting and piercing instrument,235343,Cut/pierceb,0

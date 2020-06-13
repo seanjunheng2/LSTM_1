@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-123,195632,1,41011,"AMI anterior wall, init","Acute myocardial infarction of other anterior wall, initial episode of care",227264,Acute myocardial infarction,1
-123,195632,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,227264,Coronary atherosclerosis and other heart disease,1
-123,195632,3,4019,Hypertension NOS,Unspecified essential hypertension,227264,Essential hypertension,1
-123,195632,4,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",227264,Diabetes mellitus without complication,1
-123,195632,5,3051,Tobacco use disorder,Tobacco use disorder,227264,Screening and history of mental health and substance abuse codes,0

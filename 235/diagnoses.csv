@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-235,117941,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,236962,Coronary atherosclerosis and other heart disease,1
-235,117941,2,4280,CHF NOS,"Congestive heart failure, unspecified",236962,Congestive heart failure; nonhypertensive,1
-235,117941,3,41402,Crn ath atlg vn bps grft,Coronary atherosclerosis of autologous vein bypass graft,236962,Complication of device; implant or graft,0
-235,117941,4,4019,Hypertension NOS,Unspecified essential hypertension,236962,Essential hypertension,1
-235,117941,5,25000,DMII wo cmp nt st uncntr,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",236962,Diabetes mellitus without complication,1
-235,117941,6,2720,Pure hypercholesterolem,Pure hypercholesterolemia,236962,Disorders of lipid metabolism,1
-235,117941,7,5939,Renal & ureteral dis NOS,Unspecified disorder of kidney and ureter,236962,Other diseases of kidney and ureters,0
-235,117941,8,7243,Sciatica,Sciatica,236962,Spondylosis; intervertebral disc disorders; other back problems,0

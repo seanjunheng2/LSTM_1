@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-64,172056,1,4210,Ac/subac bact endocard,Acute and subacute bacterial endocarditis,232593,Peri-; endo-; and myocarditis; cardiomyopathy (except that caused by tuberculosis or sexually transmitted disease),0
-64,172056,2,03811,Meth susc Staph aur sept,Methicillin susceptible Staphylococcus aureus septicemia,232593,Septicemia (except in labor),1
-64,172056,3,99591,Sepsis,Sepsis,232593,Septicemia (except in labor),1
-64,172056,4,30400,Opioid dependence-unspec,"Opioid type dependence, unspecified",232593,Substance-related disorders,0
-64,172056,5,1120,Thrush,Candidiasis of mouth,232593,Mycoses,0
-64,172056,6,5111,Bact pleur/effus not TB,"Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",232593,Pleurisy; pneumothorax; pulmonary collapse,1
-64,172056,8,71107,Pyogen arthritis-ankle,"Pyogenic arthritis, ankle and foot",232593,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),0
-64,172056,9,71104,Pyogen arthritis-hand,"Pyogenic arthritis, hand",232593,Infective arthritis and osteomyelitis (except that caused by tuberculosis or sexually transmitted disease),0

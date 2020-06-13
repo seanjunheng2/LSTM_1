@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-201,161473,1,1505,Mal neo lower 3rd esoph,Malignant neoplasm of lower third of esophagus,258564,Cancer of esophagus,0
-201,161473,2,42731,Atrial fibrillation,Atrial fibrillation,258564,Cardiac dysrhythmias,1
-201,161473,4,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia,258564,Cardiac dysrhythmias,1
-201,161473,5,4275,Cardiac arrest,Cardiac arrest,258564,Cardiac arrest and ventricular fibrillation,0
-201,161473,6,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",258564,Acute and unspecified renal failure,1
-201,161473,7,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,258564,Coronary atherosclerosis and other heart disease,1
-201,161473,8,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,258564,Coronary atherosclerosis and other heart disease,1
-201,161473,9,4019,Hypertension NOS,Unspecified essential hypertension,258564,Essential hypertension,1

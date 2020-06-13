@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-140,165618,1,5307,Mallory-weiss syndrome,Gastroesophageal laceration-hemorrhage syndrome,294530,Gastrointestinal hemorrhage,1
-140,165618,2,2875,Thrombocytopenia NOS,"Thrombocytopenia, unspecified",294530,Coagulation and hemorrhagic disorders,0
-140,165618,3,07054,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma,294530,Hepatitis,0
-140,165618,4,53190,Stomach ulcer NOS,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",294530,Gastroduodenal ulcer (except hemorrhage),0
-140,165618,5,4019,Hypertension NOS,Unspecified essential hypertension,294530,Essential hypertension,1
-140,165618,6,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,294530,Coronary atherosclerosis and other heart disease,1
-140,165618,7,2749,Gout NOS,"Gout, unspecified",294530,Gout and other crystal arthropathies,0
-140,165618,8,V4581,Aortocoronary bypass,Aortocoronary bypass status,294530,Coronary atherosclerosis and other heart disease,1

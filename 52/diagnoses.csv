@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-52,190797,1,7907,Bacteremia,Bacteremia,261857,Septicemia (except in labor),1
-52,190797,2,78039,Convulsions NEC,Other convulsions,261857,Epilepsy; convulsions,0
-52,190797,3,5849,Acute kidney failure NOS,"Acute kidney failure, unspecified",261857,Acute and unspecified renal failure,1
-52,190797,4,58089,Acute nephritis NEC,Acute glomerulonephritis with other specified pathological lesion in kidney,261857,Nephritis; nephrosis; renal sclerosis,0
-52,190797,5,5712,Alcohol cirrhosis liver,Alcoholic cirrhosis of liver,261857,Alcohol-related disorders,0
-52,190797,6,07054,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma,261857,Hepatitis,0
-52,190797,7,04111,Mth sus Stph aur els/NOS,Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site,261857,Bacterial infection; unspecified site,0
-52,190797,8,5728,"Oth sequela, chr liv dis",Other sequelae of chronic liver disease,261857,Other liver diseases,1

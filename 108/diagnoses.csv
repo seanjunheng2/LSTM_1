@@ -1,7 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-108,123552,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,277421,Coronary atherosclerosis and other heart disease,1
-108,123552,2,4111,Intermed coronary synd,Intermediate coronary syndrome,277421,Coronary atherosclerosis and other heart disease,1
-108,123552,3,4019,Hypertension NOS,Unspecified essential hypertension,277421,Essential hypertension,1
-108,123552,4,2720,Pure hypercholesterolem,Pure hypercholesterolemia,277421,Disorders of lipid metabolism,1
-108,123552,5,412,Old myocardial infarct,Old myocardial infarction,277421,Coronary atherosclerosis and other heart disease,1
-108,123552,6,V1582,History of tobacco use,Personal history of tobacco use,277421,Screening and history of mental health and substance abuse codes,0

@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-274,130546,1,430,Subarachnoid hemorrhage,Subarachnoid hemorrhage,254851,Acute cerebrovascular disease,1
-274,130546,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,254851,Aspiration pneumonitis; food/vomitus,0
-274,130546,3,2720,Pure hypercholesterolem,Pure hypercholesterolemia,254851,Disorders of lipid metabolism,1
-274,130546,4,4019,Hypertension NOS,Unspecified essential hypertension,254851,Essential hypertension,1
-274,130546,5,43320,Ocl vrtb art wo infrct,Occlusion and stenosis of vertebral artery without mention of cerebral infarction,254851,Occlusion or stenosis of precerebral arteries,0

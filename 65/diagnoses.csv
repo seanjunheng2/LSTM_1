@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-65,143430,1,80012,Cl skull vlt fx-brf coma,"Closed fracture of vault of skull with cerebral laceration and contusion, with brief [less than one hour] loss of consciousness",244776,Intracranial injury,0
-65,143430,2,30500,Alcohol abuse-unspec,"Alcohol abuse, unspecified",244776,Alcohol-related disorders,0
-65,143430,3,30560,Cocaine abuse-unspec,"Cocaine abuse, unspecified",244776,Substance-related disorders,0
-65,143430,4,E8147,Mv coll w pedest-pedest,Motor vehicle traffic accident involving collision with pedestrian injuring pedestrian,244776,Motor vehicle traffic (MVT),0
-65,143430,5,8730,Open wound of scalp,"Open wound of scalp, without mention of complication",244776,Open wounds of head; neck; and trunk,0
-65,143430,6,7812,Abnormality of gait,Abnormality of gait,244776,Other nervous system disorders,0
-65,143430,7,37854,Sixth nerve palsy,Sixth or abducens nerve palsy,244776,Other eye disorders,0
-65,143430,8,9518,Injury cranial nerve NEC,Injury to other specified cranial nerves,244776,Other injuries and conditions due to external causes,0

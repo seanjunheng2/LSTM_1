@@ -1,6 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-251,117937,1,85300,Traumatic brain hem NEC,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",230307,Intracranial injury,0
-251,117937,2,9130,Abrasion forearm,"Abrasion or friction burn of elbow, forearm, and wrist, without mention of infection",230307,Superficial injury; contusion,0
-251,117937,3,9100,Abrasion head,"Abrasion or friction burn of face, neck, and scalp except eye, without mention of infection",230307,Superficial injury; contusion,0
-251,117937,4,30500,Alcohol abuse-unspec,"Alcohol abuse, unspecified",230307,Alcohol-related disorders,0
-251,117937,5,E8889,Fall NOS,Unspecified fall,230307,Fall,0

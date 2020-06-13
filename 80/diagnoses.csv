@@ -1,4 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-80,115385,1,80416,Cl skl w oth fx-coma NOS,"Closed fractures involving skull or face with other bones, with cerebral laceration and contusion, with loss of consciousness of unspecified duration",256068,Intracranial injury,0
-80,115385,2,87342,Open wound of forehead,"Open wound of forehead, without mention of complication",256068,Open wounds of head; neck; and trunk,0
-80,115385,3,E916,Struck by falling object,Struck accidentally by falling object,256068,Struck by; against,0

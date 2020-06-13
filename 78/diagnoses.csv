@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-78,100536,1,96500,Poisoning-opium NOS,"Poisoning by opium (alkaloids), unspecified",233150,Substance-related disorders,0
-78,100536,2,042,Human immuno virus dis,Human immunodeficiency virus [HIV] disease,233150,HIV infection,0
-78,100536,3,07054,Chrnc hpt C wo hpat coma,Chronic hepatitis C without mention of hepatic coma,233150,Hepatitis,0
-78,100536,4,5715,Cirrhosis of liver NOS,Cirrhosis of liver without mention of alcohol,233150,Other liver diseases,1
-78,100536,5,30401,Opioid dependence-contin,"Opioid type dependence, continuous",233150,Substance-related disorders,0
-78,100536,7,9694,Pois-benzodiazepine tran,Poisoning by benzodiazepine-based tranquilizers,233150,Poisoning by psychotropic agents,0
-78,100536,8,E8502,Acc poison-opiates NEC,Accidental poisoning by other opiates and related narcotics,233150,Poisoning,0
-78,100536,9,E8532,Acc poisn-benzdiaz tranq,Accidental poisoning by benzodiazepine-based tranquilizers,233150,Poisoning,0

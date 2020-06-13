@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-101,175533,1,51881,Acute respiratry failure,Acute respiratory failure,233111,Respiratory failure; insufficiency; arrest (adult),1
-101,175533,2,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,233111,Aspiration pneumonitis; food/vomitus,0
-101,175533,3,48240,Staphylococcal pneu NOS,"Pneumonia due to Staphylococcus, unspecified",233111,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
-101,175533,4,5121,Iatrogenic pneumothorax,Iatrogenic pneumothorax,233111,Complications of surgical procedures or medical care,1
-101,175533,6,4275,Cardiac arrest,Cardiac arrest,233111,Cardiac arrest and ventricular fibrillation,0
-101,175533,7,3481,Anoxic brain damage,Anoxic brain damage,233111,Coma; stupor; and brain damage,0
-101,175533,8,78003,Persistent vegtv state,Persistent vegetative state,233111,Coma; stupor; and brain damage,0
-101,175533,9,2762,Acidosis,Acidosis,233111,Fluid and electrolyte disorders,1

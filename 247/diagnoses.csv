@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-247,189521,1,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,236222,Coronary atherosclerosis and other heart disease,1
-247,189521,2,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",236222,Complications of surgical procedures or medical care,1
-247,189521,3,4139,Angina pectoris NEC/NOS,Other and unspecified angina pectoris,236222,Coronary atherosclerosis and other heart disease,1
-247,189521,4,42731,Atrial fibrillation,Atrial fibrillation,236222,Cardiac dysrhythmias,1
-247,189521,5,4019,Hypertension NOS,Unspecified essential hypertension,236222,Essential hypertension,1
-247,189521,6,2720,Pure hypercholesterolem,Pure hypercholesterolemia,236222,Disorders of lipid metabolism,1
-247,189521,7,311,Depressive disorder NEC,"Depressive disorder, not elsewhere classified",236222,Mood disorders,0
-247,189521,8,V4582,Status-post ptca,Percutaneous transluminal coronary angioplasty status,236222,Coronary atherosclerosis and other heart disease,1

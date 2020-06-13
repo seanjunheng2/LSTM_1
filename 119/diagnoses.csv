@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-119,135738,1,88122,Opn wound wrist w tendon,"Open wound of wrist, with tendon involvement",219425,Open wounds of extremities,0
-119,135738,2,9032,Injury radial vessels,Injury to radial blood vessels,219425,Crushing injury or internal injury,0
-119,135738,3,9033,Injury ulnar vessels,Injury to ulnar blood vessels,219425,Crushing injury or internal injury,0
-119,135738,4,9551,Injury median nerve,Injury to median nerve,219425,Other injuries and conditions due to external causes,0
-119,135738,5,9555,Inj cutan senso nerv/arm,"Injury to cutaneous sensory nerve, upper limb",219425,Other injuries and conditions due to external causes,0
-119,135738,6,9552,Injury ulnar nerve,Injury to ulnar nerve,219425,Other injuries and conditions due to external causes,0
-119,135738,7,E956,Injury-cut instrument,Suicide and self-inflicted injury by cutting and piercing instrument,219425,Suicide and intentional self-inflicted injury,0
-119,135738,8,30590,Drug abuse NEC-unspec,"Other, mixed, or unspecified drug abuse, unspecified",219425,Substance-related disorders,0

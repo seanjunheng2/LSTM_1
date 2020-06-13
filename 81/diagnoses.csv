@@ -1,4 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-81,175016,1,431,Intracerebral hemorrhage,Intracerebral hemorrhage,222874,Acute cerebrovascular disease,1
-81,175016,2,20210,Mycs fng unsp xtrndl org,"Mycosis fungoides, unspecified site, extranodal and solid organ sites",222874,Non-Hodgkin`s lymphoma,0
-81,175016,3,4019,Hypertension NOS,Unspecified essential hypertension,222874,Essential hypertension,1

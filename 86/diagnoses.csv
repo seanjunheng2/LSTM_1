@@ -1,3 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-86,190243,1,74561,Ostium primum defect,Ostium primum defect,206222,Cardiac and circulatory congenital anomalies,0
-86,190243,2,4240,Mitral valve disorder,Mitral valve disorders,206222,Heart valve disorders,0

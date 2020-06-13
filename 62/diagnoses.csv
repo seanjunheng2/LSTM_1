@@ -1,7 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-62,116009,1,1125,Disseminated candidiasis,Disseminated candidiasis,216609,Mycoses,0
-62,116009,2,03849,Gram-neg septicemia NEC,Other septicemia due to gram-negative organisms,216609,Septicemia (except in labor),1
-62,116009,3,7100,Syst lupus erythematosus,Systemic lupus erythematosus,216609,Systemic lupus erythematosus and connective tissue disorders,0
-62,116009,4,99591,Sepsis,Sepsis,216609,Septicemia (except in labor),1
-62,116009,5,2859,Anemia NOS,"Anemia, unspecified",216609,Deficiency and other anemia,0
-62,116009,6,7140,Rheumatoid arthritis,Rheumatoid arthritis,216609,Rheumatoid arthritis and related disease,0

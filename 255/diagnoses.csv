@@ -1,5 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-255,112013,1,60000,BPH w/o urinary obs/LUTS,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),209952,Hyperplasia of prostate,0
-255,112013,2,99811,Hemorrhage complic proc,Hemorrhage complicating a procedure,209952,Complications of surgical procedures or medical care,1
-255,112013,3,2851,Ac posthemorrhag anemia,Acute posthemorrhagic anemia,209952,Acute posthemorrhagic anemia,0
-255,112013,4,42789,Cardiac dysrhythmias NEC,Other specified cardiac dysrhythmias,209952,Cardiac dysrhythmias,1

@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-194,124794,1,41041,"AMI inferior wall, init","Acute myocardial infarction of other inferior wall, initial episode of care",231286,Acute myocardial infarction,1
-194,124794,2,41401,Crnry athrscl natve vssl,Coronary atherosclerosis of native coronary artery,231286,Coronary atherosclerosis and other heart disease,1
-194,124794,3,99672,Comp-oth cardiac device,"Other complications due to other cardiac device, implant, and graft",231286,Complication of device; implant or graft,0
-194,124794,4,9971,Surg compl-heart,"Cardiac complications, not elsewhere classified",231286,Complications of surgical procedures or medical care,1
-194,124794,5,4275,Cardiac arrest,Cardiac arrest,231286,Cardiac arrest and ventricular fibrillation,0
-194,124794,6,4271,Parox ventric tachycard,Paroxysmal ventricular tachycardia,231286,Cardiac dysrhythmias,1
-194,124794,7,42731,Atrial fibrillation,Atrial fibrillation,231286,Cardiac dysrhythmias,1
-194,124794,9,5771,Chronic pancreatitis,Chronic pancreatitis,231286,Pancreatic disorders (not diabetes),0

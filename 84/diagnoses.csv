@@ -1,5 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-84,166401,1,1919,Malig neo brain NOS,"Malignant neoplasm of brain, unspecified",239661,Cancer of brain and nervous system,0
-84,166401,2,3484,Compression of brain,Compression of brain,239661,Other nervous system disorders,0
-84,166401,3,78701,Nausea with vomiting,Nausea with vomiting,239661,Nausea and vomiting,0
-84,166401,4,56400,Constipation NOS,"Constipation, unspecified",239661,Other gastrointestinal disorders,0

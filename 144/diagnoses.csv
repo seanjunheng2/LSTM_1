@@ -1,4 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-144,137432,1,85221,Subdural hem w/o coma,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",269520,Intracranial injury,0
-144,137432,2,83900,Disloc cerv vert NOS-cl,"Closed dislocation, cervical vertebra, unspecified",269520,Joint disorders and dislocations; trauma-related,0
-144,137432,3,E8810,Fall from ladder,Accidental fall from ladder,269520,Fall,0

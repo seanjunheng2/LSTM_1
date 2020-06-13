@@ -1,9 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-221,189243,1,85142,Cerebell contus-brf coma,"Cerebellar or brain stem contusion without mention of open intracranial wound, with brief [less than one hour] loss of consciousness",247500,Intracranial injury,0
-221,189243,2,86121,Lung contusion-closed,Contusion of lung without mention of open wound into thorax,247500,Crushing injury or internal injury,0
-221,189243,3,9584,Traumatic shock,Traumatic shock,247500,Other injuries and conditions due to external causes,0
-221,189243,4,5070,Food/vomit pneumonitis,Pneumonitis due to inhalation of food or vomitus,247500,Aspiration pneumonitis; food/vomitus,0
-221,189243,6,48230,Streptococcal pneumn NOS,"Pneumonia due to Streptococcus, unspecified",247500,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
-221,189243,7,E8120,Mv collision NOS-driver,Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle,247500,Motor vehicle traffic (MVT),0
-221,189243,8,8700,Lac eyelid skn/perioculr,Laceration of skin of eyelid and periocular area,247500,Open wounds of head; neck; and trunk,0
-221,189243,9,87343,Open wound of lip,"Open wound of lip, without mention of complication",247500,Open wounds of head; neck; and trunk,0

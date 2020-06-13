@@ -1,7 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-96,170324,1,85181,Brain lacer NEC w/o coma,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with no loss of consciousness",211943,Intracranial injury,0
-96,170324,2,8072,Fracture of sternum-clos,Closed fracture of sternum,211943,Other fractures,0
-96,170324,4,86402,"Liver laceration, minor","Injury to liver without mention of open wound into cavity, laceration, minor",211943,Crushing injury or internal injury,0
-96,170324,5,86509,Spleen injury NEC-closed,Other injury into spleen without mention of open wound into cavity,211943,Crushing injury or internal injury,0
-96,170324,8,4821,Pseudomonal pneumonia,Pneumonia due to Pseudomonas,211943,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
-96,170324,9,8604,Traum pneumohemothor-cl,Traumatic pneumohemothorax without mention of open wound into thorax,211943,Crushing injury or internal injury,0

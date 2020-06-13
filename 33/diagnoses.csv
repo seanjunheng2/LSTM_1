@@ -1,4 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-33,176176,1,0389,Septicemia NOS,Unspecified septicemia,296681,Septicemia (except in labor),1
-33,176176,2,4928,Emphysema NEC,Other emphysema,296681,Chronic obstructive pulmonary disease and bronchiectasis,1
-33,176176,3,49390,Asthma NOS,"Asthma, unspecified type, unspecified",296681,Asthma,0

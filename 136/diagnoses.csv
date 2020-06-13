@@ -1,5 +1,0 @@
-SUBJECT_ID,HADM_ID,SEQ_NUM,ICD9_CODE,SHORT_TITLE,LONG_TITLE,ICUSTAY_ID,HCUP_CCS_2015,USE_IN_BENCHMARK
-136,184644,1,4375,Moyamoya disease,Moyamoya disease,203947,Other and ill-defined cerebrovascular disease,0
-136,184644,2,486,"Pneumonia, organism NOS","Pneumonia, organism unspecified",203947,Pneumonia (except that caused by tuberculosis or sexually transmitted disease),1
-136,184644,3,2720,Pure hypercholesterolem,Pure hypercholesterolemia,203947,Disorders of lipid metabolism,1
-136,184644,4,4019,Hypertension NOS,Unspecified essential hypertension,203947,Essential hypertension,1
