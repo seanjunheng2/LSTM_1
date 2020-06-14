@@ -1,0 +1,12 @@
+Hours,Alanine aminotransferase,Albumin,Alkaline phosphate,Anion gap,Asparate aminotransferase,Basophils,Bicarbonate,Bilirubin Conjugated,Bilirubin Total,Bilirubin Unconjugated,Blood urea nitrogen,Calcium Free,Calcium Total,Capillary refill rate,Chloride,Cholesterol HDL,Cholesterol LDL,Cholesterol Total,Creatinine Serum,Creatinine Urine,Diastolic blood pressure,Fraction inspired oxygen,Glascow coma scale eye opening,Glascow coma scale motor response,Glascow coma scale total,Glascow coma scale verbal response,Glucose,Heart Rate,Height,Hematocrit,Hemoglobin,Lactate,Lactate dehydrogenase,Lymphocytes,Lymphocytes Atypical,Magnesium,Mean blood pressure,Mean corpuscular hemoglobin,Mean corpuscular hemoglobin concentration,Mean corpuscular volume,Monocytes,Neutrophils,Oxygen saturation,Partial pressure of carbon dioxide,Partial pressure of oxygen,Partial thromboplastin time,Phosphate,Platelets,Potassium,Prothrombin time,Red blood cell count,Respiratory rate,Sodium,Systolic blood pressure,Temperature,Troponin-I,Troponin-T,Weight,White blood cell count,pH,pH Urine
+0.12000000000000001,,,,,,,,,,,,,,,,,,,,,50.0,,1 No Response,1 No Response,3,1 No Response,,85,,,,,,,,,92,,,,,,100.0,,,,,,,,,33,,176.0,,,,,,,
+0.2033333333333333,,,,,,,,,,,,,,,,,,,,,50.0,,1 No Response,1 No Response,3,1 No Response,,85,,,,,,,,,77.333297729492188,,,,,,99.0,,,,,,,,,20,,132.0,,,,,,,
+0.2866666666666667,,,,,,,,,,,,,,,,,,,,,46.0,,,,,,,83,,,,,,,,,78.666702270507812,,,,,,100.0,,,,,,,,,15,,144.0,,,,,,,
+0.37,,,,,,,,,,,,,,,,,,,,,62.0,,3 To speech,5 Localizes Pain,9,1 No Response,,86,,,,,,,,,100.33300018310547,,,,,,100.0,,,,,,,,,14,,177.0,,,,,,,
+0.4533333333333333,,,,,,,,,,,,,,,,,,,,,63.0,,3 To speech,,,1 No Response,,84,,,,,,,,,97.666702270507812,,,,,,99.0,,,,,,,,,11,,167.0,,,,,,,
+0.5366666666666667,,,,,,,,,,,,,,,,,,,,,53.0,,,,,,,85,,,,,,,,,90,,,,,,95.0,,,,,,,,,16,,164.0,,,,,,,
+0.62,,,,,,,,,,,,,,,,,,,,,52.0,,3 To speech,6 Obeys Commands,11,2 Incomp sounds,,85,,,,,,,,,85.666702270507812,,,,,,95.0,,,,,,,,,16,,153.0,,,,,,,
+0.87,,,,,,,,,,,,,,,,,,,,,53.0,,,,,,,84,,,,,,,,,87.333297729492188,,,,,,95.0,,,,,,,,,12,,156.0,,,,,,,
+1.12,,,,,,,,,,,,,,,,,,,,,62.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,88,,,,,,,,,88,,,,,,96.0,,,,,,,,,28,,140.0,,,,,,,
+1.37,,,,,,,,,,,,,,,,,,,,,55.0,,4 Spontaneously,6 Obeys Commands,15,5 Oriented,,82,,,,,,,,,91,,,,,,95.0,,,,,,,,,25,,163.0,,,,,,,
+1.87,,,,,,,,,,,,,,,,,,,,,51.0,,,,,,,79,,,,,,,,,91.666702270507812,,,,,,97.0,,,,,,,,,20,,173.0,,,,,,,
